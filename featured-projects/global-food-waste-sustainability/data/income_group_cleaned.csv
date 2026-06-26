@@ -1,0 +1,219 @@
+data,source,year,economy,code,region,income_group,lending_category
+Income Group,World Bank Open Data,2024,Afghanistan,AFG,"Middle East, North Africa, Afghanistan & Pakistan",Low Income,IDA
+Income Group,World Bank Open Data,2024,Albania,ALB,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Algeria,DZA,"Middle East, North Africa, Afghanistan & Pakistan",Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,American Samoa,ASM,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Andorra,AND,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Angola,AGO,Sub-Saharan Africa,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Antigua and Barbuda,ATG,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Argentina,ARG,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Armenia,ARM,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Aruba,ABW,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Australia,AUS,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Austria,AUT,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Azerbaijan,AZE,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,"Bahamas, The",BHS,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Bahrain,BHR,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Bangladesh,BGD,South Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Barbados,BRB,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Belarus,BLR,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Belgium,BEL,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Belize,BLZ,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Benin,BEN,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Bermuda,BMU,North America,High Income,
+Income Group,World Bank Open Data,2024,Bhutan,BTN,South Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Bolivia,BOL,Latin America & Caribbean,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Botswana,BWA,Sub-Saharan Africa,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Brazil,BRA,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,British Virgin Islands,VGB,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Brunei Darussalam,BRN,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Bulgaria,BGR,Europe & Central Asia,High Income,IBRD
+Income Group,World Bank Open Data,2024,Burkina Faso,BFA,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Burundi,BDI,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Cabo Verde,CPV,Sub-Saharan Africa,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Cambodia,KHM,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Cameroon,CMR,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Canada,CAN,North America,High Income,
+Income Group,World Bank Open Data,2024,Cayman Islands,CYM,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Central African Republic,CAF,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Chad,TCD,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Channel Islands,CHI,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Chile,CHL,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,China,CHN,East Asia & Pacific,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Colombia,COL,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Comoros,COM,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,"Congo, Rep.",COG,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Costa Rica,CRI,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Côte d’Ivoire,CIV,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Croatia,HRV,Europe & Central Asia,High Income,IBRD
+Income Group,World Bank Open Data,2024,Cuba,CUB,Latin America & Caribbean,Upper Middle Income,
+Income Group,World Bank Open Data,2024,Curaçao,CUW,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Cyprus,CYP,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Czechia,CZE,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Denmark,DNK,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Djibouti,DJI,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Dominica,DMA,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Dominican Republic,DOM,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Ecuador,ECU,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,"Egypt, Arab Rep.",EGY,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,El Salvador,SLV,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Eritrea,ERI,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Estonia,EST,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Eswatini,SWZ,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Ethiopia,ETH,Sub-Saharan Africa,,IDA
+Income Group,World Bank Open Data,2024,Faroe Islands,FRO,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Fiji,FJI,East Asia & Pacific,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Finland,FIN,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,France,FRA,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,French Polynesia,PYF,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Gabon,GAB,Sub-Saharan Africa,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,"Gambia, The",GMB,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Georgia,GEO,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Germany,DEU,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Ghana,GHA,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Gibraltar,GIB,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Greece,GRC,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Greenland,GRL,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Grenada,GRD,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Guam,GUM,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Guatemala,GTM,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Guinea,GIN,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Guinea-Bissau,GNB,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Guyana,GUY,Latin America & Caribbean,High Income,IDA
+Income Group,World Bank Open Data,2024,Haiti,HTI,Latin America & Caribbean,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Honduras,HND,Latin America & Caribbean,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,"Hong Kong SAR, China",HKG,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Hungary,HUN,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Iceland,ISL,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,India,IND,South Asia,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Indonesia,IDN,East Asia & Pacific,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,"Iran, Islamic Rep.",IRN,"Middle East, North Africa, Afghanistan & Pakistan",Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Iraq,IRQ,"Middle East, North Africa, Afghanistan & Pakistan",Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Ireland,IRL,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Isle of Man,IMN,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Israel,ISR,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Italy,ITA,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Jamaica,JAM,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Japan,JPN,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Jordan,JOR,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Kazakhstan,KAZ,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Kenya,KEN,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Kiribati,KIR,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,"Korea, Dem. People's Rep.",PRK,East Asia & Pacific,Low Income,
+Income Group,World Bank Open Data,2024,"Korea, Rep.",KOR,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Kosovo,XKX,Europe & Central Asia,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,Kuwait,KWT,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Lao PDR,LAO,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Latvia,LVA,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Lebanon,LBN,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Lesotho,LSO,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Liberia,LBR,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Libya,LBY,"Middle East, North Africa, Afghanistan & Pakistan",Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Liechtenstein,LIE,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Lithuania,LTU,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Luxembourg,LUX,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,"Macao SAR, China",MAC,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Madagascar,MDG,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Malawi,MWI,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Malaysia,MYS,East Asia & Pacific,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Maldives,MDV,South Asia,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,Mali,MLI,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Malta,MLT,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Marshall Islands,MHL,East Asia & Pacific,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,Mauritania,MRT,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Mauritius,MUS,Sub-Saharan Africa,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Mexico,MEX,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Moldova,MDA,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Monaco,MCO,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Mongolia,MNG,East Asia & Pacific,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Montenegro,MNE,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Morocco,MAR,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Mozambique,MOZ,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Myanmar,MMR,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Namibia,NAM,Sub-Saharan Africa,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Nauru,NRU,East Asia & Pacific,High Income,IBRD
+Income Group,World Bank Open Data,2024,Nepal,NPL,South Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Netherlands,NLD,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,New Caledonia,NCL,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,New Zealand,NZL,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Nicaragua,NIC,Latin America & Caribbean,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Niger,NER,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Nigeria,NGA,Sub-Saharan Africa,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,North Macedonia,MKD,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Northern Mariana Islands,MNP,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Norway,NOR,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Oman,OMN,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Pakistan,PAK,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Palau,PLW,East Asia & Pacific,High Income,IBRD
+Income Group,World Bank Open Data,2024,Panama,PAN,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Papua New Guinea,PNG,East Asia & Pacific,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Paraguay,PRY,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Peru,PER,Latin America & Caribbean,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Philippines,PHL,East Asia & Pacific,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Poland,POL,Europe & Central Asia,High Income,IBRD
+Income Group,World Bank Open Data,2024,Portugal,PRT,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Puerto Rico (U.S.),PRI,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Qatar,QAT,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Romania,ROU,Europe & Central Asia,High Income,IBRD
+Income Group,World Bank Open Data,2024,Russian Federation,RUS,Europe & Central Asia,High Income,IBRD
+Income Group,World Bank Open Data,2024,Rwanda,RWA,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Samoa,WSM,East Asia & Pacific,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,San Marino,SMR,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,São Tomé and Príncipe,STP,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Saudi Arabia,SAU,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,Senegal,SEN,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Serbia,SRB,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Seychelles,SYC,Sub-Saharan Africa,High Income,IBRD
+Income Group,World Bank Open Data,2024,Sierra Leone,SLE,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Singapore,SGP,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Sint Maarten (Dutch part),SXM,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Slovak Republic,SVK,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Slovenia,SVN,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Solomon Islands,SLB,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,"Somalia, Fed. Rep.",SOM,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,South Africa,ZAF,Sub-Saharan Africa,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,South Sudan,SSD,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Spain,ESP,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Sri Lanka,LKA,South Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,St. Kitts and Nevis,KNA,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,St. Lucia,LCA,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,St. Martin (French part),MAF,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Sudan,SDN,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Suriname,SUR,Latin America & Caribbean,Upper Middle Income,Blend
+Income Group,World Bank Open Data,2024,Sweden,SWE,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Switzerland,CHE,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,Syrian Arab Republic,SYR,"Middle East, North Africa, Afghanistan & Pakistan",Low Income,IDA
+Income Group,World Bank Open Data,2024,"Taiwan, China",TWN,East Asia & Pacific,High Income,
+Income Group,World Bank Open Data,2024,Tajikistan,TJK,Europe & Central Asia,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Tanzania,TZA,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Thailand,THA,East Asia & Pacific,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Timor-Leste,TLS,East Asia & Pacific,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Togo,TGO,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Tonga,TON,East Asia & Pacific,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,Trinidad and Tobago,TTO,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Tunisia,TUN,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Türkiye,TUR,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Turkmenistan,TKM,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Turks and Caicos Islands,TCA,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,Tuvalu,TUV,East Asia & Pacific,Upper Middle Income,IDA
+Income Group,World Bank Open Data,2024,Uganda,UGA,Sub-Saharan Africa,Low Income,IDA
+Income Group,World Bank Open Data,2024,Ukraine,UKR,Europe & Central Asia,Upper Middle Income,IBRD
+Income Group,World Bank Open Data,2024,United Arab Emirates,ARE,"Middle East, North Africa, Afghanistan & Pakistan",High Income,
+Income Group,World Bank Open Data,2024,United Kingdom,GBR,Europe & Central Asia,High Income,
+Income Group,World Bank Open Data,2024,United States,USA,North America,High Income,
+Income Group,World Bank Open Data,2024,Uruguay,URY,Latin America & Caribbean,High Income,IBRD
+Income Group,World Bank Open Data,2024,Uzbekistan,UZB,Europe & Central Asia,Lower Middle Income,Blend
+Income Group,World Bank Open Data,2024,Vanuatu,VUT,East Asia & Pacific,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,"Venezuela, RB",VEN,Latin America & Caribbean,,IBRD
+Income Group,World Bank Open Data,2024,Vietnam,VNM,East Asia & Pacific,Lower Middle Income,IBRD
+Income Group,World Bank Open Data,2024,Virgin Islands (U.S.),VIR,Latin America & Caribbean,High Income,
+Income Group,World Bank Open Data,2024,West Bank and Gaza,PSE,"Middle East, North Africa, Afghanistan & Pakistan",Lower Middle Income,
+Income Group,World Bank Open Data,2024,"Yemen, Rep.",YEM,"Middle East, North Africa, Afghanistan & Pakistan",Low Income,IDA
+Income Group,World Bank Open Data,2024,Zambia,ZMB,Sub-Saharan Africa,Lower Middle Income,IDA
+Income Group,World Bank Open Data,2024,Zimbabwe,ZWE,Sub-Saharan Africa,Lower Middle Income,Blend

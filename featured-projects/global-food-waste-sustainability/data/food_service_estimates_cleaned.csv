@@ -1,0 +1,234 @@
+sector,source,year,region,m49_code,country,food_service_kg_per_capita_year,food_service_tonnes_year,confidence_in_estimate
+Food Service,UNEP Food Waste Index Report 2024,2024,Australia and New Zealand,36,Australia,58,1524669,High Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Australia and New Zealand,554,New Zealand,39,204552,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Central Asia,398,Kazakhstan,31,595583,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Central Asia,417,Kyrgyzstan,31,206441,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Central Asia,762,Tajikistan,31,309818,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Central Asia,795,Turkmenistan,31,197402,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Central Asia,860,Uzbekistan,31,1078289,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,156,China,46,65071246,High Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,344,"China, Hong Kong SAR",25,185069,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,446,"China, Macao SAR",25,17296,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,408,Dem. People's Rep. Korea,30,781678,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,392,Japan,12,1490488,High Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,496,Mongolia,30,101945,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Asia,410,Republic of Korea,25,1280410,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,112,Belarus,17,164273,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,100,Bulgaria,2,13560,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,203,Czechia,4,41960,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,348,Hungary,2,19940,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,616,Poland,5,199300,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,498,Republic of Moldova,17,56308,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,642,Romania,12,239125,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,643,Russian Federation,8,1220199,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,703,Slovakia,1,5640,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Eastern Europe,804,Ukraine,17,692291,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,660,Anguilla,23,456,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,28,Antigua and Barbuda,42,3824,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,32,Argentina,48,2163862,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,533,Aruba,42,4674,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,44,Bahamas,42,17421,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,52,Barbados,42,11897,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,84,Belize,48,19494,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,68,Bolivia (Plurin. State of),48,583696,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,535,"Bonaire, St. Eustatius & Saba",23,685,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,76,Brazil,48,10237337,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,92,British Virgin Islands,42,1275,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,136,Cayman Islands,42,2974,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,152,Chile,42,832815,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,170,Colombia,48,2466261,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,188,Costa Rica,48,246293,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,192,Cuba,48,533001,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,531,Curaçao,42,8073,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,212,Dominica,48,3328,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,214,Dominican Republic,48,533952,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,218,Ecuador,48,855845,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,222,El Salvador,48,301448,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,238,Falkland Islands (Malvinas),23,,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,254,French Guiana,23,6845,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,308,Grenada,48,6181,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,312,Guadeloupe,23,9127,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,320,Guatemala,48,848238,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,328,Guyana,42,34417,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,332,Haiti,48,553603,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,340,Honduras,48,498195,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,388,Jamaica,48,134558,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,474,Martinique,23,8443,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,484,Mexico,64,8210204,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,500,Montserrat,23,,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,558,Nicaragua,48,331971,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,591,Panama,42,187383,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,600,Paraguay,48,322368,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,604,Peru,48,1618974,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,630,Puerto Rico,42,138094,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,652,Saint Barthélemy,23,228,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,659,Saint Kitts and Nevis,42,2125,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,662,Saint Lucia,48,8558,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,663,Saint Martin (French part),42,1275,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,670,Saint Vincent & Grenadines,48,4755,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,534,Sint Maarten (Dutch part),42,1700,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,740,Suriname,48,29479,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,780,Trinidad and Tobago,42,65011,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,796,Turks and Caicos Islands,42,2125,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,850,United States Virgin Islands,42,4249,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,858,Uruguay,42,145318,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Latin America and the Caribbean,862,Venezuela (Boliv. Rep. of),23,645747,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Melanesia,242,Fiji,31,28551,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Melanesia,540,New Caledonia,21,5970,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Melanesia,598,Papua New Guinea,31,315734,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Melanesia,90,Solomon Islands,31,22419,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Melanesia,548,Vanuatu,31,10275,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,316,Guam,21,3500,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,296,Kiribati,31,4048,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,584,Marshall Islands,31,1228,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,583,Micronesia (Fed. States of),31,3425,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,520,Nauru,21,206,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,580,Northern Mariana Islands,21,1029,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Micronesia,585,Palau,31,614,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,12,Algeria,31,1398071,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,818,Egypt,31,3455944,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,434,Libya,31,209068,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,504,Morocco,31,1166408,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,729,Sudan,31,1459412,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,788,Tunisia,31,384859,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Africa,732,Western Sahara,23,13234,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern America,60,Bermuda,49,2919,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern America,124,Canada,80,3064632,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern America,304,Greenland,49,2919,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern America,666,Saint Pierre and Miquelon,23,228,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern America,840,United States of America,74,24939986,High Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,208,Denmark,11,64680,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,233,Estonia,8,10640,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,234,Faroe Islands,18,885,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,246,Finland,14,77560,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,352,Iceland,18,6547,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,372,Ireland,36,180720,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,833,Isle of Man,18,1415,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,428,Latvia,19,35150,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,440,Lithuania,2,5500,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,578,Norway,18,97740,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,752,Sweden,9,94950,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Northern Europe,826,United Kingdom,16,1093662,High Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,16,American Samoa,21,823,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,184,Cook Islands,23,456,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,258,French Polynesia,21,6382,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,570,Niue,23,,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,882,Samoa,31,6850,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,772,Tokelau,23,,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,776,Tonga,31,3377,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,798,Tuvalu,31,307,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Polynesia,876,Wallis and Futuna Islands,23,228,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,96,Brunei Darussalam,35,15776,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,116,Cambodia,40,676397,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,360,Indonesia,40,11051710,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,418,Lao People's Dem. Rep.,40,303713,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,458,Malaysia,50,1681049,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,104,Myanmar,40,2185282,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,608,Philippines,40,4660966,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,702,Singapore,35,209651,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,764,Thailand,40,2876253,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,626,Timor-Leste,40,54047,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,South-eastern Asia,704,Viet Nam,40,3960369,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,4,Afghanistan,32,1336124,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,50,Bangladesh,32,5561174,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,64,Bhutan,32,25339,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,356,India,32,46037319,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,364,Iran (Islamic Republic of),32,2876581,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,462,Maldives,34,17593,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,524,Nepal,32,992429,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,586,Pakistan,32,7660705,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Asia,144,Sri Lanka,32,709156,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,8,Albania,25,69686,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,20,Andorra,19,1558,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,70,Bosnia and Herzegovina,25,79256,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,191,Croatia,4,16120,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,292,Gibraltar,19,584,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,300,Greece,21,218190,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,336,Holy See,23,,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,380,Italy,19,1150162,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,470,Malta,45,23850,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,499,Montenegro,25,15459,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,807,North Macedonia,25,51283,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,620,Portugal,23,236210,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,674,San Marino,19,584,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,688,Serbia,12,83920,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,705,Slovenia,20,42400,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Southern Europe,724,Spain,4,190240,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,24,Angola,31,1108181,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,204,Benin,31,415685,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,72,Botswana,31,81316,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,854,Burkina Faso,31,705886,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,108,Burundi,31,401362,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,132,Cabo Verde,31,18371,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,120,Cameroon,31,869046,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,140,Central African Republic,31,173747,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,148,Chad,31,551755,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,174,Comoros,31,26155,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,178,Congo,31,185891,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,384,Côte d’Ivoire,31,876830,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,180,Dem. Rep. of the Congo,31,3082918,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,262,Djibouti,31,34874,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,226,Equatorial Guinea,31,51634,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,232,Eritrea,31,114586,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,748,Eswatini,31,37365,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,231,Ethiopia,31,3841737,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,266,Gabon,31,73896,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,270,Gambia,31,84382,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,288,Ghana,31,1042481,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,324,Guinea,31,431565,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,624,Guinea-Bissau,31,65700,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,404,Kenya,31,1682356,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,426,Lesotho,31,71927,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,430,Liberia,31,165028,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,450,Madagascar,31,921980,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,454,Malawi,31,635515,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,466,Mali,31,703395,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,478,Mauritania,31,147591,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,480,Mauritius,31,40194,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,175,Mayotte,23,7530,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,508,Mozambique,31,1026601,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,516,Namibia,31,79461,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,562,Niger,31,816112,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,566,Nigeria,31,6804776,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,638,Réunion,23,22133,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,646,Rwanda,31,429074,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,654,Saint Helena,23,228,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,678,Sao Tome and Principe,31,7162,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,686,Senegal,31,539300,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,690,Seychelles,26,2845,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,694,Sierra Leone,31,268093,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,706,Somalia,31,548019,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,710,South Africa,31,1851727,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,728,South Sudan,31,339709,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,768,Togo,31,275566,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,800,Uganda,31,1471244,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,834,United Rep. of Tanzania,31,2039502,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,894,Zambia,31,623371,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Sub-Saharan Africa,716,Zimbabwe,31,508163,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,51,Armenia,29,81737,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,31,Azerbaijan,29,304604,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,48,Bahrain,24,35788,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,196,Cyprus,30,37500,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,268,Georgia,29,109963,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,368,Iraq,30,1341832,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,376,Israel,24,218382,Medium Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,400,Jordan,30,334416,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,414,Kuwait,24,103955,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,422,Lebanon,30,162617,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,512,Oman,24,111502,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,634,Qatar,24,65733,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,682,Saudi Arabia,24,886420,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,275,State of Palestine,29,154360,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,760,Syrian Arab Republic,30,655502,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,792,Turkey,29,2509158,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,784,United Arab Emirates,24,229822,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Asia,887,Yemen,30,998212,Very Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,40,Austria,23,205620,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,56,Belgium,8,93280,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,250,France,16,1034080,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,276,Germany,22,1834140,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,438,Liechtenstein,19,751,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,442,Luxembourg,14,9100,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,492,Monaco,19,751,Low Confidence
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,528,Netherlands,5,87800,Eurostat
+Food Service,UNEP Food Waste Index Report 2024,2024,Western Europe,756,Switzerland,31,268739,Medium Confidence

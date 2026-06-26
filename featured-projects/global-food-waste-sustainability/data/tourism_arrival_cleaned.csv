@@ -1,0 +1,1300 @@
+data,source,country_name,country_code,indicator_name,indicator_code,year,tourism_arrivals
+International Tourism Arrivals,World Bank Open Data,Aruba,ABW,"International tourism, number of arrivals",ST.INT.ARVL,2015,1832000.0
+International Tourism Arrivals,World Bank Open Data,Africa Eastern and Southern,AFE,"International tourism, number of arrivals",ST.INT.ARVL,2015,35318681.4645499
+International Tourism Arrivals,World Bank Open Data,Africa Western and Central,AFW,"International tourism, number of arrivals",ST.INT.ARVL,2015,13311681.7254405
+International Tourism Arrivals,World Bank Open Data,Angola,AGO,"International tourism, number of arrivals",ST.INT.ARVL,2015,592000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2015,4131000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2015,7850000.0
+International Tourism Arrivals,World Bank Open Data,Arab World,ARB,"International tourism, number of arrivals",ST.INT.ARVL,2015,122563985.747808
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2015,19313000.0
+International Tourism Arrivals,World Bank Open Data,Argentina,ARG,"International tourism, number of arrivals",ST.INT.ARVL,2015,6816000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2015,1192000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2015,20299.9992370605
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2015,894000.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2015,7449000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2015,26728000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2015,2006000.0
+International Tourism Arrivals,World Bank Open Data,Burundi,BDI,"International tourism, number of arrivals",ST.INT.ARVL,2015,131000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2015,8355000.0
+International Tourism Arrivals,World Bank Open Data,Benin,BEN,"International tourism, number of arrivals",ST.INT.ARVL,2015,279000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2015,163000.0
+International Tourism Arrivals,World Bank Open Data,Bangladesh,BGD,"International tourism, number of arrivals",ST.INT.ARVL,2015,126000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2015,9317000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2015,9670000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2015,6112000.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2015,678000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2015,4386000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2015,1299000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2015,597000.0
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2015,882000.0
+International Tourism Arrivals,World Bank Open Data,Brazil,BRA,"International tourism, number of arrivals",ST.INT.ARVL,2015,6306000.0
+International Tourism Arrivals,World Bank Open Data,Barbados,BRB,"International tourism, number of arrivals",ST.INT.ARVL,2015,1179000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2015,155000.0
+International Tourism Arrivals,World Bank Open Data,Botswana,BWA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1660000.0
+International Tourism Arrivals,World Bank Open Data,Central African Republic,CAF,"International tourism, number of arrivals",ST.INT.ARVL,2015,120500.0
+International Tourism Arrivals,World Bank Open Data,Canada,CAN,"International tourism, number of arrivals",ST.INT.ARVL,2015,27555000.0
+International Tourism Arrivals,World Bank Open Data,Central Europe and the Baltics,CEB,"International tourism, number of arrivals",ST.INT.ARVL,2015,265484205.126514
+International Tourism Arrivals,World Bank Open Data,Switzerland,CHE,"International tourism, number of arrivals",ST.INT.ARVL,2015,9305000.0
+International Tourism Arrivals,World Bank Open Data,Chile,CHL,"International tourism, number of arrivals",ST.INT.ARVL,2015,5487000.0
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2015,133820000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2015,1441000.0
+International Tourism Arrivals,World Bank Open Data,Cameroon,CMR,"International tourism, number of arrivals",ST.INT.ARVL,2015,897000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Dem. Rep.",COD,"International tourism, number of arrivals",ST.INT.ARVL,2015,354000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Rep.",COG,"International tourism, number of arrivals",ST.INT.ARVL,2015,224000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2015,3371000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2015,23600.0003814697
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2015,520000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2015,2899000.0
+International Tourism Arrivals,World Bank Open Data,Caribbean small states,CSS,"International tourism, number of arrivals",ST.INT.ARVL,2015,17200000.0
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2015,3540000.0
+International Tourism Arrivals,World Bank Open Data,Curacao,CUW,"International tourism, number of arrivals",ST.INT.ARVL,2015,1072000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2015,2102000.0
+International Tourism Arrivals,World Bank Open Data,Cyprus,CYP,"International tourism, number of arrivals",ST.INT.ARVL,2015,2780000.0
+International Tourism Arrivals,World Bank Open Data,Czechia,CZE,"International tourism, number of arrivals",ST.INT.ARVL,2015,29604000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2015,34970000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2015,358000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2015,28209000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2015,6129000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1710000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (excluding high income),EAP,"International tourism, number of arrivals",ST.INT.ARVL,2015,232372388.217065
+International Tourism Arrivals,World Bank Open Data,Early-demographic dividend,EAR,"International tourism, number of arrivals",ST.INT.ARVL,2015,305091375.489381
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific,EAS,"International tourism, number of arrivals",ST.INT.ARVL,2015,395583346.130267
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (excluding high income),ECA,"International tourism, number of arrivals",ST.INT.ARVL,2015,142759135.170721
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia,ECS,"International tourism, number of arrivals",ST.INT.ARVL,2015,1026805426.07725
+International Tourism Arrivals,World Bank Open Data,Ecuador,ECU,"International tourism, number of arrivals",ST.INT.ARVL,2015,1676000.0
+International Tourism Arrivals,World Bank Open Data,"Egypt, Arab Rep.",EGY,"International tourism, number of arrivals",ST.INT.ARVL,2015,9328000.0
+International Tourism Arrivals,World Bank Open Data,Euro area,EMU,"International tourism, number of arrivals",ST.INT.ARVL,2015,571048000.0
+International Tourism Arrivals,World Bank Open Data,Eritrea,ERI,"International tourism, number of arrivals",ST.INT.ARVL,2015,114000.0
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2015,109834000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2015,5696000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2015,864000.0
+International Tourism Arrivals,World Bank Open Data,European Union,EUU,"International tourism, number of arrivals",ST.INT.ARVL,2015,835937000.0
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2015,2622000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2015,869000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2015,203302000.0
+International Tourism Arrivals,World Bank Open Data,"Micronesia, Fed. Sts.",FSM,"International tourism, number of arrivals",ST.INT.ARVL,2015,31200.0007629395
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2015,36792000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2015,5256000.0
+International Tourism Arrivals,World Bank Open Data,Ghana,GHA,"International tourism, number of arrivals",ST.INT.ARVL,2015,897000.0
+International Tourism Arrivals,World Bank Open Data,Guinea,GIN,"International tourism, number of arrivals",ST.INT.ARVL,2015,35000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2015,449000.0
+International Tourism Arrivals,World Bank Open Data,Guinea-Bissau,GNB,"International tourism, number of arrivals",ST.INT.ARVL,2015,43799.9992370605
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2015,26114000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2015,437000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2015,1865000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2015,1409000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2015,207000.0
+International Tourism Arrivals,World Bank Open Data,High income,HIC,"International tourism, number of arrivals",ST.INT.ARVL,2015,1349915164.10243
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2015,59308000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2015,2093000.0
+International Tourism Arrivals,World Bank Open Data,Heavily indebted poor countries (HIPC),HPC,"International tourism, number of arrivals",ST.INT.ARVL,2015,23619335.2534751
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2015,55858000.0
+International Tourism Arrivals,World Bank Open Data,Haiti,HTI,"International tourism, number of arrivals",ST.INT.ARVL,2015,1190000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2015,48345000.0
+International Tourism Arrivals,World Bank Open Data,IBRD only,IBD,"International tourism, number of arrivals",ST.INT.ARVL,2015,710624637.033822
+International Tourism Arrivals,World Bank Open Data,IDA & IBRD total,IBT,"International tourism, number of arrivals",ST.INT.ARVL,2015,805369212.147884
+International Tourism Arrivals,World Bank Open Data,IDA total,IDA,"International tourism, number of arrivals",ST.INT.ARVL,2015,71927095.0490083
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2015,10407000.0
+International Tourism Arrivals,World Bank Open Data,IDA only,IDX,"International tourism, number of arrivals",ST.INT.ARVL,2015,46442583.3322505
+International Tourism Arrivals,World Bank Open Data,India,IND,"International tourism, number of arrivals",ST.INT.ARVL,2015,13284000.0
+International Tourism Arrivals,World Bank Open Data,Ireland,IRL,"International tourism, number of arrivals",ST.INT.ARVL,2015,9528000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2015,5237000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2015,1389000.0
+International Tourism Arrivals,World Bank Open Data,Israel,ISR,"International tourism, number of arrivals",ST.INT.ARVL,2015,3109000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2015,81068000.0
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2015,3692000.0
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2015,4809000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2015,19737000.0
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2015,6430000.0
+International Tourism Arrivals,World Bank Open Data,Kenya,KEN,"International tourism, number of arrivals",ST.INT.ARVL,2015,1181000.0
+International Tourism Arrivals,World Bank Open Data,Kyrgyz Republic,KGZ,"International tourism, number of arrivals",ST.INT.ARVL,2015,4000000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2015,4775000.0
+International Tourism Arrivals,World Bank Open Data,Kiribati,KIR,"International tourism, number of arrivals",ST.INT.ARVL,2015,8199.99980926514
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1036000.0
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2015,13232000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2015,6941000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean (excluding high income),LAC,"International tourism, number of arrivals",ST.INT.ARVL,2015,145821000.0
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2015,4684000.0
+International Tourism Arrivals,World Bank Open Data,Lebanon,LBN,"International tourism, number of arrivals",ST.INT.ARVL,2015,1518000.0
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1031000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean,LCN,"International tourism, number of arrivals",ST.INT.ARVL,2015,182042491.632718
+International Tourism Arrivals,World Bank Open Data,Least developed countries: UN classification,LDC,"International tourism, number of arrivals",ST.INT.ARVL,2015,33502770.9851016
+International Tourism Arrivals,World Bank Open Data,Low income,LIC,"International tourism, number of arrivals",ST.INT.ARVL,2015,11563292.8281863
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2015,56700.0007629395
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1993000.0
+International Tourism Arrivals,World Bank Open Data,Lower middle income,LMC,"International tourism, number of arrivals",ST.INT.ARVL,2015,145156136.985487
+International Tourism Arrivals,World Bank Open Data,Low & middle income,LMY,"International tourism, number of arrivals",ST.INT.ARVL,2015,658163496.006004
+International Tourism Arrivals,World Bank Open Data,Lesotho,LSO,"International tourism, number of arrivals",ST.INT.ARVL,2015,1082000.0
+International Tourism Arrivals,World Bank Open Data,Late-demographic dividend,LTE,"International tourism, number of arrivals",ST.INT.ARVL,2015,460461683.614631
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2015,5048000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2015,1090000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2015,6842000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2015,30715000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2015,10542000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2015,331000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2015,94400.0015258789
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2015,282000.0
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2015,1234000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan",MEA,"International tourism, number of arrivals",ST.INT.ARVL,2015,126208646.076229
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2015,87129000.0
+International Tourism Arrivals,World Bank Open Data,Marshall Islands,MHL,"International tourism, number of arrivals",ST.INT.ARVL,2015,6300.00019073486
+International Tourism Arrivals,World Bank Open Data,Middle income,MIC,"International tourism, number of arrivals",ST.INT.ARVL,2015,639288627.722806
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2015,486000.0
+International Tourism Arrivals,World Bank Open Data,Mali,MLI,"International tourism, number of arrivals",ST.INT.ARVL,2015,159000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2015,2383000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2015,4681000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"International tourism, number of arrivals",ST.INT.ARVL,2015,47236883.3574178
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2015,1560000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2015,467000.0
+International Tourism Arrivals,World Bank Open Data,Northern Mariana Islands,MNP,"International tourism, number of arrivals",ST.INT.ARVL,2015,479000.0
+International Tourism Arrivals,World Bank Open Data,Mozambique,MOZ,"International tourism, number of arrivals",ST.INT.ARVL,2015,1634000.0
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2015,1174000.0
+International Tourism Arrivals,World Bank Open Data,Malawi,MWI,"International tourism, number of arrivals",ST.INT.ARVL,2015,805000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2015,25721000.0
+International Tourism Arrivals,World Bank Open Data,North America,NAC,"International tourism, number of arrivals",ST.INT.ARVL,2015,205016531.25
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2015,1488000.0
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2015,114000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2015,135000.0
+International Tourism Arrivals,World Bank Open Data,Nigeria,NGA,"International tourism, number of arrivals",ST.INT.ARVL,2015,6017000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2015,1456000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2015,15007000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2015,5361000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2015,539000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2015,3129000.0
+International Tourism Arrivals,World Bank Open Data,OECD members,OED,"International tourism, number of arrivals",ST.INT.ARVL,2015,1200190531.25
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2015,2634000.0
+International Tourism Arrivals,World Bank Open Data,Other small states,OSS,"International tourism, number of arrivals",ST.INT.ARVL,2015,43653648.1222278
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2015,2553000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2015,4381000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2015,5361000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2015,162000.0
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2015,199000.0
+International Tourism Arrivals,World Bank Open Data,Poland,POL,"International tourism, number of arrivals",ST.INT.ARVL,2015,77743000.0
+International Tourism Arrivals,World Bank Open Data,Pre-demographic dividend,PRE,"International tourism, number of arrivals",ST.INT.ARVL,2015,24064888.6903973
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2015,5051000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2015,11723000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2015,4102000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2015,432000.0
+International Tourism Arrivals,World Bank Open Data,Pacific island small states,PSS,"International tourism, number of arrivals",ST.INT.ARVL,2015,1675831.86865082
+International Tourism Arrivals,World Bank Open Data,Post-demographic dividend,PST,"International tourism, number of arrivals",ST.INT.ARVL,2015,1128129854.07553
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2015,239000.0
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2015,2941000.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2015,9331000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2015,33729000.0
+International Tourism Arrivals,World Bank Open Data,Rwanda,RWA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1298000.0
+International Tourism Arrivals,World Bank Open Data,South Asia,SAS,"International tourism, number of arrivals",ST.INT.ARVL,2015,20005025.7892767
+International Tourism Arrivals,World Bank Open Data,Saudi Arabia,SAU,"International tourism, number of arrivals",ST.INT.ARVL,2015,21834000.0
+International Tourism Arrivals,World Bank Open Data,Sudan,SDN,"International tourism, number of arrivals",ST.INT.ARVL,2015,741000.0
+International Tourism Arrivals,World Bank Open Data,Senegal,SEN,"International tourism, number of arrivals",ST.INT.ARVL,2015,1014000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2015,15231500.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2015,21600.0003814697
+International Tourism Arrivals,World Bank Open Data,Sierra Leone,SLE,"International tourism, number of arrivals",ST.INT.ARVL,2015,31000.0
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2015,1973000.0
+International Tourism Arrivals,World Bank Open Data,San Marino,SMR,"International tourism, number of arrivals",ST.INT.ARVL,2015,1888000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2015,1132000.0
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (excluding high income),SSA,"International tourism, number of arrivals",ST.INT.ARVL,2015,48672074.1038622
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa,SSF,"International tourism, number of arrivals",ST.INT.ARVL,2015,48979055.5101286
+International Tourism Arrivals,World Bank Open Data,Small states,SST,"International tourism, number of arrivals",ST.INT.ARVL,2015,63973751.9338524
+International Tourism Arrivals,World Bank Open Data,Sao Tome and Principe,STP,"International tourism, number of arrivals",ST.INT.ARVL,2015,25600.0003814697
+International Tourism Arrivals,World Bank Open Data,Suriname,SUR,"International tourism, number of arrivals",ST.INT.ARVL,2015,229000.0
+International Tourism Arrivals,World Bank Open Data,Slovak Republic,SVK,"International tourism, number of arrivals",ST.INT.ARVL,2015,14936000.0
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2015,3022000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2015,6482000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2015,1256000.0
+International Tourism Arrivals,World Bank Open Data,Sint Maarten (Dutch part),SXM,"International tourism, number of arrivals",ST.INT.ARVL,2015,2407000.0
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2015,296000.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1316000.0
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2015,120000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (IDA & IBRD countries),TEA,"International tourism, number of arrivals",ST.INT.ARVL,2015,229644083.48217
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (IDA & IBRD countries),TEC,"International tourism, number of arrivals",ST.INT.ARVL,2015,278325392.262029
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2015,273000.0
+International Tourism Arrivals,World Bank Open Data,Thailand,THA,"International tourism, number of arrivals",ST.INT.ARVL,2015,29923000.0
+International Tourism Arrivals,World Bank Open Data,Tajikistan,TJK,"International tourism, number of arrivals",ST.INT.ARVL,2015,414000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & the Caribbean (IDA & IBRD countries),TLA,"International tourism, number of arrivals",ST.INT.ARVL,2015,154385000.0
+International Tourism Arrivals,World Bank Open Data,Timor-Leste,TLS,"International tourism, number of arrivals",ST.INT.ARVL,2015,61599.9984741211
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"International tourism, number of arrivals",ST.INT.ARVL,2015,46829784.8356119
+International Tourism Arrivals,World Bank Open Data,Tonga,TON,"International tourism, number of arrivals",ST.INT.ARVL,2015,72599.9984741211
+International Tourism Arrivals,World Bank Open Data,South Asia (IDA & IBRD),TSA,"International tourism, number of arrivals",ST.INT.ARVL,2015,19383064.3456677
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (IDA & IBRD countries),TSS,"International tourism, number of arrivals",ST.INT.ARVL,2015,48979055.5101286
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2015,519000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2015,5359000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2015,41114000.0
+International Tourism Arrivals,World Bank Open Data,Tuvalu,TUV,"International tourism, number of arrivals",ST.INT.ARVL,2015,2400.00009536743
+International Tourism Arrivals,World Bank Open Data,Tanzania,TZA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1137000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2015,1303000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2015,13025000.0
+International Tourism Arrivals,World Bank Open Data,Upper middle income,UMC,"International tourism, number of arrivals",ST.INT.ARVL,2015,484482005.838454
+International Tourism Arrivals,World Bank Open Data,Uruguay,URY,"International tourism, number of arrivals",ST.INT.ARVL,2015,3286000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2015,176864531.25
+International Tourism Arrivals,World Bank Open Data,Uzbekistan,UZB,"International tourism, number of arrivals",ST.INT.ARVL,2015,1918000.0
+International Tourism Arrivals,World Bank Open Data,St. Vincent and the Grenadines,VCT,"International tourism, number of arrivals",ST.INT.ARVL,2015,207000.0
+International Tourism Arrivals,World Bank Open Data,"Venezuela, RB",VEN,"International tourism, number of arrivals",ST.INT.ARVL,2015,882000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2015,393000.0
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2015,2643000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2015,7944000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2015,287000.0
+International Tourism Arrivals,World Bank Open Data,World,WLD,"International tourism, number of arrivals",ST.INT.ARVL,2015,2071785909.76065
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2015,139000.0
+International Tourism Arrivals,World Bank Open Data,"Yemen, Rep.",YEM,"International tourism, number of arrivals",ST.INT.ARVL,2015,398000.0
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2015,13952000.0
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2015,932000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2015,2057000.0
+International Tourism Arrivals,World Bank Open Data,Aruba,ABW,"International tourism, number of arrivals",ST.INT.ARVL,2016,1758000.0
+International Tourism Arrivals,World Bank Open Data,Africa Eastern and Southern,AFE,"International tourism, number of arrivals",ST.INT.ARVL,2016,37645887.774466
+International Tourism Arrivals,World Bank Open Data,Africa Western and Central,AFW,"International tourism, number of arrivals",ST.INT.ARVL,2016,13150775.3380124
+International Tourism Arrivals,World Bank Open Data,Angola,AGO,"International tourism, number of arrivals",ST.INT.ARVL,2016,397000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2016,4736000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2016,8025000.0
+International Tourism Arrivals,World Bank Open Data,Arab World,ARB,"International tourism, number of arrivals",ST.INT.ARVL,2016,115219915.34879
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2016,20894000.0
+International Tourism Arrivals,World Bank Open Data,Argentina,ARG,"International tourism, number of arrivals",ST.INT.ARVL,2016,6668000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2016,1260000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2016,20100.0003814697
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2016,874000.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2016,8269000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2016,28121000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2016,2249000.0
+International Tourism Arrivals,World Bank Open Data,Burundi,BDI,"International tourism, number of arrivals",ST.INT.ARVL,2016,187000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2016,7481000.0
+International Tourism Arrivals,World Bank Open Data,Benin,BEN,"International tourism, number of arrivals",ST.INT.ARVL,2016,292000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2016,152000.0
+International Tourism Arrivals,World Bank Open Data,Bangladesh,BGD,"International tourism, number of arrivals",ST.INT.ARVL,2016,182000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2016,10604000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2016,10158000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2016,6265000.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2016,778000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2016,10935000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2016,1391000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2016,642000.0
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2016,961000.0
+International Tourism Arrivals,World Bank Open Data,Brazil,BRA,"International tourism, number of arrivals",ST.INT.ARVL,2016,6547000.0
+International Tourism Arrivals,World Bank Open Data,Barbados,BRB,"International tourism, number of arrivals",ST.INT.ARVL,2016,1227000.0
+International Tourism Arrivals,World Bank Open Data,Brunei Darussalam,BRN,"International tourism, number of arrivals",ST.INT.ARVL,2016,4257000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2016,210000.0
+International Tourism Arrivals,World Bank Open Data,Botswana,BWA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1712000.0
+International Tourism Arrivals,World Bank Open Data,Central African Republic,CAF,"International tourism, number of arrivals",ST.INT.ARVL,2016,82000.0
+International Tourism Arrivals,World Bank Open Data,Canada,CAN,"International tourism, number of arrivals",ST.INT.ARVL,2016,30142000.0
+International Tourism Arrivals,World Bank Open Data,Central Europe and the Baltics,CEB,"International tourism, number of arrivals",ST.INT.ARVL,2016,282858334.211699
+International Tourism Arrivals,World Bank Open Data,Switzerland,CHE,"International tourism, number of arrivals",ST.INT.ARVL,2016,10402000.0
+International Tourism Arrivals,World Bank Open Data,Chile,CHL,"International tourism, number of arrivals",ST.INT.ARVL,2016,6712000.0
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2016,141774000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2016,1583000.0
+International Tourism Arrivals,World Bank Open Data,Cameroon,CMR,"International tourism, number of arrivals",ST.INT.ARVL,2016,994000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Dem. Rep.",COD,"International tourism, number of arrivals",ST.INT.ARVL,2016,351000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Rep.",COG,"International tourism, number of arrivals",ST.INT.ARVL,2016,213000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2016,3675000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2016,26799.9992370605
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2016,598000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2016,3204000.0
+International Tourism Arrivals,World Bank Open Data,Caribbean small states,CSS,"International tourism, number of arrivals",ST.INT.ARVL,2016,17638000.0
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2016,4009000.0
+International Tourism Arrivals,World Bank Open Data,Curacao,CUW,"International tourism, number of arrivals",ST.INT.ARVL,2016,944000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2016,2097000.0
+International Tourism Arrivals,World Bank Open Data,Cyprus,CYP,"International tourism, number of arrivals",ST.INT.ARVL,2016,3286000.0
+International Tourism Arrivals,World Bank Open Data,Czechia,CZE,"International tourism, number of arrivals",ST.INT.ARVL,2016,32519000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2016,35555000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2016,356000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2016,28692000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2016,6769000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2016,2039000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (excluding high income),EAP,"International tourism, number of arrivals",ST.INT.ARVL,2016,246129470.434008
+International Tourism Arrivals,World Bank Open Data,Early-demographic dividend,EAR,"International tourism, number of arrivals",ST.INT.ARVL,2016,301876958.468592
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific,EAS,"International tourism, number of arrivals",ST.INT.ARVL,2016,422310009.824166
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (excluding high income),ECA,"International tourism, number of arrivals",ST.INT.ARVL,2016,134101499.894963
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia,ECS,"International tourism, number of arrivals",ST.INT.ARVL,2016,1055431735.20262
+International Tourism Arrivals,World Bank Open Data,Ecuador,ECU,"International tourism, number of arrivals",ST.INT.ARVL,2016,1569000.0
+International Tourism Arrivals,World Bank Open Data,"Egypt, Arab Rep.",EGY,"International tourism, number of arrivals",ST.INT.ARVL,2016,5399000.0
+International Tourism Arrivals,World Bank Open Data,Euro area,EMU,"International tourism, number of arrivals",ST.INT.ARVL,2016,590598000.0
+International Tourism Arrivals,World Bank Open Data,Eritrea,ERI,"International tourism, number of arrivals",ST.INT.ARVL,2016,142000.0
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2016,115561000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2016,5942000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2016,871000.0
+International Tourism Arrivals,World Bank Open Data,European Union,EUU,"International tourism, number of arrivals",ST.INT.ARVL,2016,870371000.0
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2016,2789000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2016,963000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2016,203042000.0
+International Tourism Arrivals,World Bank Open Data,"Micronesia, Fed. Sts.",FSM,"International tourism, number of arrivals",ST.INT.ARVL,2016,29600.0003814697
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2016,39129000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2016,5393000.0
+International Tourism Arrivals,World Bank Open Data,Guinea,GIN,"International tourism, number of arrivals",ST.INT.ARVL,2016,63000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2016,450000.0
+International Tourism Arrivals,World Bank Open Data,Guinea-Bissau,GNB,"International tourism, number of arrivals",ST.INT.ARVL,2016,45200.0007629395
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2016,28071000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2016,474000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2016,1906000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2016,1536000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2016,235000.0
+International Tourism Arrivals,World Bank Open Data,High income,HIC,"International tourism, number of arrivals",ST.INT.ARVL,2016,1403510281.67581
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2016,56655000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2016,2228000.0
+International Tourism Arrivals,World Bank Open Data,Heavily indebted poor countries (HIPC),HPC,"International tourism, number of arrivals",ST.INT.ARVL,2016,25289047.2324128
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2016,57587000.0
+International Tourism Arrivals,World Bank Open Data,Haiti,HTI,"International tourism, number of arrivals",ST.INT.ARVL,2016,1153000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2016,52890000.0
+International Tourism Arrivals,World Bank Open Data,IBRD only,IBD,"International tourism, number of arrivals",ST.INT.ARVL,2016,732382440.830946
+International Tourism Arrivals,World Bank Open Data,IDA & IBRD total,IBT,"International tourism, number of arrivals",ST.INT.ARVL,2016,826247856.778612
+International Tourism Arrivals,World Bank Open Data,IDA total,IDA,"International tourism, number of arrivals",ST.INT.ARVL,2016,71605647.798736
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2016,11519000.0
+International Tourism Arrivals,World Bank Open Data,IDA only,IDX,"International tourism, number of arrivals",ST.INT.ARVL,2016,46337010.2452196
+International Tourism Arrivals,World Bank Open Data,India,IND,"International tourism, number of arrivals",ST.INT.ARVL,2016,14570000.0
+International Tourism Arrivals,World Bank Open Data,Ireland,IRL,"International tourism, number of arrivals",ST.INT.ARVL,2016,10100000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2016,4942000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2016,1891000.0
+International Tourism Arrivals,World Bank Open Data,Israel,ISR,"International tourism, number of arrivals",ST.INT.ARVL,2016,3070000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2016,84925000.0
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2016,3837000.0
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2016,4236000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2016,24039000.0
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2016,6509000.0
+International Tourism Arrivals,World Bank Open Data,Kenya,KEN,"International tourism, number of arrivals",ST.INT.ARVL,2016,1340000.0
+International Tourism Arrivals,World Bank Open Data,Kyrgyz Republic,KGZ,"International tourism, number of arrivals",ST.INT.ARVL,2016,3853000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2016,5012000.0
+International Tourism Arrivals,World Bank Open Data,Kiribati,KIR,"International tourism, number of arrivals",ST.INT.ARVL,2016,7599.99990463257
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1055000.0
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2016,17242000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2016,7055000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean (excluding high income),LAC,"International tourism, number of arrivals",ST.INT.ARVL,2016,156330000.0
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2016,4239000.0
+International Tourism Arrivals,World Bank Open Data,Lebanon,LBN,"International tourism, number of arrivals",ST.INT.ARVL,2016,1688000.0
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2016,948000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean,LCN,"International tourism, number of arrivals",ST.INT.ARVL,2016,193556155.198286
+International Tourism Arrivals,World Bank Open Data,Least developed countries: UN classification,LDC,"International tourism, number of arrivals",ST.INT.ARVL,2016,32624657.6546745
+International Tourism Arrivals,World Bank Open Data,Low income,LIC,"International tourism, number of arrivals",ST.INT.ARVL,2016,13028546.9680762
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2016,69099.9984741211
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2016,2168000.0
+International Tourism Arrivals,World Bank Open Data,Lower middle income,LMC,"International tourism, number of arrivals",ST.INT.ARVL,2016,146764495.238977
+International Tourism Arrivals,World Bank Open Data,Low & middle income,LMY,"International tourism, number of arrivals",ST.INT.ARVL,2016,673875108.775131
+International Tourism Arrivals,World Bank Open Data,Lesotho,LSO,"International tourism, number of arrivals",ST.INT.ARVL,2016,1196000.0
+International Tourism Arrivals,World Bank Open Data,Late-demographic dividend,LTE,"International tourism, number of arrivals",ST.INT.ARVL,2016,479145118.671706
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2016,5322000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2016,1054000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2016,6797000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2016,30950000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2016,10677000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2016,336000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2016,121000.0
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2016,333000.0
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2016,1286000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan",MEA,"International tourism, number of arrivals",ST.INT.ARVL,2016,119350820.631413
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2016,94853000.0
+International Tourism Arrivals,World Bank Open Data,Marshall Islands,MHL,"International tourism, number of arrivals",ST.INT.ARVL,2016,5400.00009536743
+International Tourism Arrivals,World Bank Open Data,Middle income,MIC,"International tourism, number of arrivals",ST.INT.ARVL,2016,655230626.632627
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2016,510000.0
+International Tourism Arrivals,World Bank Open Data,Mali,MLI,"International tourism, number of arrivals",ST.INT.ARVL,2016,173000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2016,2592000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2016,2907000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"International tourism, number of arrivals",ST.INT.ARVL,2016,41373623.8181917
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2016,1662000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2016,471000.0
+International Tourism Arrivals,World Bank Open Data,Northern Mariana Islands,MNP,"International tourism, number of arrivals",ST.INT.ARVL,2016,531000.0
+International Tourism Arrivals,World Bank Open Data,Mozambique,MOZ,"International tourism, number of arrivals",ST.INT.ARVL,2016,1715000.0
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2016,1307000.0
+International Tourism Arrivals,World Bank Open Data,Malawi,MWI,"International tourism, number of arrivals",ST.INT.ARVL,2016,849000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2016,26757000.0
+International Tourism Arrivals,World Bank Open Data,North America,NAC,"International tourism, number of arrivals",ST.INT.ARVL,2016,206045484.375
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2016,1551000.0
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2016,116000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2016,152000.0
+International Tourism Arrivals,World Bank Open Data,Nigeria,NGA,"International tourism, number of arrivals",ST.INT.ARVL,2016,5265000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2016,1596000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2016,15828000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2016,5960000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2016,753000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2016,3494000.0
+International Tourism Arrivals,World Bank Open Data,OECD members,OED,"International tourism, number of arrivals",ST.INT.ARVL,2016,1244329484.375
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2016,3207000.0
+International Tourism Arrivals,World Bank Open Data,Other small states,OSS,"International tourism, number of arrivals",ST.INT.ARVL,2016,46851127.1015183
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2016,2379000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2016,4718000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2016,5967000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2016,138000.0
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2016,198000.0
+International Tourism Arrivals,World Bank Open Data,Poland,POL,"International tourism, number of arrivals",ST.INT.ARVL,2016,80476000.0
+International Tourism Arrivals,World Bank Open Data,Pre-demographic dividend,PRE,"International tourism, number of arrivals",ST.INT.ARVL,2016,24362726.9411335
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2016,5003000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2016,13359000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2016,4318000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2016,400000.0
+International Tourism Arrivals,World Bank Open Data,Pacific island small states,PSS,"International tourism, number of arrivals",ST.INT.ARVL,2016,1836886.92745203
+International Tourism Arrivals,World Bank Open Data,Post-demographic dividend,PST,"International tourism, number of arrivals",ST.INT.ARVL,2016,1175947745.43724
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2016,241000.0
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2016,2938000.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2016,10223000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2016,24571000.0
+International Tourism Arrivals,World Bank Open Data,Rwanda,RWA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1377000.0
+International Tourism Arrivals,World Bank Open Data,South Asia,SAS,"International tourism, number of arrivals",ST.INT.ARVL,2016,22126613.5453606
+International Tourism Arrivals,World Bank Open Data,Saudi Arabia,SAU,"International tourism, number of arrivals",ST.INT.ARVL,2016,20887000.0
+International Tourism Arrivals,World Bank Open Data,Sudan,SDN,"International tourism, number of arrivals",ST.INT.ARVL,2016,800000.0
+International Tourism Arrivals,World Bank Open Data,Senegal,SEN,"International tourism, number of arrivals",ST.INT.ARVL,2016,1219000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2016,16403000.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2016,23200.0007629395
+International Tourism Arrivals,World Bank Open Data,Sierra Leone,SLE,"International tourism, number of arrivals",ST.INT.ARVL,2016,60000.0
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2016,2052000.0
+International Tourism Arrivals,World Bank Open Data,San Marino,SMR,"International tourism, number of arrivals",ST.INT.ARVL,2016,2000000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2016,1281000.0
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (excluding high income),SSA,"International tourism, number of arrivals",ST.INT.ARVL,2016,50877194.3830237
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa,SSF,"International tourism, number of arrivals",ST.INT.ARVL,2016,51223036.3828596
+International Tourism Arrivals,World Bank Open Data,Small states,SST,"International tourism, number of arrivals",ST.INT.ARVL,2016,71729395.1557745
+International Tourism Arrivals,World Bank Open Data,Sao Tome and Principe,STP,"International tourism, number of arrivals",ST.INT.ARVL,2016,28899.9996185303
+International Tourism Arrivals,World Bank Open Data,Suriname,SUR,"International tourism, number of arrivals",ST.INT.ARVL,2016,257000.0
+International Tourism Arrivals,World Bank Open Data,Slovak Republic,SVK,"International tourism, number of arrivals",ST.INT.ARVL,2016,17376000.0
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2016,3397000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2016,6782000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2016,1279000.0
+International Tourism Arrivals,World Bank Open Data,Sint Maarten (Dutch part),SXM,"International tourism, number of arrivals",ST.INT.ARVL,2016,2197000.0
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2016,333000.0
+International Tourism Arrivals,World Bank Open Data,Syrian Arab Republic,SYR,"International tourism, number of arrivals",ST.INT.ARVL,2016,1043000.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1296000.0
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2016,98000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (IDA & IBRD countries),TEA,"International tourism, number of arrivals",ST.INT.ARVL,2016,243207453.386259
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (IDA & IBRD countries),TEC,"International tourism, number of arrivals",ST.INT.ARVL,2016,274218218.147916
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2016,338000.0
+International Tourism Arrivals,World Bank Open Data,Thailand,THA,"International tourism, number of arrivals",ST.INT.ARVL,2016,32530000.0
+International Tourism Arrivals,World Bank Open Data,Tajikistan,TJK,"International tourism, number of arrivals",ST.INT.ARVL,2016,344000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & the Caribbean (IDA & IBRD countries),TLA,"International tourism, number of arrivals",ST.INT.ARVL,2016,165767000.0
+International Tourism Arrivals,World Bank Open Data,Timor-Leste,TLS,"International tourism, number of arrivals",ST.INT.ARVL,2016,65599.9984741211
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"International tourism, number of arrivals",ST.INT.ARVL,2016,40984877.3879004
+International Tourism Arrivals,World Bank Open Data,Tonga,TON,"International tourism, number of arrivals",ST.INT.ARVL,2016,86699.9969482422
+International Tourism Arrivals,World Bank Open Data,South Asia (IDA & IBRD),TSA,"International tourism, number of arrivals",ST.INT.ARVL,2016,21438691.3878082
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (IDA & IBRD countries),TSS,"International tourism, number of arrivals",ST.INT.ARVL,2016,51223036.3828596
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2016,492000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2016,5724000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2016,30907000.0
+International Tourism Arrivals,World Bank Open Data,Tuvalu,TUV,"International tourism, number of arrivals",ST.INT.ARVL,2016,2500.0
+International Tourism Arrivals,World Bank Open Data,Tanzania,TZA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1284000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2016,1323000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2016,13734000.0
+International Tourism Arrivals,World Bank Open Data,Upper middle income,UMC,"International tourism, number of arrivals",ST.INT.ARVL,2016,498471214.239233
+International Tourism Arrivals,World Bank Open Data,Uruguay,URY,"International tourism, number of arrivals",ST.INT.ARVL,2016,3632000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2016,175261484.375
+International Tourism Arrivals,World Bank Open Data,Uzbekistan,UZB,"International tourism, number of arrivals",ST.INT.ARVL,2016,2027000.0
+International Tourism Arrivals,World Bank Open Data,St. Vincent and the Grenadines,VCT,"International tourism, number of arrivals",ST.INT.ARVL,2016,227000.0
+International Tourism Arrivals,World Bank Open Data,"Venezuela, RB",VEN,"International tourism, number of arrivals",ST.INT.ARVL,2016,681000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2016,408000.0
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2016,2574000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2016,10013000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2016,351600.006103516
+International Tourism Arrivals,World Bank Open Data,World,WLD,"International tourism, number of arrivals",ST.INT.ARVL,2016,2140443306.01389
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2016,146000.0
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2016,15121000.0
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2016,956000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2016,2168000.0
+International Tourism Arrivals,World Bank Open Data,Aruba,ABW,"International tourism, number of arrivals",ST.INT.ARVL,2017,1863000.0
+International Tourism Arrivals,World Bank Open Data,Africa Eastern and Southern,AFE,"International tourism, number of arrivals",ST.INT.ARVL,2017,38258347.875597
+International Tourism Arrivals,World Bank Open Data,Angola,AGO,"International tourism, number of arrivals",ST.INT.ARVL,2017,261000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2017,5118000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2017,8152000.0
+International Tourism Arrivals,World Bank Open Data,Arab World,ARB,"International tourism, number of arrivals",ST.INT.ARVL,2017,122153139.690839
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2017,21805000.0
+International Tourism Arrivals,World Bank Open Data,Argentina,ARG,"International tourism, number of arrivals",ST.INT.ARVL,2017,6711000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2017,1495000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2017,20000.0
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2017,1040000.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2017,8815000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2017,29460000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2017,2697000.0
+International Tourism Arrivals,World Bank Open Data,Burundi,BDI,"International tourism, number of arrivals",ST.INT.ARVL,2017,299000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2017,8385000.0
+International Tourism Arrivals,World Bank Open Data,Benin,BEN,"International tourism, number of arrivals",ST.INT.ARVL,2017,307000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2017,143000.0
+International Tourism Arrivals,World Bank Open Data,Bangladesh,BGD,"International tourism, number of arrivals",ST.INT.ARVL,2017,237000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2017,11596000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2017,11374000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2017,6136000.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2017,923000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2017,11060000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2017,1441000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2017,688000.0
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2017,1109000.0
+International Tourism Arrivals,World Bank Open Data,Brazil,BRA,"International tourism, number of arrivals",ST.INT.ARVL,2017,6589000.0
+International Tourism Arrivals,World Bank Open Data,Barbados,BRB,"International tourism, number of arrivals",ST.INT.ARVL,2017,1345000.0
+International Tourism Arrivals,World Bank Open Data,Brunei Darussalam,BRN,"International tourism, number of arrivals",ST.INT.ARVL,2017,4316000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2017,255000.0
+International Tourism Arrivals,World Bank Open Data,Botswana,BWA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1775000.0
+International Tourism Arrivals,World Bank Open Data,Central African Republic,CAF,"International tourism, number of arrivals",ST.INT.ARVL,2017,107000.0
+International Tourism Arrivals,World Bank Open Data,Canada,CAN,"International tourism, number of arrivals",ST.INT.ARVL,2017,31081000.0
+International Tourism Arrivals,World Bank Open Data,Central Europe and the Baltics,CEB,"International tourism, number of arrivals",ST.INT.ARVL,2017,293799709.735875
+International Tourism Arrivals,World Bank Open Data,Switzerland,CHE,"International tourism, number of arrivals",ST.INT.ARVL,2017,11133000.0
+International Tourism Arrivals,World Bank Open Data,Chile,CHL,"International tourism, number of arrivals",ST.INT.ARVL,2017,7621000.0
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2017,153260000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2017,1800000.0
+International Tourism Arrivals,World Bank Open Data,Cameroon,CMR,"International tourism, number of arrivals",ST.INT.ARVL,2017,1081000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Rep.",COG,"International tourism, number of arrivals",ST.INT.ARVL,2017,151000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2017,4056000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2017,28000.0
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2017,668000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2017,3231000.0
+International Tourism Arrivals,World Bank Open Data,Caribbean small states,CSS,"International tourism, number of arrivals",ST.INT.ARVL,2017,18488000.0
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2017,4654000.0
+International Tourism Arrivals,World Bank Open Data,Curacao,CUW,"International tourism, number of arrivals",ST.INT.ARVL,2017,1058000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2017,2147000.0
+International Tourism Arrivals,World Bank Open Data,Cyprus,CYP,"International tourism, number of arrivals",ST.INT.ARVL,2017,3750000.0
+International Tourism Arrivals,World Bank Open Data,Czechia,CZE,"International tourism, number of arrivals",ST.INT.ARVL,2017,34701000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2017,37452000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2017,230000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2017,30736000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2017,7296000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2017,2451000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (excluding high income),EAP,"International tourism, number of arrivals",ST.INT.ARVL,2017,267094231.846656
+International Tourism Arrivals,World Bank Open Data,Early-demographic dividend,EAR,"International tourism, number of arrivals",ST.INT.ARVL,2017,326787964.841898
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific,EAS,"International tourism, number of arrivals",ST.INT.ARVL,2017,449587158.558471
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (excluding high income),ECA,"International tourism, number of arrivals",ST.INT.ARVL,2017,149456827.794733
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia,ECS,"International tourism, number of arrivals",ST.INT.ARVL,2017,1112981075.45227
+International Tourism Arrivals,World Bank Open Data,Ecuador,ECU,"International tourism, number of arrivals",ST.INT.ARVL,2017,1806000.0
+International Tourism Arrivals,World Bank Open Data,"Egypt, Arab Rep.",EGY,"International tourism, number of arrivals",ST.INT.ARVL,2017,8292000.0
+International Tourism Arrivals,World Bank Open Data,Euro area,EMU,"International tourism, number of arrivals",ST.INT.ARVL,2017,617852000.0
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2017,121717000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2017,6145000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2017,933000.0
+International Tourism Arrivals,World Bank Open Data,European Union,EUU,"International tourism, number of arrivals",ST.INT.ARVL,2017,910869000.0
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2017,3180000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2017,1027000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2017,207274000.0
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2017,41080000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2017,6483000.0
+International Tourism Arrivals,World Bank Open Data,Guinea,GIN,"International tourism, number of arrivals",ST.INT.ARVL,2017,99000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2017,522000.0
+International Tourism Arrivals,World Bank Open Data,Guinea-Bissau,GNB,"International tourism, number of arrivals",ST.INT.ARVL,2017,49500.0
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2017,30161000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2017,468000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2017,2120000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2017,1545000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2017,247000.0
+International Tourism Arrivals,World Bank Open Data,High income,HIC,"International tourism, number of arrivals",ST.INT.ARVL,2017,1453128423.16718
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2017,58472000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2017,2144000.0
+International Tourism Arrivals,World Bank Open Data,Heavily indebted poor countries (HIPC),HPC,"International tourism, number of arrivals",ST.INT.ARVL,2017,27119321.1667896
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2017,59238000.0
+International Tourism Arrivals,World Bank Open Data,Haiti,HTI,"International tourism, number of arrivals",ST.INT.ARVL,2017,1262000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2017,54962000.0
+International Tourism Arrivals,World Bank Open Data,IBRD only,IBD,"International tourism, number of arrivals",ST.INT.ARVL,2017,787599416.866195
+International Tourism Arrivals,World Bank Open Data,IDA & IBRD total,IBT,"International tourism, number of arrivals",ST.INT.ARVL,2017,889465190.836547
+International Tourism Arrivals,World Bank Open Data,IDA total,IDA,"International tourism, number of arrivals",ST.INT.ARVL,2017,78201600.2766101
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2017,14040000.0
+International Tourism Arrivals,World Bank Open Data,IDA only,IDX,"International tourism, number of arrivals",ST.INT.ARVL,2017,50308715.5381637
+International Tourism Arrivals,World Bank Open Data,India,IND,"International tourism, number of arrivals",ST.INT.ARVL,2017,15543000.0
+International Tourism Arrivals,World Bank Open Data,Ireland,IRL,"International tourism, number of arrivals",ST.INT.ARVL,2017,10338000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2017,4867000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2017,2353000.0
+International Tourism Arrivals,World Bank Open Data,Israel,ISR,"International tourism, number of arrivals",ST.INT.ARVL,2017,3863000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2017,89931000.0
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2017,4276000.0
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2017,4565000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2017,28691000.0
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2017,7701000.0
+International Tourism Arrivals,World Bank Open Data,Kenya,KEN,"International tourism, number of arrivals",ST.INT.ARVL,2017,1449000.0
+International Tourism Arrivals,World Bank Open Data,Kyrgyz Republic,KGZ,"International tourism, number of arrivals",ST.INT.ARVL,2017,4568000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2017,5602000.0
+International Tourism Arrivals,World Bank Open Data,Kiribati,KIR,"International tourism, number of arrivals",ST.INT.ARVL,2017,7500.0
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1194000.0
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2017,13336000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2017,7407000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean (excluding high income),LAC,"International tourism, number of arrivals",ST.INT.ARVL,2017,165093000.0
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2017,3869000.0
+International Tourism Arrivals,World Bank Open Data,Lebanon,LBN,"International tourism, number of arrivals",ST.INT.ARVL,2017,1857000.0
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1064000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean,LCN,"International tourism, number of arrivals",ST.INT.ARVL,2017,202720683.376421
+International Tourism Arrivals,World Bank Open Data,Least developed countries: UN classification,LDC,"International tourism, number of arrivals",ST.INT.ARVL,2017,34557520.6921775
+International Tourism Arrivals,World Bank Open Data,Low income,LIC,"International tourism, number of arrivals",ST.INT.ARVL,2017,14021098.7639868
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2017,79300.0030517578
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2017,2248000.0
+International Tourism Arrivals,World Bank Open Data,Lower middle income,LMC,"International tourism, number of arrivals",ST.INT.ARVL,2017,166574125.990859
+International Tourism Arrivals,World Bank Open Data,Low & middle income,LMY,"International tourism, number of arrivals",ST.INT.ARVL,2017,731331434.167185
+International Tourism Arrivals,World Bank Open Data,Lesotho,LSO,"International tourism, number of arrivals",ST.INT.ARVL,2017,1137000.0
+International Tourism Arrivals,World Bank Open Data,Late-demographic dividend,LTE,"International tourism, number of arrivals",ST.INT.ARVL,2017,508820312.733723
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2017,5590000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2017,1046000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2017,7726000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2017,32611000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2017,11540000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2017,355000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2017,145000.0
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2017,285000.0
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2017,1390000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan",MEA,"International tourism, number of arrivals",ST.INT.ARVL,2017,127054293.453213
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2017,99349000.0
+International Tourism Arrivals,World Bank Open Data,Marshall Islands,MHL,"International tourism, number of arrivals",ST.INT.ARVL,2017,6000.0
+International Tourism Arrivals,World Bank Open Data,Middle income,MIC,"International tourism, number of arrivals",ST.INT.ARVL,2017,711194514.825387
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2017,631000.0
+International Tourism Arrivals,World Bank Open Data,Mali,MLI,"International tourism, number of arrivals",ST.INT.ARVL,2017,193000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2017,2944000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2017,3443000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"International tourism, number of arrivals",ST.INT.ARVL,2017,48550026.9757678
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2017,1877000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2017,543000.0
+International Tourism Arrivals,World Bank Open Data,Northern Mariana Islands,MNP,"International tourism, number of arrivals",ST.INT.ARVL,2017,660000.0
+International Tourism Arrivals,World Bank Open Data,Mozambique,MOZ,"International tourism, number of arrivals",ST.INT.ARVL,2017,1514000.0
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2017,1371000.0
+International Tourism Arrivals,World Bank Open Data,Malawi,MWI,"International tourism, number of arrivals",ST.INT.ARVL,2017,837000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2017,25948000.0
+International Tourism Arrivals,World Bank Open Data,North America,NAC,"International tourism, number of arrivals",ST.INT.ARVL,2017,206060750.0
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2017,1581000.0
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2017,121000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2017,164000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2017,1958000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2017,17924000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2017,6252000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2017,940000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2017,3723000.0
+International Tourism Arrivals,World Bank Open Data,OECD members,OED,"International tourism, number of arrivals",ST.INT.ARVL,2017,1299260750.0
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2017,3178000.0
+International Tourism Arrivals,World Bank Open Data,Other small states,OSS,"International tourism, number of arrivals",ST.INT.ARVL,2017,49979552.7638719
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2017,2517000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2017,4992000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2017,6621000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2017,123000.0
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2017,182000.0
+International Tourism Arrivals,World Bank Open Data,Poland,POL,"International tourism, number of arrivals",ST.INT.ARVL,2017,83804000.0
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2017,4927000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2017,15432000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2017,4744000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2017,503000.0
+International Tourism Arrivals,World Bank Open Data,Pacific island small states,PSS,"International tourism, number of arrivals",ST.INT.ARVL,2017,1885809.47177424
+International Tourism Arrivals,World Bank Open Data,Post-demographic dividend,PST,"International tourism, number of arrivals",ST.INT.ARVL,2017,1223167398.08182
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2017,254000.0
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2017,2256000.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2017,10926000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2017,24390000.0
+International Tourism Arrivals,World Bank Open Data,Rwanda,RWA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1570000.0
+International Tourism Arrivals,World Bank Open Data,South Asia,SAS,"International tourism, number of arrivals",ST.INT.ARVL,2017,23793410.4549282
+International Tourism Arrivals,World Bank Open Data,Saudi Arabia,SAU,"International tourism, number of arrivals",ST.INT.ARVL,2017,18607000.0
+International Tourism Arrivals,World Bank Open Data,Sudan,SDN,"International tourism, number of arrivals",ST.INT.ARVL,2017,813000.0
+International Tourism Arrivals,World Bank Open Data,Senegal,SEN,"International tourism, number of arrivals",ST.INT.ARVL,2017,1376000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2017,17425000.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2017,25700.0007629395
+International Tourism Arrivals,World Bank Open Data,Sierra Leone,SLE,"International tourism, number of arrivals",ST.INT.ARVL,2017,59000.0
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2017,2247000.0
+International Tourism Arrivals,World Bank Open Data,San Marino,SMR,"International tourism, number of arrivals",ST.INT.ARVL,2017,1937000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2017,1497000.0
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (excluding high income),SSA,"International tourism, number of arrivals",ST.INT.ARVL,2017,52496629.8574719
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa,SSF,"International tourism, number of arrivals",ST.INT.ARVL,2017,52899581.2058794
+International Tourism Arrivals,World Bank Open Data,Small states,SST,"International tourism, number of arrivals",ST.INT.ARVL,2017,75794208.0555262
+International Tourism Arrivals,World Bank Open Data,Sao Tome and Principe,STP,"International tourism, number of arrivals",ST.INT.ARVL,2017,28899.9996185303
+International Tourism Arrivals,World Bank Open Data,Suriname,SUR,"International tourism, number of arrivals",ST.INT.ARVL,2017,279000.0
+International Tourism Arrivals,World Bank Open Data,Slovak Republic,SVK,"International tourism, number of arrivals",ST.INT.ARVL,2017,15406000.0
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2017,3991000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2017,7054000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2017,1343000.0
+International Tourism Arrivals,World Bank Open Data,Sint Maarten (Dutch part),SXM,"International tourism, number of arrivals",ST.INT.ARVL,2017,1640000.0
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2017,382000.0
+International Tourism Arrivals,World Bank Open Data,Syrian Arab Republic,SYR,"International tourism, number of arrivals",ST.INT.ARVL,2017,1291000.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1243000.0
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2017,87000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (IDA & IBRD countries),TEA,"International tourism, number of arrivals",ST.INT.ARVL,2017,263898378.255022
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (IDA & IBRD countries),TEC,"International tourism, number of arrivals",ST.INT.ARVL,2017,294608725.405586
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2017,514000.0
+International Tourism Arrivals,World Bank Open Data,Thailand,THA,"International tourism, number of arrivals",ST.INT.ARVL,2017,35592000.0
+International Tourism Arrivals,World Bank Open Data,Tajikistan,TJK,"International tourism, number of arrivals",ST.INT.ARVL,2017,431000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & the Caribbean (IDA & IBRD countries),TLA,"International tourism, number of arrivals",ST.INT.ARVL,2017,175407000.0
+International Tourism Arrivals,World Bank Open Data,Timor-Leste,TLS,"International tourism, number of arrivals",ST.INT.ARVL,2017,73900.0015258789
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"International tourism, number of arrivals",ST.INT.ARVL,2017,48055307.589623
+International Tourism Arrivals,World Bank Open Data,Tonga,TON,"International tourism, number of arrivals",ST.INT.ARVL,2017,86599.9984741211
+International Tourism Arrivals,World Bank Open Data,South Asia (IDA & IBRD),TSA,"International tourism, number of arrivals",ST.INT.ARVL,2017,23053667.1488805
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (IDA & IBRD countries),TSS,"International tourism, number of arrivals",ST.INT.ARVL,2017,52899581.2058794
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2017,465000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2017,7052000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2017,37970000.0
+International Tourism Arrivals,World Bank Open Data,Tuvalu,TUV,"International tourism, number of arrivals",ST.INT.ARVL,2017,2500.0
+International Tourism Arrivals,World Bank Open Data,Tanzania,TZA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1327000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2017,1402000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2017,14579000.0
+International Tourism Arrivals,World Bank Open Data,Upper middle income,UMC,"International tourism, number of arrivals",ST.INT.ARVL,2017,534415314.856608
+International Tourism Arrivals,World Bank Open Data,Uruguay,URY,"International tourism, number of arrivals",ST.INT.ARVL,2017,4219000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2017,174291750.0
+International Tourism Arrivals,World Bank Open Data,Uzbekistan,UZB,"International tourism, number of arrivals",ST.INT.ARVL,2017,2690000.0
+International Tourism Arrivals,World Bank Open Data,St. Vincent and the Grenadines,VCT,"International tourism, number of arrivals",ST.INT.ARVL,2017,303000.0
+International Tourism Arrivals,World Bank Open Data,"Venezuela, RB",VEN,"International tourism, number of arrivals",ST.INT.ARVL,2017,429000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2017,335000.0
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2017,1954000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2017,12922000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2017,332700.012207031
+International Tourism Arrivals,World Bank Open Data,World,WLD,"International tourism, number of arrivals",ST.INT.ARVL,2017,2248870723.88107
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2017,158000.0
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2017,14975000.0
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2017,1009000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2017,2423000.0
+International Tourism Arrivals,World Bank Open Data,Aruba,ABW,"International tourism, number of arrivals",ST.INT.ARVL,2018,1897000.0
+International Tourism Arrivals,World Bank Open Data,Africa Eastern and Southern,AFE,"International tourism, number of arrivals",ST.INT.ARVL,2018,41189145.2687099
+International Tourism Arrivals,World Bank Open Data,Angola,AGO,"International tourism, number of arrivals",ST.INT.ARVL,2018,218000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2018,5927000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2018,8328000.0
+International Tourism Arrivals,World Bank Open Data,Arab World,ARB,"International tourism, number of arrivals",ST.INT.ARVL,2018,131892640.892491
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2018,23092000.0
+International Tourism Arrivals,World Bank Open Data,Argentina,ARG,"International tourism, number of arrivals",ST.INT.ARVL,2018,6942000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2018,1652000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2018,20200.0007629395
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2018,1064000.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2018,9246000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2018,30816000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2018,2850000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2018,9119000.0
+International Tourism Arrivals,World Bank Open Data,Benin,BEN,"International tourism, number of arrivals",ST.INT.ARVL,2018,322000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2018,144000.0
+International Tourism Arrivals,World Bank Open Data,Bangladesh,BGD,"International tourism, number of arrivals",ST.INT.ARVL,2018,267000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2018,12368000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2018,12045000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2018,6622000.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2018,1053000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2018,11502000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2018,1697000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2018,766000.0
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2018,1142000.0
+International Tourism Arrivals,World Bank Open Data,Brazil,BRA,"International tourism, number of arrivals",ST.INT.ARVL,2018,6621000.0
+International Tourism Arrivals,World Bank Open Data,Barbados,BRB,"International tourism, number of arrivals",ST.INT.ARVL,2018,1356000.0
+International Tourism Arrivals,World Bank Open Data,Brunei Darussalam,BRN,"International tourism, number of arrivals",ST.INT.ARVL,2018,4521000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2018,274000.0
+International Tourism Arrivals,World Bank Open Data,Botswana,BWA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1830000.0
+International Tourism Arrivals,World Bank Open Data,Central African Republic,CAF,"International tourism, number of arrivals",ST.INT.ARVL,2018,109000.0
+International Tourism Arrivals,World Bank Open Data,Canada,CAN,"International tourism, number of arrivals",ST.INT.ARVL,2018,31274000.0
+International Tourism Arrivals,World Bank Open Data,Central Europe and the Baltics,CEB,"International tourism, number of arrivals",ST.INT.ARVL,2018,301502122.473578
+International Tourism Arrivals,World Bank Open Data,Switzerland,CHE,"International tourism, number of arrivals",ST.INT.ARVL,2018,11715000.0
+International Tourism Arrivals,World Bank Open Data,Chile,CHL,"International tourism, number of arrivals",ST.INT.ARVL,2018,6603000.0
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2018,158606000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2018,1965000.0
+International Tourism Arrivals,World Bank Open Data,Cameroon,CMR,"International tourism, number of arrivals",ST.INT.ARVL,2018,997000.0
+International Tourism Arrivals,World Bank Open Data,"Congo, Rep.",COG,"International tourism, number of arrivals",ST.INT.ARVL,2018,158000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2018,4397000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2018,35900.0015258789
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2018,710000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2018,3313000.0
+International Tourism Arrivals,World Bank Open Data,Caribbean small states,CSS,"International tourism, number of arrivals",ST.INT.ARVL,2018,19669834.9167994
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2018,4712000.0
+International Tourism Arrivals,World Bank Open Data,Curacao,CUW,"International tourism, number of arrivals",ST.INT.ARVL,2018,1210000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2018,2384000.0
+International Tourism Arrivals,World Bank Open Data,Cyprus,CYP,"International tourism, number of arrivals",ST.INT.ARVL,2018,4024000.0
+International Tourism Arrivals,World Bank Open Data,Czechia,CZE,"International tourism, number of arrivals",ST.INT.ARVL,2018,36268000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2018,38881000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2018,199000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2018,30801000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2018,7551000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2018,2657000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (excluding high income),EAP,"International tourism, number of arrivals",ST.INT.ARVL,2018,281129640.985927
+International Tourism Arrivals,World Bank Open Data,Early-demographic dividend,EAR,"International tourism, number of arrivals",ST.INT.ARVL,2018,350576700.187856
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific,EAS,"International tourism, number of arrivals",ST.INT.ARVL,2018,480202482.119432
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (excluding high income),ECA,"International tourism, number of arrivals",ST.INT.ARVL,2018,169084765.500036
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia,ECS,"International tourism, number of arrivals",ST.INT.ARVL,2018,1157868194.79519
+International Tourism Arrivals,World Bank Open Data,Ecuador,ECU,"International tourism, number of arrivals",ST.INT.ARVL,2018,2535000.0
+International Tourism Arrivals,World Bank Open Data,"Egypt, Arab Rep.",EGY,"International tourism, number of arrivals",ST.INT.ARVL,2018,11346000.0
+International Tourism Arrivals,World Bank Open Data,Euro area,EMU,"International tourism, number of arrivals",ST.INT.ARVL,2018,638607601.5625
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2018,124456000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2018,6033000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2018,849000.0
+International Tourism Arrivals,World Bank Open Data,European Union,EUU,"International tourism, number of arrivals",ST.INT.ARVL,2018,938485601.5625
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2018,3224000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2018,1058000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2018,211998000.0
+International Tourism Arrivals,World Bank Open Data,"Micronesia, Fed. Sts.",FSM,"International tourism, number of arrivals",ST.INT.ARVL,2018,19200.0007629395
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2018,40283000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2018,7203000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2018,552000.0
+International Tourism Arrivals,World Bank Open Data,Guinea-Bissau,GNB,"International tourism, number of arrivals",ST.INT.ARVL,2018,55000.0
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2018,33072000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2018,529000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2018,2406000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2018,1549000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2018,287000.0
+International Tourism Arrivals,World Bank Open Data,High income,HIC,"International tourism, number of arrivals",ST.INT.ARVL,2018,1491870217.10045
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2018,65148000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2018,2323000.0
+International Tourism Arrivals,World Bank Open Data,Heavily indebted poor countries (HIPC),HPC,"International tourism, number of arrivals",ST.INT.ARVL,2018,29458450.954646
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2018,57668000.0
+International Tourism Arrivals,World Bank Open Data,Haiti,HTI,"International tourism, number of arrivals",ST.INT.ARVL,2018,1333000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2018,57667000.0
+International Tourism Arrivals,World Bank Open Data,IBRD only,IBD,"International tourism, number of arrivals",ST.INT.ARVL,2018,823988846.49919
+International Tourism Arrivals,World Bank Open Data,IDA & IBRD total,IBT,"International tourism, number of arrivals",ST.INT.ARVL,2018,939010262.98174
+International Tourism Arrivals,World Bank Open Data,IDA total,IDA,"International tourism, number of arrivals",ST.INT.ARVL,2018,93089667.6452262
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2018,15810000.0
+International Tourism Arrivals,World Bank Open Data,IDA only,IDX,"International tourism, number of arrivals",ST.INT.ARVL,2018,58328493.7275152
+International Tourism Arrivals,World Bank Open Data,India,IND,"International tourism, number of arrivals",ST.INT.ARVL,2018,17423000.0
+International Tourism Arrivals,World Bank Open Data,Ireland,IRL,"International tourism, number of arrivals",ST.INT.ARVL,2018,10926000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2018,7295000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2018,2488000.0
+International Tourism Arrivals,World Bank Open Data,Israel,ISR,"International tourism, number of arrivals",ST.INT.ARVL,2018,4389000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2018,93228601.5625
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2018,4319000.0
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2018,4922000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2018,31191000.0
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2018,8789000.0
+International Tourism Arrivals,World Bank Open Data,Kenya,KEN,"International tourism, number of arrivals",ST.INT.ARVL,2018,2025000.0
+International Tourism Arrivals,World Bank Open Data,Kyrgyz Republic,KGZ,"International tourism, number of arrivals",ST.INT.ARVL,2018,6947000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2018,6201000.0
+International Tourism Arrivals,World Bank Open Data,Kiribati,KIR,"International tourism, number of arrivals",ST.INT.ARVL,2018,9000.0
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1278000.0
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2018,15347000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2018,8508000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean (excluding high income),LAC,"International tourism, number of arrivals",ST.INT.ARVL,2018,164604173.905129
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2018,4186000.0
+International Tourism Arrivals,World Bank Open Data,Lebanon,LBN,"International tourism, number of arrivals",ST.INT.ARVL,2018,1964000.0
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1165000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean,LCN,"International tourism, number of arrivals",ST.INT.ARVL,2018,201522429.427424
+International Tourism Arrivals,World Bank Open Data,Least developed countries: UN classification,LDC,"International tourism, number of arrivals",ST.INT.ARVL,2018,38555567.9067446
+International Tourism Arrivals,World Bank Open Data,Low income,LIC,"International tourism, number of arrivals",ST.INT.ARVL,2018,17021655.3602576
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2018,85300.0030517578
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2018,2521000.0
+International Tourism Arrivals,World Bank Open Data,Lower middle income,LMC,"International tourism, number of arrivals",ST.INT.ARVL,2018,192813989.629173
+International Tourism Arrivals,World Bank Open Data,Low & middle income,LMY,"International tourism, number of arrivals",ST.INT.ARVL,2018,782000891.14212
+International Tourism Arrivals,World Bank Open Data,Lesotho,LSO,"International tourism, number of arrivals",ST.INT.ARVL,2018,1173000.0
+International Tourism Arrivals,World Bank Open Data,Late-demographic dividend,LTE,"International tourism, number of arrivals",ST.INT.ARVL,2018,532235103.181661
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2018,6115000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2018,1018000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2018,7775000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2018,35804000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2018,12489000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2018,347000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2018,160000.0
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2018,360000.0
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2018,1484000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan",MEA,"International tourism, number of arrivals",ST.INT.ARVL,2018,139804138.011964
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2018,96497000.0
+International Tourism Arrivals,World Bank Open Data,Marshall Islands,MHL,"International tourism, number of arrivals",ST.INT.ARVL,2018,6800.00019073486
+International Tourism Arrivals,World Bank Open Data,Middle income,MIC,"International tourism, number of arrivals",ST.INT.ARVL,2018,758857901.867136
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2018,707000.0
+International Tourism Arrivals,World Bank Open Data,Mali,MLI,"International tourism, number of arrivals",ST.INT.ARVL,2018,203000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2018,3232000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2018,3551000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"International tourism, number of arrivals",ST.INT.ARVL,2018,58807590.7872825
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2018,2077000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2018,598000.0
+International Tourism Arrivals,World Bank Open Data,Northern Mariana Islands,MNP,"International tourism, number of arrivals",ST.INT.ARVL,2018,518000.0
+International Tourism Arrivals,World Bank Open Data,Mozambique,MOZ,"International tourism, number of arrivals",ST.INT.ARVL,2018,2870000.0
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2018,1431000.0
+International Tourism Arrivals,World Bank Open Data,Malawi,MWI,"International tourism, number of arrivals",ST.INT.ARVL,2018,871000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2018,25832000.0
+International Tourism Arrivals,World Bank Open Data,North America,NAC,"International tourism, number of arrivals",ST.INT.ARVL,2018,201364921.875
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2018,1639000.0
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2018,120000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2018,157000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2018,1412000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2018,18780000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2018,5688000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2018,1173000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2018,3858000.0
+International Tourism Arrivals,World Bank Open Data,OECD members,OED,"International tourism, number of arrivals",ST.INT.ARVL,2018,1331200523.4375
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2018,3242000.0
+International Tourism Arrivals,World Bank Open Data,Other small states,OSS,"International tourism, number of arrivals",ST.INT.ARVL,2018,51524462.8351512
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2018,2487000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2018,5384000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2018,7168000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2018,106000.0
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2018,195000.0
+International Tourism Arrivals,World Bank Open Data,Poland,POL,"International tourism, number of arrivals",ST.INT.ARVL,2018,85946000.0
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2018,4260000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2018,16186000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2018,4183000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2018,606000.0
+International Tourism Arrivals,World Bank Open Data,Pacific island small states,PSS,"International tourism, number of arrivals",ST.INT.ARVL,2018,1928869.84006484
+International Tourism Arrivals,World Bank Open Data,Post-demographic dividend,PST,"International tourism, number of arrivals",ST.INT.ARVL,2018,1257774889.54502
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2018,264000.0
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2018,1819000.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2018,11720000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2018,24551000.0
+International Tourism Arrivals,World Bank Open Data,Rwanda,RWA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1711000.0
+International Tourism Arrivals,World Bank Open Data,South Asia,SAS,"International tourism, number of arrivals",ST.INT.ARVL,2018,26712613.6296487
+International Tourism Arrivals,World Bank Open Data,Saudi Arabia,SAU,"International tourism, number of arrivals",ST.INT.ARVL,2018,17570000.0
+International Tourism Arrivals,World Bank Open Data,Sudan,SDN,"International tourism, number of arrivals",ST.INT.ARVL,2018,836000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2018,18508000.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2018,27899.9996185303
+International Tourism Arrivals,World Bank Open Data,Sierra Leone,SLE,"International tourism, number of arrivals",ST.INT.ARVL,2018,66000.0
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2018,2536000.0
+International Tourism Arrivals,World Bank Open Data,San Marino,SMR,"International tourism, number of arrivals",ST.INT.ARVL,2018,1874000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2018,1711000.0
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (excluding high income),SSA,"International tourism, number of arrivals",ST.INT.ARVL,2018,56247033.3736039
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa,SSF,"International tourism, number of arrivals",ST.INT.ARVL,2018,56673405.0653589
+International Tourism Arrivals,World Bank Open Data,Small states,SST,"International tourism, number of arrivals",ST.INT.ARVL,2018,78864839.6236104
+International Tourism Arrivals,World Bank Open Data,Sao Tome and Principe,STP,"International tourism, number of arrivals",ST.INT.ARVL,2018,33400.0015258789
+International Tourism Arrivals,World Bank Open Data,Slovak Republic,SVK,"International tourism, number of arrivals",ST.INT.ARVL,2018,15299000.0
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2018,4425000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2018,7440000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2018,1277000.0
+International Tourism Arrivals,World Bank Open Data,Sint Maarten (Dutch part),SXM,"International tourism, number of arrivals",ST.INT.ARVL,2018,1775000.0
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2018,405000.0
+International Tourism Arrivals,World Bank Open Data,Syrian Arab Republic,SYR,"International tourism, number of arrivals",ST.INT.ARVL,2018,1802000.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1463000.0
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2018,63000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (IDA & IBRD countries),TEA,"International tourism, number of arrivals",ST.INT.ARVL,2018,277743234.61904
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (IDA & IBRD countries),TEC,"International tourism, number of arrivals",ST.INT.ARVL,2018,314784745.548675
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2018,573000.0
+International Tourism Arrivals,World Bank Open Data,Thailand,THA,"International tourism, number of arrivals",ST.INT.ARVL,2018,38178000.0
+International Tourism Arrivals,World Bank Open Data,Tajikistan,TJK,"International tourism, number of arrivals",ST.INT.ARVL,2018,1035000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & the Caribbean (IDA & IBRD countries),TLA,"International tourism, number of arrivals",ST.INT.ARVL,2018,173715171.225937
+International Tourism Arrivals,World Bank Open Data,Timor-Leste,TLS,"International tourism, number of arrivals",ST.INT.ARVL,2018,74599.9984741211
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"International tourism, number of arrivals",ST.INT.ARVL,2018,58212100.3830495
+International Tourism Arrivals,World Bank Open Data,Tonga,TON,"International tourism, number of arrivals",ST.INT.ARVL,2018,77300.0030517578
+International Tourism Arrivals,World Bank Open Data,South Asia (IDA & IBRD),TSA,"International tourism, number of arrivals",ST.INT.ARVL,2018,25882111.5392904
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (IDA & IBRD countries),TSS,"International tourism, number of arrivals",ST.INT.ARVL,2018,56673405.0653589
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2018,501000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2018,8299000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2018,46113000.0
+International Tourism Arrivals,World Bank Open Data,Tuvalu,TUV,"International tourism, number of arrivals",ST.INT.ARVL,2018,3200.00004768372
+International Tourism Arrivals,World Bank Open Data,Tanzania,TZA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1506000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2018,1506000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2018,14342000.0
+International Tourism Arrivals,World Bank Open Data,Upper middle income,UMC,"International tourism, number of arrivals",ST.INT.ARVL,2018,556608632.209134
+International Tourism Arrivals,World Bank Open Data,Uruguay,URY,"International tourism, number of arrivals",ST.INT.ARVL,2018,3954000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2018,169324921.875
+International Tourism Arrivals,World Bank Open Data,Uzbekistan,UZB,"International tourism, number of arrivals",ST.INT.ARVL,2018,5346000.0
+International Tourism Arrivals,World Bank Open Data,St. Vincent and the Grenadines,VCT,"International tourism, number of arrivals",ST.INT.ARVL,2018,356000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2018,192000.0
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2018,1922000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2018,15498000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2018,350200.012207031
+International Tourism Arrivals,World Bank Open Data,World,WLD,"International tourism, number of arrivals",ST.INT.ARVL,2018,2339399881.49679
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2018,172000.0
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2018,15004000.0
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2018,1072000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2018,2580000.0
+International Tourism Arrivals,World Bank Open Data,Aruba,ABW,"International tourism, number of arrivals",ST.INT.ARVL,2019,1951000.0
+International Tourism Arrivals,World Bank Open Data,Africa Eastern and Southern,AFE,"International tourism, number of arrivals",ST.INT.ARVL,2019,39826701.4025488
+International Tourism Arrivals,World Bank Open Data,Angola,AGO,"International tourism, number of arrivals",ST.INT.ARVL,2019,218000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2019,6406000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2019,8235000.0
+International Tourism Arrivals,World Bank Open Data,Arab World,ARB,"International tourism, number of arrivals",ST.INT.ARVL,2019,142447574.174804
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2019,25282000.0
+International Tourism Arrivals,World Bank Open Data,Argentina,ARG,"International tourism, number of arrivals",ST.INT.ARVL,2019,7399000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2019,1894000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2019,19200.0007629395
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2019,1035000.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2019,9466000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2019,31884000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2019,3170000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2019,9343000.0
+International Tourism Arrivals,World Bank Open Data,Benin,BEN,"International tourism, number of arrivals",ST.INT.ARVL,2019,337000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2019,143000.0
+International Tourism Arrivals,World Bank Open Data,Bangladesh,BGD,"International tourism, number of arrivals",ST.INT.ARVL,2019,323000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2019,12552000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2019,11061000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2019,7250000.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2019,1198000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2019,11832000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2019,1674000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2019,805000.0
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2019,1239000.0
+International Tourism Arrivals,World Bank Open Data,Brazil,BRA,"International tourism, number of arrivals",ST.INT.ARVL,2019,6353000.0
+International Tourism Arrivals,World Bank Open Data,Barbados,BRB,"International tourism, number of arrivals",ST.INT.ARVL,2019,966000.0
+International Tourism Arrivals,World Bank Open Data,Brunei Darussalam,BRN,"International tourism, number of arrivals",ST.INT.ARVL,2019,4449000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2019,316000.0
+International Tourism Arrivals,World Bank Open Data,Central African Republic,CAF,"International tourism, number of arrivals",ST.INT.ARVL,2019,87000.0
+International Tourism Arrivals,World Bank Open Data,Canada,CAN,"International tourism, number of arrivals",ST.INT.ARVL,2019,32430000.0
+International Tourism Arrivals,World Bank Open Data,Central Europe and the Baltics,CEB,"International tourism, number of arrivals",ST.INT.ARVL,2019,314638365.070248
+International Tourism Arrivals,World Bank Open Data,Switzerland,CHE,"International tourism, number of arrivals",ST.INT.ARVL,2019,11818000.0
+International Tourism Arrivals,World Bank Open Data,Chile,CHL,"International tourism, number of arrivals",ST.INT.ARVL,2019,5431000.0
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2019,162538000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2019,2070000.0
+International Tourism Arrivals,World Bank Open Data,Cameroon,CMR,"International tourism, number of arrivals",ST.INT.ARVL,2019,1021000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2019,4531000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2019,45099.9984741211
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2019,758000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2019,3366000.0
+International Tourism Arrivals,World Bank Open Data,Caribbean small states,CSS,"International tourism, number of arrivals",ST.INT.ARVL,2019,19819087.2645395
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2019,4276000.0
+International Tourism Arrivals,World Bank Open Data,Curacao,CUW,"International tourism, number of arrivals",ST.INT.ARVL,2019,1293000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2019,2334000.0
+International Tourism Arrivals,World Bank Open Data,Cyprus,CYP,"International tourism, number of arrivals",ST.INT.ARVL,2019,4117000.0
+International Tourism Arrivals,World Bank Open Data,Czechia,CZE,"International tourism, number of arrivals",ST.INT.ARVL,2019,37202000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2019,39563000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2019,322000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2019,33093000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2019,7550000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2019,2371000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (excluding high income),EAP,"International tourism, number of arrivals",ST.INT.ARVL,2019,292842169.375777
+International Tourism Arrivals,World Bank Open Data,Early-demographic dividend,EAR,"International tourism, number of arrivals",ST.INT.ARVL,2019,369336988.869679
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific,EAS,"International tourism, number of arrivals",ST.INT.ARVL,2019,490804002.09165
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (excluding high income),ECA,"International tourism, number of arrivals",ST.INT.ARVL,2019,180880471.54687
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia,ECS,"International tourism, number of arrivals",ST.INT.ARVL,2019,1199188498.74821
+International Tourism Arrivals,World Bank Open Data,Ecuador,ECU,"International tourism, number of arrivals",ST.INT.ARVL,2019,2108000.0
+International Tourism Arrivals,World Bank Open Data,"Egypt, Arab Rep.",EGY,"International tourism, number of arrivals",ST.INT.ARVL,2019,13026000.0
+International Tourism Arrivals,World Bank Open Data,Euro area,EMU,"International tourism, number of arrivals",ST.INT.ARVL,2019,655573447.522239
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2019,126170000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2019,6103000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2019,812000.0
+International Tourism Arrivals,World Bank Open Data,European Union,EUU,"International tourism, number of arrivals",ST.INT.ARVL,2019,968873375.260994
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2019,3290000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2019,969000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2019,217877000.0
+International Tourism Arrivals,World Bank Open Data,"Micronesia, Fed. Sts.",FSM,"International tourism, number of arrivals",ST.INT.ARVL,2019,18000.0
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2019,40857000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2019,7726000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2019,620000.0
+International Tourism Arrivals,World Bank Open Data,Guinea-Bissau,GNB,"International tourism, number of arrivals",ST.INT.ARVL,2019,52400.0015258789
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2019,34005000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2019,526000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2019,2560000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2019,1667000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2019,315000.0
+International Tourism Arrivals,World Bank Open Data,High income,HIC,"International tourism, number of arrivals",ST.INT.ARVL,2019,1522430052.79407
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2019,55913000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2019,2315000.0
+International Tourism Arrivals,World Bank Open Data,Heavily indebted poor countries (HIPC),HPC,"International tourism, number of arrivals",ST.INT.ARVL,2019,29134874.0028677
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2019,60021000.0
+International Tourism Arrivals,World Bank Open Data,Haiti,HTI,"International tourism, number of arrivals",ST.INT.ARVL,2019,938000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2019,61397000.0
+International Tourism Arrivals,World Bank Open Data,IBRD only,IBD,"International tourism, number of arrivals",ST.INT.ARVL,2019,852166955.667661
+International Tourism Arrivals,World Bank Open Data,IDA & IBRD total,IBT,"International tourism, number of arrivals",ST.INT.ARVL,2019,974462802.208958
+International Tourism Arrivals,World Bank Open Data,IDA total,IDA,"International tourism, number of arrivals",ST.INT.ARVL,2019,100914423.764227
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2019,16107000.0
+International Tourism Arrivals,World Bank Open Data,IDA only,IDX,"International tourism, number of arrivals",ST.INT.ARVL,2019,63144062.5081978
+International Tourism Arrivals,World Bank Open Data,India,IND,"International tourism, number of arrivals",ST.INT.ARVL,2019,17914000.0
+International Tourism Arrivals,World Bank Open Data,Ireland,IRL,"International tourism, number of arrivals",ST.INT.ARVL,2019,10951000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2019,9107000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2019,2202000.0
+International Tourism Arrivals,World Bank Open Data,Israel,ISR,"International tourism, number of arrivals",ST.INT.ARVL,2019,4905000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2019,95399000.0
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2019,4233000.0
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2019,5361000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2019,31881000.0
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2019,8515000.0
+International Tourism Arrivals,World Bank Open Data,Kenya,KEN,"International tourism, number of arrivals",ST.INT.ARVL,2019,2049000.0
+International Tourism Arrivals,World Bank Open Data,Kyrgyz Republic,KGZ,"International tourism, number of arrivals",ST.INT.ARVL,2019,8508000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2019,6611000.0
+International Tourism Arrivals,World Bank Open Data,Kiribati,KIR,"International tourism, number of arrivals",ST.INT.ARVL,2019,12000.0
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1107000.0
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2019,17503000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2019,8565000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean (excluding high income),LAC,"International tourism, number of arrivals",ST.INT.ARVL,2019,165233236.99443
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2019,4791000.0
+International Tourism Arrivals,World Bank Open Data,Lebanon,LBN,"International tourism, number of arrivals",ST.INT.ARVL,2019,1936000.0
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1220000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & Caribbean,LCN,"International tourism, number of arrivals",ST.INT.ARVL,2019,201856013.686497
+International Tourism Arrivals,World Bank Open Data,Least developed countries: UN classification,LDC,"International tourism, number of arrivals",ST.INT.ARVL,2019,40176417.3590637
+International Tourism Arrivals,World Bank Open Data,Low income,LIC,"International tourism, number of arrivals",ST.INT.ARVL,2019,17409971.529363
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2019,98099.9984741211
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2019,2027000.0
+International Tourism Arrivals,World Bank Open Data,Lower middle income,LMC,"International tourism, number of arrivals",ST.INT.ARVL,2019,207722217.280817
+International Tourism Arrivals,World Bank Open Data,Low & middle income,LMY,"International tourism, number of arrivals",ST.INT.ARVL,2019,814041186.104538
+International Tourism Arrivals,World Bank Open Data,Lesotho,LSO,"International tourism, number of arrivals",ST.INT.ARVL,2019,1142000.0
+International Tourism Arrivals,World Bank Open Data,Late-demographic dividend,LTE,"International tourism, number of arrivals",ST.INT.ARVL,2019,549832276.924528
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2019,6150000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2019,1041000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2019,8342000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2019,39406000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2019,13109000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2019,363000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2019,174000.0
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2019,486000.0
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2019,1703000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan",MEA,"International tourism, number of arrivals",ST.INT.ARVL,2019,152571279.95283
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2019,97406000.0
+International Tourism Arrivals,World Bank Open Data,Marshall Islands,MHL,"International tourism, number of arrivals",ST.INT.ARVL,2019,6099.99990463257
+International Tourism Arrivals,World Bank Open Data,Middle income,MIC,"International tourism, number of arrivals",ST.INT.ARVL,2019,790163362.933784
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2019,758000.0
+International Tourism Arrivals,World Bank Open Data,Mali,MLI,"International tourism, number of arrivals",ST.INT.ARVL,2019,217000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2019,3519000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2019,4364000.0
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,"International tourism, number of arrivals",ST.INT.ARVL,2019,65756226.1253439
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2019,2510000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2019,637000.0
+International Tourism Arrivals,World Bank Open Data,Northern Mariana Islands,MNP,"International tourism, number of arrivals",ST.INT.ARVL,2019,487000.0
+International Tourism Arrivals,World Bank Open Data,Mozambique,MOZ,"International tourism, number of arrivals",ST.INT.ARVL,2019,2033000.0
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2019,1418000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2019,26101000.0
+International Tourism Arrivals,World Bank Open Data,North America,NAC,"International tourism, number of arrivals",ST.INT.ARVL,2019,198713000.0
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2019,1651000.0
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2019,130000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2019,192000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2019,1455000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2019,20129000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2019,5879000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2019,1197000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2019,3888000.0
+International Tourism Arrivals,World Bank Open Data,OECD members,OED,"International tourism, number of arrivals",ST.INT.ARVL,2019,1364524985.83971
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2019,3506000.0
+International Tourism Arrivals,World Bank Open Data,Other small states,OSS,"International tourism, number of arrivals",ST.INT.ARVL,2019,51930012.4665974
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2019,2494000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2019,5275000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2019,8261000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2019,94000.0
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2019,211000.0
+International Tourism Arrivals,World Bank Open Data,Poland,POL,"International tourism, number of arrivals",ST.INT.ARVL,2019,88515000.0
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2019,4931000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2019,17283000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2019,4368000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2019,688000.0
+International Tourism Arrivals,World Bank Open Data,Pacific island small states,PSS,"International tourism, number of arrivals",ST.INT.ARVL,2019,1752269.77187474
+International Tourism Arrivals,World Bank Open Data,Post-demographic dividend,PST,"International tourism, number of arrivals",ST.INT.ARVL,2019,1275198369.71218
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2019,300000.0
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2019,2136500.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2019,12815000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2019,24419000.0
+International Tourism Arrivals,World Bank Open Data,Rwanda,RWA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1634000.0
+International Tourism Arrivals,World Bank Open Data,South Asia,SAS,"International tourism, number of arrivals",ST.INT.ARVL,2019,27102764.1528023
+International Tourism Arrivals,World Bank Open Data,Saudi Arabia,SAU,"International tourism, number of arrivals",ST.INT.ARVL,2019,20292000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2019,19116000.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2019,28899.9996185303
+International Tourism Arrivals,World Bank Open Data,Sierra Leone,SLE,"International tourism, number of arrivals",ST.INT.ARVL,2019,71000.0
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2019,2639000.0
+International Tourism Arrivals,World Bank Open Data,San Marino,SMR,"International tourism, number of arrivals",ST.INT.ARVL,2019,1904000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2019,1847000.0
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (excluding high income),SSA,"International tourism, number of arrivals",ST.INT.ARVL,2019,55555231.2954125
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa,SSF,"International tourism, number of arrivals",ST.INT.ARVL,2019,56014499.1539477
+International Tourism Arrivals,World Bank Open Data,Small states,SST,"International tourism, number of arrivals",ST.INT.ARVL,2019,79086475.9232005
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2019,4702000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2019,7616000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2019,1226000.0
+International Tourism Arrivals,World Bank Open Data,Sint Maarten (Dutch part),SXM,"International tourism, number of arrivals",ST.INT.ARVL,2019,1952000.0
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2019,428000.0
+International Tourism Arrivals,World Bank Open Data,Syrian Arab Republic,SYR,"International tourism, number of arrivals",ST.INT.ARVL,2019,2424000.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1599000.0
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2019,81000.0
+International Tourism Arrivals,World Bank Open Data,East Asia & Pacific (IDA & IBRD countries),TEA,"International tourism, number of arrivals",ST.INT.ARVL,2019,289300101.805405
+International Tourism Arrivals,World Bank Open Data,Europe & Central Asia (IDA & IBRD countries),TEC,"International tourism, number of arrivals",ST.INT.ARVL,2019,331546366.211299
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2019,876000.0
+International Tourism Arrivals,World Bank Open Data,Thailand,THA,"International tourism, number of arrivals",ST.INT.ARVL,2019,39916000.0
+International Tourism Arrivals,World Bank Open Data,Latin America & the Caribbean (IDA & IBRD countries),TLA,"International tourism, number of arrivals",ST.INT.ARVL,2019,172908916.919959
+International Tourism Arrivals,World Bank Open Data,Timor-Leste,TLS,"International tourism, number of arrivals",ST.INT.ARVL,2019,74800.0030517578
+International Tourism Arrivals,World Bank Open Data,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,"International tourism, number of arrivals",ST.INT.ARVL,2019,65078454.6035971
+International Tourism Arrivals,World Bank Open Data,Tonga,TON,"International tourism, number of arrivals",ST.INT.ARVL,2019,94000.0
+International Tourism Arrivals,World Bank Open Data,South Asia (IDA & IBRD),TSA,"International tourism, number of arrivals",ST.INT.ARVL,2019,26260132.181425
+International Tourism Arrivals,World Bank Open Data,Sub-Saharan Africa (IDA & IBRD countries),TSS,"International tourism, number of arrivals",ST.INT.ARVL,2019,56014499.1539477
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2019,480000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2019,9429000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2019,51747000.0
+International Tourism Arrivals,World Bank Open Data,Tuvalu,TUV,"International tourism, number of arrivals",ST.INT.ARVL,2019,3599.99990463257
+International Tourism Arrivals,World Bank Open Data,Tanzania,TZA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1527000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2019,1543000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2019,13710000.0
+International Tourism Arrivals,World Bank Open Data,Upper middle income,UMC,"International tourism, number of arrivals",ST.INT.ARVL,2019,573310641.28494
+International Tourism Arrivals,World Bank Open Data,Uruguay,URY,"International tourism, number of arrivals",ST.INT.ARVL,2019,3480000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2019,165478000.0
+International Tourism Arrivals,World Bank Open Data,Uzbekistan,UZB,"International tourism, number of arrivals",ST.INT.ARVL,2019,6749000.0
+International Tourism Arrivals,World Bank Open Data,St. Vincent and the Grenadines,VCT,"International tourism, number of arrivals",ST.INT.ARVL,2019,392000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2019,302399.993896484
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2019,2074000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2019,18009000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2019,256000.0
+International Tourism Arrivals,World Bank Open Data,World,WLD,"International tourism, number of arrivals",ST.INT.ARVL,2019,2403074088.46029
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2019,181000.0
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2019,14797000.0
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2019,1266000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2019,2294000.0
+International Tourism Arrivals,World Bank Open Data,Albania,ALB,"International tourism, number of arrivals",ST.INT.ARVL,2020,2658000.0
+International Tourism Arrivals,World Bank Open Data,Andorra,AND,"International tourism, number of arrivals",ST.INT.ARVL,2020,5207000.0
+International Tourism Arrivals,World Bank Open Data,United Arab Emirates,ARE,"International tourism, number of arrivals",ST.INT.ARVL,2020,8084000.0
+International Tourism Arrivals,World Bank Open Data,Armenia,ARM,"International tourism, number of arrivals",ST.INT.ARVL,2020,375000.0
+International Tourism Arrivals,World Bank Open Data,American Samoa,ASM,"International tourism, number of arrivals",ST.INT.ARVL,2020,899.999976158142
+International Tourism Arrivals,World Bank Open Data,Antigua and Barbuda,ATG,"International tourism, number of arrivals",ST.INT.ARVL,2020,384500.0
+International Tourism Arrivals,World Bank Open Data,Australia,AUS,"International tourism, number of arrivals",ST.INT.ARVL,2020,1828000.0
+International Tourism Arrivals,World Bank Open Data,Austria,AUT,"International tourism, number of arrivals",ST.INT.ARVL,2020,15091000.0
+International Tourism Arrivals,World Bank Open Data,Azerbaijan,AZE,"International tourism, number of arrivals",ST.INT.ARVL,2020,796000.0
+International Tourism Arrivals,World Bank Open Data,Belgium,BEL,"International tourism, number of arrivals",ST.INT.ARVL,2020,2584000.0
+International Tourism Arrivals,World Bank Open Data,Burkina Faso,BFA,"International tourism, number of arrivals",ST.INT.ARVL,2020,67000.0
+International Tourism Arrivals,World Bank Open Data,Bulgaria,BGR,"International tourism, number of arrivals",ST.INT.ARVL,2020,4973000.0
+International Tourism Arrivals,World Bank Open Data,Bahrain,BHR,"International tourism, number of arrivals",ST.INT.ARVL,2020,1909000.0
+International Tourism Arrivals,World Bank Open Data,"Bahamas, The",BHS,"International tourism, number of arrivals",ST.INT.ARVL,2020,1794500.0
+International Tourism Arrivals,World Bank Open Data,Bosnia and Herzegovina,BIH,"International tourism, number of arrivals",ST.INT.ARVL,2020,197000.0
+International Tourism Arrivals,World Bank Open Data,Belarus,BLR,"International tourism, number of arrivals",ST.INT.ARVL,2020,3598000.0
+International Tourism Arrivals,World Bank Open Data,Belize,BLZ,"International tourism, number of arrivals",ST.INT.ARVL,2020,487000.0
+International Tourism Arrivals,World Bank Open Data,Bermuda,BMU,"International tourism, number of arrivals",ST.INT.ARVL,2020,51400.0015258789
+International Tourism Arrivals,World Bank Open Data,Bolivia,BOL,"International tourism, number of arrivals",ST.INT.ARVL,2020,323299.987792969
+International Tourism Arrivals,World Bank Open Data,Brunei Darussalam,BRN,"International tourism, number of arrivals",ST.INT.ARVL,2020,1071000.0
+International Tourism Arrivals,World Bank Open Data,Bhutan,BTN,"International tourism, number of arrivals",ST.INT.ARVL,2020,29799.9992370605
+International Tourism Arrivals,World Bank Open Data,China,CHN,"International tourism, number of arrivals",ST.INT.ARVL,2020,30402000.0
+International Tourism Arrivals,World Bank Open Data,Cote d'Ivoire,CIV,"International tourism, number of arrivals",ST.INT.ARVL,2020,668000.0
+International Tourism Arrivals,World Bank Open Data,Colombia,COL,"International tourism, number of arrivals",ST.INT.ARVL,2020,1396000.0
+International Tourism Arrivals,World Bank Open Data,Comoros,COM,"International tourism, number of arrivals",ST.INT.ARVL,2020,7000.0
+International Tourism Arrivals,World Bank Open Data,Cabo Verde,CPV,"International tourism, number of arrivals",ST.INT.ARVL,2020,180000.0
+International Tourism Arrivals,World Bank Open Data,Costa Rica,CRI,"International tourism, number of arrivals",ST.INT.ARVL,2020,1146500.0
+International Tourism Arrivals,World Bank Open Data,Cuba,CUB,"International tourism, number of arrivals",ST.INT.ARVL,2020,1086000.0
+International Tourism Arrivals,World Bank Open Data,Cayman Islands,CYM,"International tourism, number of arrivals",ST.INT.ARVL,2020,660000.0
+International Tourism Arrivals,World Bank Open Data,Germany,DEU,"International tourism, number of arrivals",ST.INT.ARVL,2020,12449000.0
+International Tourism Arrivals,World Bank Open Data,Dominica,DMA,"International tourism, number of arrivals",ST.INT.ARVL,2020,140000.0
+International Tourism Arrivals,World Bank Open Data,Denmark,DNK,"International tourism, number of arrivals",ST.INT.ARVL,2020,15595000.0
+International Tourism Arrivals,World Bank Open Data,Dominican Republic,DOM,"International tourism, number of arrivals",ST.INT.ARVL,2020,2748000.0
+International Tourism Arrivals,World Bank Open Data,Algeria,DZA,"International tourism, number of arrivals",ST.INT.ARVL,2020,591000.0
+International Tourism Arrivals,World Bank Open Data,Spain,ESP,"International tourism, number of arrivals",ST.INT.ARVL,2020,36410000.0
+International Tourism Arrivals,World Bank Open Data,Estonia,EST,"International tourism, number of arrivals",ST.INT.ARVL,2020,1695000.0
+International Tourism Arrivals,World Bank Open Data,Ethiopia,ETH,"International tourism, number of arrivals",ST.INT.ARVL,2020,518000.0
+International Tourism Arrivals,World Bank Open Data,Finland,FIN,"International tourism, number of arrivals",ST.INT.ARVL,2020,896000.0
+International Tourism Arrivals,World Bank Open Data,Fiji,FJI,"International tourism, number of arrivals",ST.INT.ARVL,2020,168000.0
+International Tourism Arrivals,World Bank Open Data,France,FRA,"International tourism, number of arrivals",ST.INT.ARVL,2020,117109000.0
+International Tourism Arrivals,World Bank Open Data,United Kingdom,GBR,"International tourism, number of arrivals",ST.INT.ARVL,2020,11101000.0
+International Tourism Arrivals,World Bank Open Data,Georgia,GEO,"International tourism, number of arrivals",ST.INT.ARVL,2020,1513000.0
+International Tourism Arrivals,World Bank Open Data,"Gambia, The",GMB,"International tourism, number of arrivals",ST.INT.ARVL,2020,246000.0
+International Tourism Arrivals,World Bank Open Data,Greece,GRC,"International tourism, number of arrivals",ST.INT.ARVL,2020,7406000.0
+International Tourism Arrivals,World Bank Open Data,Grenada,GRD,"International tourism, number of arrivals",ST.INT.ARVL,2020,217000.0
+International Tourism Arrivals,World Bank Open Data,Guatemala,GTM,"International tourism, number of arrivals",ST.INT.ARVL,2020,594000.0
+International Tourism Arrivals,World Bank Open Data,Guam,GUM,"International tourism, number of arrivals",ST.INT.ARVL,2020,328000.0
+International Tourism Arrivals,World Bank Open Data,Guyana,GUY,"International tourism, number of arrivals",ST.INT.ARVL,2020,86400.0015258789
+International Tourism Arrivals,World Bank Open Data,"Hong Kong SAR, China",HKG,"International tourism, number of arrivals",ST.INT.ARVL,2020,3569000.0
+International Tourism Arrivals,World Bank Open Data,Honduras,HND,"International tourism, number of arrivals",ST.INT.ARVL,2020,669000.0
+International Tourism Arrivals,World Bank Open Data,Croatia,HRV,"International tourism, number of arrivals",ST.INT.ARVL,2020,21608000.0
+International Tourism Arrivals,World Bank Open Data,Hungary,HUN,"International tourism, number of arrivals",ST.INT.ARVL,2020,31641000.0
+International Tourism Arrivals,World Bank Open Data,Indonesia,IDN,"International tourism, number of arrivals",ST.INT.ARVL,2020,4053000.0
+International Tourism Arrivals,World Bank Open Data,"Iran, Islamic Rep.",IRN,"International tourism, number of arrivals",ST.INT.ARVL,2020,1550000.0
+International Tourism Arrivals,World Bank Open Data,Iceland,ISL,"International tourism, number of arrivals",ST.INT.ARVL,2020,488000.0
+International Tourism Arrivals,World Bank Open Data,Italy,ITA,"International tourism, number of arrivals",ST.INT.ARVL,2020,38419000.0
+International Tourism Arrivals,World Bank Open Data,Jamaica,JAM,"International tourism, number of arrivals",ST.INT.ARVL,2020,1329699.95117188
+International Tourism Arrivals,World Bank Open Data,Jordan,JOR,"International tourism, number of arrivals",ST.INT.ARVL,2020,1240000.0
+International Tourism Arrivals,World Bank Open Data,Japan,JPN,"International tourism, number of arrivals",ST.INT.ARVL,2020,4115799.8046875
+International Tourism Arrivals,World Bank Open Data,Kazakhstan,KAZ,"International tourism, number of arrivals",ST.INT.ARVL,2020,2035000.0
+International Tourism Arrivals,World Bank Open Data,Cambodia,KHM,"International tourism, number of arrivals",ST.INT.ARVL,2020,1306000.0
+International Tourism Arrivals,World Bank Open Data,St. Kitts and Nevis,KNA,"International tourism, number of arrivals",ST.INT.ARVL,2020,301399.993896484
+International Tourism Arrivals,World Bank Open Data,"Korea, Rep.",KOR,"International tourism, number of arrivals",ST.INT.ARVL,2020,2519000.0
+International Tourism Arrivals,World Bank Open Data,Kuwait,KWT,"International tourism, number of arrivals",ST.INT.ARVL,2020,2161000.0
+International Tourism Arrivals,World Bank Open Data,Lao PDR,LAO,"International tourism, number of arrivals",ST.INT.ARVL,2020,886400.024414063
+International Tourism Arrivals,World Bank Open Data,St. Lucia,LCA,"International tourism, number of arrivals",ST.INT.ARVL,2020,432500.0
+International Tourism Arrivals,World Bank Open Data,Liechtenstein,LIE,"International tourism, number of arrivals",ST.INT.ARVL,2020,58400.0015258789
+International Tourism Arrivals,World Bank Open Data,Sri Lanka,LKA,"International tourism, number of arrivals",ST.INT.ARVL,2020,540000.0
+International Tourism Arrivals,World Bank Open Data,Lithuania,LTU,"International tourism, number of arrivals",ST.INT.ARVL,2020,2284000.0
+International Tourism Arrivals,World Bank Open Data,Luxembourg,LUX,"International tourism, number of arrivals",ST.INT.ARVL,2020,525000.0
+International Tourism Arrivals,World Bank Open Data,Latvia,LVA,"International tourism, number of arrivals",ST.INT.ARVL,2020,3204000.0
+International Tourism Arrivals,World Bank Open Data,"Macao SAR, China",MAC,"International tourism, number of arrivals",ST.INT.ARVL,2020,5897000.0
+International Tourism Arrivals,World Bank Open Data,Morocco,MAR,"International tourism, number of arrivals",ST.INT.ARVL,2020,2802000.0
+International Tourism Arrivals,World Bank Open Data,Monaco,MCO,"International tourism, number of arrivals",ST.INT.ARVL,2020,159000.0
+International Tourism Arrivals,World Bank Open Data,Moldova,MDA,"International tourism, number of arrivals",ST.INT.ARVL,2020,29000.0
+International Tourism Arrivals,World Bank Open Data,Madagascar,MDG,"International tourism, number of arrivals",ST.INT.ARVL,2020,87099.9984741211
+International Tourism Arrivals,World Bank Open Data,Maldives,MDV,"International tourism, number of arrivals",ST.INT.ARVL,2020,555000.0
+International Tourism Arrivals,World Bank Open Data,Mexico,MEX,"International tourism, number of arrivals",ST.INT.ARVL,2020,51128000.0
+International Tourism Arrivals,World Bank Open Data,North Macedonia,MKD,"International tourism, number of arrivals",ST.INT.ARVL,2020,118000.0
+International Tourism Arrivals,World Bank Open Data,Malta,MLT,"International tourism, number of arrivals",ST.INT.ARVL,2020,718000.0
+International Tourism Arrivals,World Bank Open Data,Myanmar,MMR,"International tourism, number of arrivals",ST.INT.ARVL,2020,903000.0
+International Tourism Arrivals,World Bank Open Data,Montenegro,MNE,"International tourism, number of arrivals",ST.INT.ARVL,2020,351000.0
+International Tourism Arrivals,World Bank Open Data,Mongolia,MNG,"International tourism, number of arrivals",ST.INT.ARVL,2020,66900.0015258789
+International Tourism Arrivals,World Bank Open Data,Mauritius,MUS,"International tourism, number of arrivals",ST.INT.ARVL,2020,316000.0
+International Tourism Arrivals,World Bank Open Data,Malaysia,MYS,"International tourism, number of arrivals",ST.INT.ARVL,2020,4333000.0
+International Tourism Arrivals,World Bank Open Data,Namibia,NAM,"International tourism, number of arrivals",ST.INT.ARVL,2020,187100.006103516
+International Tourism Arrivals,World Bank Open Data,New Caledonia,NCL,"International tourism, number of arrivals",ST.INT.ARVL,2020,31000.0
+International Tourism Arrivals,World Bank Open Data,Niger,NER,"International tourism, number of arrivals",ST.INT.ARVL,2020,85000.0
+International Tourism Arrivals,World Bank Open Data,Nicaragua,NIC,"International tourism, number of arrivals",ST.INT.ARVL,2020,474000.0
+International Tourism Arrivals,World Bank Open Data,Netherlands,NLD,"International tourism, number of arrivals",ST.INT.ARVL,2020,7265000.0
+International Tourism Arrivals,World Bank Open Data,Norway,NOR,"International tourism, number of arrivals",ST.INT.ARVL,2020,1397000.0
+International Tourism Arrivals,World Bank Open Data,Nepal,NPL,"International tourism, number of arrivals",ST.INT.ARVL,2020,230000.0
+International Tourism Arrivals,World Bank Open Data,New Zealand,NZL,"International tourism, number of arrivals",ST.INT.ARVL,2020,996000.0
+International Tourism Arrivals,World Bank Open Data,Oman,OMN,"International tourism, number of arrivals",ST.INT.ARVL,2020,869000.0
+International Tourism Arrivals,World Bank Open Data,Panama,PAN,"International tourism, number of arrivals",ST.INT.ARVL,2020,647000.0
+International Tourism Arrivals,World Bank Open Data,Peru,PER,"International tourism, number of arrivals",ST.INT.ARVL,2020,1119000.0
+International Tourism Arrivals,World Bank Open Data,Philippines,PHL,"International tourism, number of arrivals",ST.INT.ARVL,2020,1483000.0
+International Tourism Arrivals,World Bank Open Data,Palau,PLW,"International tourism, number of arrivals",ST.INT.ARVL,2020,18399.9996185303
+International Tourism Arrivals,World Bank Open Data,Papua New Guinea,PNG,"International tourism, number of arrivals",ST.INT.ARVL,2020,39000.0
+International Tourism Arrivals,World Bank Open Data,Puerto Rico (US),PRI,"International tourism, number of arrivals",ST.INT.ARVL,2020,3882000.0
+International Tourism Arrivals,World Bank Open Data,Portugal,PRT,"International tourism, number of arrivals",ST.INT.ARVL,2020,4208000.0
+International Tourism Arrivals,World Bank Open Data,Paraguay,PRY,"International tourism, number of arrivals",ST.INT.ARVL,2020,1077000.0
+International Tourism Arrivals,World Bank Open Data,West Bank and Gaza,PSE,"International tourism, number of arrivals",ST.INT.ARVL,2020,93000.0
+International Tourism Arrivals,World Bank Open Data,French Polynesia,PYF,"International tourism, number of arrivals",ST.INT.ARVL,2020,89400.0015258789
+International Tourism Arrivals,World Bank Open Data,Qatar,QAT,"International tourism, number of arrivals",ST.INT.ARVL,2020,582000.0
+International Tourism Arrivals,World Bank Open Data,Romania,ROU,"International tourism, number of arrivals",ST.INT.ARVL,2020,5023000.0
+International Tourism Arrivals,World Bank Open Data,Russian Federation,RUS,"International tourism, number of arrivals",ST.INT.ARVL,2020,6359000.0
+International Tourism Arrivals,World Bank Open Data,Singapore,SGP,"International tourism, number of arrivals",ST.INT.ARVL,2020,2742000.0
+International Tourism Arrivals,World Bank Open Data,Solomon Islands,SLB,"International tourism, number of arrivals",ST.INT.ARVL,2020,4400.00009536743
+International Tourism Arrivals,World Bank Open Data,El Salvador,SLV,"International tourism, number of arrivals",ST.INT.ARVL,2020,707000.0
+International Tourism Arrivals,World Bank Open Data,Serbia,SRB,"International tourism, number of arrivals",ST.INT.ARVL,2020,446000.0
+International Tourism Arrivals,World Bank Open Data,Slovenia,SVN,"International tourism, number of arrivals",ST.INT.ARVL,2020,1216000.0
+International Tourism Arrivals,World Bank Open Data,Sweden,SWE,"International tourism, number of arrivals",ST.INT.ARVL,2020,1957000.0
+International Tourism Arrivals,World Bank Open Data,Eswatini,SWZ,"International tourism, number of arrivals",ST.INT.ARVL,2020,345299.987792969
+International Tourism Arrivals,World Bank Open Data,Seychelles,SYC,"International tourism, number of arrivals",ST.INT.ARVL,2020,124500.0
+International Tourism Arrivals,World Bank Open Data,Turks and Caicos Islands,TCA,"International tourism, number of arrivals",ST.INT.ARVL,2020,370399.993896484
+International Tourism Arrivals,World Bank Open Data,Chad,TCD,"International tourism, number of arrivals",ST.INT.ARVL,2020,10399.9996185303
+International Tourism Arrivals,World Bank Open Data,Togo,TGO,"International tourism, number of arrivals",ST.INT.ARVL,2020,482000.0
+International Tourism Arrivals,World Bank Open Data,Trinidad and Tobago,TTO,"International tourism, number of arrivals",ST.INT.ARVL,2020,141000.0
+International Tourism Arrivals,World Bank Open Data,Tunisia,TUN,"International tourism, number of arrivals",ST.INT.ARVL,2020,2012000.0
+International Tourism Arrivals,World Bank Open Data,Turkiye,TUR,"International tourism, number of arrivals",ST.INT.ARVL,2020,15971000.0
+International Tourism Arrivals,World Bank Open Data,Uganda,UGA,"International tourism, number of arrivals",ST.INT.ARVL,2020,473000.0
+International Tourism Arrivals,World Bank Open Data,Ukraine,UKR,"International tourism, number of arrivals",ST.INT.ARVL,2020,3382000.0
+International Tourism Arrivals,World Bank Open Data,United States,USA,"International tourism, number of arrivals",ST.INT.ARVL,2020,45037000.0
+International Tourism Arrivals,World Bank Open Data,British Virgin Islands,VGB,"International tourism, number of arrivals",ST.INT.ARVL,2020,83000.0
+International Tourism Arrivals,World Bank Open Data,Virgin Islands (U.S.),VIR,"International tourism, number of arrivals",ST.INT.ARVL,2020,8612000.0
+International Tourism Arrivals,World Bank Open Data,Viet Nam,VNM,"International tourism, number of arrivals",ST.INT.ARVL,2020,3837000.0
+International Tourism Arrivals,World Bank Open Data,Vanuatu,VUT,"International tourism, number of arrivals",ST.INT.ARVL,2020,82400.0015258789
+International Tourism Arrivals,World Bank Open Data,Samoa,WSM,"International tourism, number of arrivals",ST.INT.ARVL,2020,23899.9996185303
+International Tourism Arrivals,World Bank Open Data,South Africa,ZAF,"International tourism, number of arrivals",ST.INT.ARVL,2020,3886600.09765625
+International Tourism Arrivals,World Bank Open Data,Zambia,ZMB,"International tourism, number of arrivals",ST.INT.ARVL,2020,502000.0
+International Tourism Arrivals,World Bank Open Data,Zimbabwe,ZWE,"International tourism, number of arrivals",ST.INT.ARVL,2020,639000.0
