@@ -1,0 +1,234 @@
+region,m49_code,country,food_service_kg_per_capita_year,food_service_tonnes_year,confidence_in_estimate
+Australia and New Zealand,36,Australia,58,"1,524,669",High Confidence
+Australia and New Zealand,554,New Zealand,39,"204,552",Very Low Confidence
+Central Asia,398,Kazakhstan,31,"595,583",Very Low Confidence
+Central Asia,417,Kyrgyzstan,31,"206,441",Very Low Confidence
+Central Asia,762,Tajikistan,31,"309,818",Very Low Confidence
+Central Asia,795,Turkmenistan,31,"197,402",Very Low Confidence
+Central Asia,860,Uzbekistan,31,"1,078,289",Very Low Confidence
+Eastern Asia,156,China,46,"65,071,246",High Confidence
+Eastern Asia,344,"China, Hong Kong SAR",25,"185,069",Very Low Confidence
+Eastern Asia,446,"China, Macao SAR",25,"17,296",Very Low Confidence
+Eastern Asia,408,Dem. People's Rep. Korea,30,"781,678",Very Low Confidence
+Eastern Asia,392,Japan,12,"1,490,488",High Confidence
+Eastern Asia,496,Mongolia,30,"101,945",Very Low Confidence
+Eastern Asia,410,Republic of Korea,25,"1,280,410",Very Low Confidence
+Eastern Europe,112,Belarus,17,"164,273",Low Confidence
+Eastern Europe,100,Bulgaria,2,"13,560",Eurostat
+Eastern Europe,203,Czechia,4,"41,960",Eurostat
+Eastern Europe,348,Hungary,2,"19,940",Eurostat
+Eastern Europe,616,Poland,5,"199,300",Eurostat
+Eastern Europe,498,Republic of Moldova,17,"56,308",Low Confidence
+Eastern Europe,642,Romania,12,"239,125",Low Confidence
+Eastern Europe,643,Russian Federation,8,"1,220,199",Medium Confidence
+Eastern Europe,703,Slovakia,1,"5,640",Eurostat
+Eastern Europe,804,Ukraine,17,"692,291",Very Low Confidence
+Latin America and the Caribbean,660,Anguilla,23,456,Very Low Confidence
+Latin America and the Caribbean,28,Antigua and Barbuda,42,"3,824",Very Low Confidence
+Latin America and the Caribbean,32,Argentina,48,"2,163,862",Very Low Confidence
+Latin America and the Caribbean,533,Aruba,42,"4,674",Very Low Confidence
+Latin America and the Caribbean,44,Bahamas,42,"17,421",Very Low Confidence
+Latin America and the Caribbean,52,Barbados,42,"11,897",Very Low Confidence
+Latin America and the Caribbean,84,Belize,48,"19,494",Very Low Confidence
+Latin America and the Caribbean,68,Bolivia (Plurin. State of),48,"583,696",Very Low Confidence
+Latin America and the Caribbean,535,"Bonaire, St. Eustatius & Saba",23,685,Very Low Confidence
+Latin America and the Caribbean,76,Brazil,48,"10,237,337",Very Low Confidence
+Latin America and the Caribbean,92,British Virgin Islands,42,"1,275",Very Low Confidence
+Latin America and the Caribbean,136,Cayman Islands,42,"2,974",Very Low Confidence
+Latin America and the Caribbean,152,Chile,42,"832,815",Very Low Confidence
+Latin America and the Caribbean,170,Colombia,48,"2,466,261",Very Low Confidence
+Latin America and the Caribbean,188,Costa Rica,48,"246,293",Very Low Confidence
+Latin America and the Caribbean,192,Cuba,48,"533,001",Very Low Confidence
+Latin America and the Caribbean,531,Curaçao,42,"8,073",Very Low Confidence
+Latin America and the Caribbean,212,Dominica,48,"3,328",Very Low Confidence
+Latin America and the Caribbean,214,Dominican Republic,48,"533,952",Very Low Confidence
+Latin America and the Caribbean,218,Ecuador,48,"855,845",Very Low Confidence
+Latin America and the Caribbean,222,El Salvador,48,"301,448",Very Low Confidence
+Latin America and the Caribbean,238,Falkland Islands (Malvinas),23,-,Very Low Confidence
+Latin America and the Caribbean,254,French Guiana,23,"6,845",Very Low Confidence
+Latin America and the Caribbean,308,Grenada,48,"6,181",Very Low Confidence
+Latin America and the Caribbean,312,Guadeloupe,23,"9,127",Very Low Confidence
+Latin America and the Caribbean,320,Guatemala,48,"848,238",Very Low Confidence
+Latin America and the Caribbean,328,Guyana,42,"34,417",Very Low Confidence
+Latin America and the Caribbean,332,Haiti,48,"553,603",Very Low Confidence
+Latin America and the Caribbean,340,Honduras,48,"498,195",Very Low Confidence
+Latin America and the Caribbean,388,Jamaica,48,"134,558",Very Low Confidence
+Latin America and the Caribbean,474,Martinique,23,"8,443",Very Low Confidence
+Latin America and the Caribbean,484,Mexico,64,"8,210,204",Medium Confidence
+Latin America and the Caribbean,500,Montserrat,23,-,Very Low Confidence
+Latin America and the Caribbean,558,Nicaragua,48,"331,971",Very Low Confidence
+Latin America and the Caribbean,591,Panama,42,"187,383",Very Low Confidence
+Latin America and the Caribbean,600,Paraguay,48,"322,368",Very Low Confidence
+Latin America and the Caribbean,604,Peru,48,"1,618,974",Very Low Confidence
+Latin America and the Caribbean,630,Puerto Rico,42,"138,094",Very Low Confidence
+Latin America and the Caribbean,652,Saint Barthélemy,23,228,Very Low Confidence
+Latin America and the Caribbean,659,Saint Kitts and Nevis,42,"2,125",Very Low Confidence
+Latin America and the Caribbean,662,Saint Lucia,48,"8,558",Very Low Confidence
+Latin America and the Caribbean,663,Saint Martin (French part),42,"1,275",Very Low Confidence
+Latin America and the Caribbean,670,Saint Vincent & Grenadines,48,"4,755",Very Low Confidence
+Latin America and the Caribbean,534,Sint Maarten (Dutch part),42,"1,700",Very Low Confidence
+Latin America and the Caribbean,740,Suriname,48,"29,479",Very Low Confidence
+Latin America and the Caribbean,780,Trinidad and Tobago,42,"65,011",Very Low Confidence
+Latin America and the Caribbean,796,Turks and Caicos Islands,42,"2,125",Very Low Confidence
+Latin America and the Caribbean,850,United States Virgin Islands,42,"4,249",Very Low Confidence
+Latin America and the Caribbean,858,Uruguay,42,"145,318",Very Low Confidence
+Latin America and the Caribbean,862,Venezuela (Boliv. Rep. of),23,"645,747",Very Low Confidence
+Melanesia,242,Fiji,31,"28,551",Very Low Confidence
+Melanesia,540,New Caledonia,21,"5,970",Very Low Confidence
+Melanesia,598,Papua New Guinea,31,"315,734",Very Low Confidence
+Melanesia,90,Solomon Islands,31,"22,419",Very Low Confidence
+Melanesia,548,Vanuatu,31,"10,275",Very Low Confidence
+Micronesia,316,Guam,21,"3,500",Very Low Confidence
+Micronesia,296,Kiribati,31,"4,048",Very Low Confidence
+Micronesia,584,Marshall Islands,31,"1,228",Very Low Confidence
+Micronesia,583,Micronesia (Fed. States of),31,"3,425",Very Low Confidence
+Micronesia,520,Nauru,21,206,Very Low Confidence
+Micronesia,580,Northern Mariana Islands,21,"1,029",Very Low Confidence
+Micronesia,585,Palau,31,614,Very Low Confidence
+Northern Africa,12,Algeria,31,"1,398,071",Very Low Confidence
+Northern Africa,818,Egypt,31,"3,455,944",Very Low Confidence
+Northern Africa,434,Libya,31,"209,068",Very Low Confidence
+Northern Africa,504,Morocco,31,"1,166,408",Very Low Confidence
+Northern Africa,729,Sudan,31,"1,459,412",Very Low Confidence
+Northern Africa,788,Tunisia,31,"384,859",Very Low Confidence
+Northern Africa,732,Western Sahara,23,"13,234",Very Low Confidence
+Northern America,60,Bermuda,49,"2,919",Very Low Confidence
+Northern America,124,Canada,80,"3,064,632",Medium Confidence
+Northern America,304,Greenland,49,"2,919",Very Low Confidence
+Northern America,666,Saint Pierre and Miquelon,23,228,Very Low Confidence
+Northern America,840,United States of America,74,"24,939,986",High Confidence
+Northern Europe,208,Denmark,11,"64,680",Eurostat
+Northern Europe,233,Estonia,8,"10,640",Eurostat
+Northern Europe,234,Faroe Islands,18,885,Low Confidence
+Northern Europe,246,Finland,14,"77,560",Eurostat
+Northern Europe,352,Iceland,18,"6,547",Low Confidence
+Northern Europe,372,Ireland,36,"180,720",Eurostat
+Northern Europe,833,Isle of Man,18,"1,415",Low Confidence
+Northern Europe,428,Latvia,19,"35,150",Eurostat
+Northern Europe,440,Lithuania,2,"5,500",Eurostat
+Northern Europe,578,Norway,18,"97,740",Eurostat
+Northern Europe,752,Sweden,9,"94,950",Eurostat
+Northern Europe,826,United Kingdom,16,"1,093,662",High Confidence
+Polynesia,16,American Samoa,21,823,Very Low Confidence
+Polynesia,184,Cook Islands,23,456,Very Low Confidence
+Polynesia,258,French Polynesia,21,"6,382",Very Low Confidence
+Polynesia,570,Niue,23,-,Very Low Confidence
+Polynesia,882,Samoa,31,"6,850",Very Low Confidence
+Polynesia,772,Tokelau,23,-,Very Low Confidence
+Polynesia,776,Tonga,31,"3,377",Very Low Confidence
+Polynesia,798,Tuvalu,31,307,Very Low Confidence
+Polynesia,876,Wallis and Futuna Islands,23,228,Very Low Confidence
+South-eastern Asia,96,Brunei Darussalam,35,"15,776",Very Low Confidence
+South-eastern Asia,116,Cambodia,40,"676,397",Very Low Confidence
+South-eastern Asia,360,Indonesia,40,"11,051,710",Very Low Confidence
+South-eastern Asia,418,Lao People's Dem. Rep.,40,"303,713",Very Low Confidence
+South-eastern Asia,458,Malaysia,50,"1,681,049",Medium Confidence
+South-eastern Asia,104,Myanmar,40,"2,185,282",Very Low Confidence
+South-eastern Asia,608,Philippines,40,"4,660,966",Very Low Confidence
+South-eastern Asia,702,Singapore,35,"209,651",Very Low Confidence
+South-eastern Asia,764,Thailand,40,"2,876,253",Very Low Confidence
+South-eastern Asia,626,Timor-Leste,40,"54,047",Very Low Confidence
+South-eastern Asia,704,Viet Nam,40,"3,960,369",Very Low Confidence
+Southern Asia,4,Afghanistan,32,"1,336,124",Very Low Confidence
+Southern Asia,50,Bangladesh,32,"5,561,174",Very Low Confidence
+Southern Asia,64,Bhutan,32,"25,339",Very Low Confidence
+Southern Asia,356,India,32,"46,037,319",Very Low Confidence
+Southern Asia,364,Iran (Islamic Republic of),32,"2,876,581",Very Low Confidence
+Southern Asia,462,Maldives,34,"17,593",Medium Confidence
+Southern Asia,524,Nepal,32,"992,429",Very Low Confidence
+Southern Asia,586,Pakistan,32,"7,660,705",Very Low Confidence
+Southern Asia,144,Sri Lanka,32,"709,156",Very Low Confidence
+Southern Europe,8,Albania,25,"69,686",Low Confidence
+Southern Europe,20,Andorra,19,"1,558",Low Confidence
+Southern Europe,70,Bosnia and Herzegovina,25,"79,256",Low Confidence
+Southern Europe,191,Croatia,4,"16,120",Eurostat
+Southern Europe,292,Gibraltar,19,584,Low Confidence
+Southern Europe,300,Greece,21,"218,190",Eurostat
+Southern Europe,336,Holy See,23,-,Very Low Confidence
+Southern Europe,380,Italy,19,"1,150,162",Low Confidence
+Southern Europe,470,Malta,45,"23,850",Eurostat
+Southern Europe,499,Montenegro,25,"15,459",Low Confidence
+Southern Europe,807,North Macedonia,25,"51,283",Low Confidence
+Southern Europe,620,Portugal,23,"236,210",Eurostat
+Southern Europe,674,San Marino,19,584,Low Confidence
+Southern Europe,688,Serbia,12,"83,920",Medium Confidence
+Southern Europe,705,Slovenia,20,"42,400",Eurostat
+Southern Europe,724,Spain,4,"190,240",Eurostat
+Sub-Saharan Africa,24,Angola,31,"1,108,181",Very Low Confidence
+Sub-Saharan Africa,204,Benin,31,"415,685",Very Low Confidence
+Sub-Saharan Africa,72,Botswana,31,"81,316",Very Low Confidence
+Sub-Saharan Africa,854,Burkina Faso,31,"705,886",Very Low Confidence
+Sub-Saharan Africa,108,Burundi,31,"401,362",Very Low Confidence
+Sub-Saharan Africa,132,Cabo Verde,31,"18,371",Very Low Confidence
+Sub-Saharan Africa,120,Cameroon,31,"869,046",Very Low Confidence
+Sub-Saharan Africa,140,Central African Republic,31,"173,747",Very Low Confidence
+Sub-Saharan Africa,148,Chad,31,"551,755",Very Low Confidence
+Sub-Saharan Africa,174,Comoros,31,"26,155",Very Low Confidence
+Sub-Saharan Africa,178,Congo,31,"185,891",Very Low Confidence
+Sub-Saharan Africa,384,Côte d’Ivoire,31,"876,830",Very Low Confidence
+Sub-Saharan Africa,180,Dem. Rep. of the Congo,31,"3,082,918",Very Low Confidence
+Sub-Saharan Africa,262,Djibouti,31,"34,874",Very Low Confidence
+Sub-Saharan Africa,226,Equatorial Guinea,31,"51,634",Very Low Confidence
+Sub-Saharan Africa,232,Eritrea,31,"114,586",Very Low Confidence
+Sub-Saharan Africa,748,Eswatini,31,"37,365",Very Low Confidence
+Sub-Saharan Africa,231,Ethiopia,31,"3,841,737",Very Low Confidence
+Sub-Saharan Africa,266,Gabon,31,"73,896",Very Low Confidence
+Sub-Saharan Africa,270,Gambia,31,"84,382",Very Low Confidence
+Sub-Saharan Africa,288,Ghana,31,"1,042,481",Very Low Confidence
+Sub-Saharan Africa,324,Guinea,31,"431,565",Very Low Confidence
+Sub-Saharan Africa,624,Guinea-Bissau,31,"65,700",Very Low Confidence
+Sub-Saharan Africa,404,Kenya,31,"1,682,356",Medium Confidence
+Sub-Saharan Africa,426,Lesotho,31,"71,927",Very Low Confidence
+Sub-Saharan Africa,430,Liberia,31,"165,028",Very Low Confidence
+Sub-Saharan Africa,450,Madagascar,31,"921,980",Very Low Confidence
+Sub-Saharan Africa,454,Malawi,31,"635,515",Very Low Confidence
+Sub-Saharan Africa,466,Mali,31,"703,395",Very Low Confidence
+Sub-Saharan Africa,478,Mauritania,31,"147,591",Very Low Confidence
+Sub-Saharan Africa,480,Mauritius,31,"40,194",Very Low Confidence
+Sub-Saharan Africa,175,Mayotte,23,"7,530",Very Low Confidence
+Sub-Saharan Africa,508,Mozambique,31,"1,026,601",Very Low Confidence
+Sub-Saharan Africa,516,Namibia,31,"79,461",Very Low Confidence
+Sub-Saharan Africa,562,Niger,31,"816,112",Very Low Confidence
+Sub-Saharan Africa,566,Nigeria,31,"6,804,776",Very Low Confidence
+Sub-Saharan Africa,638,Réunion,23,"22,133",Very Low Confidence
+Sub-Saharan Africa,646,Rwanda,31,"429,074",Very Low Confidence
+Sub-Saharan Africa,654,Saint Helena,23,228,Very Low Confidence
+Sub-Saharan Africa,678,Sao Tome and Principe,31,"7,162",Very Low Confidence
+Sub-Saharan Africa,686,Senegal,31,"539,300",Very Low Confidence
+Sub-Saharan Africa,690,Seychelles,26,"2,845",Very Low Confidence
+Sub-Saharan Africa,694,Sierra Leone,31,"268,093",Very Low Confidence
+Sub-Saharan Africa,706,Somalia,31,"548,019",Very Low Confidence
+Sub-Saharan Africa,710,South Africa,31,"1,851,727",Very Low Confidence
+Sub-Saharan Africa,728,South Sudan,31,"339,709",Very Low Confidence
+Sub-Saharan Africa,768,Togo,31,"275,566",Very Low Confidence
+Sub-Saharan Africa,800,Uganda,31,"1,471,244",Very Low Confidence
+Sub-Saharan Africa,834,United Rep. of Tanzania,31,"2,039,502",Very Low Confidence
+Sub-Saharan Africa,894,Zambia,31,"623,371",Very Low Confidence
+Sub-Saharan Africa,716,Zimbabwe,31,"508,163",Very Low Confidence
+Western Asia,51,Armenia,29,"81,737",Very Low Confidence
+Western Asia,31,Azerbaijan,29,"304,604",Very Low Confidence
+Western Asia,48,Bahrain,24,"35,788",Very Low Confidence
+Western Asia,196,Cyprus,30,"37,500",Eurostat
+Western Asia,268,Georgia,29,"109,963",Very Low Confidence
+Western Asia,368,Iraq,30,"1,341,832",Medium Confidence
+Western Asia,376,Israel,24,"218,382",Medium Confidence
+Western Asia,400,Jordan,30,"334,416",Very Low Confidence
+Western Asia,414,Kuwait,24,"103,955",Very Low Confidence
+Western Asia,422,Lebanon,30,"162,617",Very Low Confidence
+Western Asia,512,Oman,24,"111,502",Very Low Confidence
+Western Asia,634,Qatar,24,"65,733",Very Low Confidence
+Western Asia,682,Saudi Arabia,24,"886,420",Very Low Confidence
+Western Asia,275,State of Palestine,29,"154,360",Very Low Confidence
+Western Asia,760,Syrian Arab Republic,30,"655,502",Very Low Confidence
+Western Asia,792,Turkey,29,"2,509,158",Very Low Confidence
+Western Asia,784,United Arab Emirates,24,"229,822",Very Low Confidence
+Western Asia,887,Yemen,30,"998,212",Very Low Confidence
+Western Europe,40,Austria,23,"205,620",Eurostat
+Western Europe,56,Belgium,8,"93,280",Eurostat
+Western Europe,250,France,16,"1,034,080",Eurostat
+Western Europe,276,Germany,22,"1,834,140",Eurostat
+Western Europe,438,Liechtenstein,19,751,Low Confidence
+Western Europe,442,Luxembourg,14,"9,100",Eurostat
+Western Europe,492,Monaco,19,751,Low Confidence
+Western Europe,528,Netherlands,5,"87,800",Eurostat
+Western Europe,756,Switzerland,31,"268,739",Medium Confidence
