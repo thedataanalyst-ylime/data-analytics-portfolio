@@ -1,16 +1,13 @@
 
 ### 👋 **ABOUT ME**
-I am a Business and Data Analytics professional with extensive experience in banking transformation, business analysis, and stakeholder engagement. Proven track record in driving strategic initiatives, governance, business analysis, and executive reporting across APAC markets. Experienced in transforming complex business and operational data into actionable insights, dashboards, and executive recommendations.
+Hi, I am **Emily Sy**, a Data Analyst with an extensive experience in banking transformation, business analysis, and portfolio governance, now applying data analytics to solve business problems through data-driven insights.
 
-Recently enhanced with hands-on capabilities in SQL, Python, Tableau, Power BI, Machine Learning
-fundamentals, and AI-assisted analytics from an AI-Native Data Analytics Bootcamp, I am seeking
-opportunities at the intersection of Business Transformation, Data Analytics, and Business Intelligence where I can leverage deep banking experience together with modern analytics capabilities to drive
-data-driven decision-making and business outcomes.
+This repository showcases selected projects I completed during the **General Assembly AI-Native Data Analytics Bootcamp (2026)**, together with practical analytics work demonstrating skills in data analysis, visualization, storytelling, SQL, Python, and machine learning.
 
 🎯 **ROLES I AM CURRENTLY SEEKING**</br>
 Data Analyst | Business Intelligence Analyst | Banking Analytics | Business Transformation & Analytics
 
-🎯 **I ENJOY AND VERY MUCH INTERESTED WORKING IN THESE AREAS**</br>
+🧡 **I ENJOY AND VERY MUCH INTERESTED WORKING IN THESE AREAS**</br>
 - Data analytics, visualization, and storytelling for data-driven decision-making
 - Banking transformation, data governance, and business intelligence
 - Sustainability, workforce analytics, and organisational effectiveness
@@ -27,15 +24,16 @@ Across all my projects I demonstrate:</br>
 
 🚀 **FEATURED PROJECTS**</br>
 🌍 **[Global Food Waste & Sustainability Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)**</br>
-    Python • Tableau • Machine Learning • Git • Streamlit • Canva
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+
 - End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers.</br>
 
 👩‍💼 **[UK Gender Pay Gap Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap)**</br>
-SQL • Canva • Powerpoint</br>
+![SQL](https://img.shields.io/badge/SQL-blue)</br>
 - SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis.</br>
 
 🏦 **[Banking Marketing Campaign Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign)**</br>
-Python • Machine Learning</br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)</br>
 - Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness.</br>
 
 🧪 **[ADDITIONAL PROJECTS](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/additional-projects)**</br>
@@ -66,11 +64,15 @@ Python • Machine Learning</br>
 • Matplotlib
 • Seaborn
 
-**Tools**</br>
+**Development Tools**</br>
 • Jupyter Notebook
 • VS Code
 • Git
 • GitHub
+
+**Presentation Tools**</br>
+• Canva 
+• Powerpoint
 
 📈 **ANALYTICS WORKFLOW**</br>
 - Business Understanding
@@ -80,9 +82,8 @@ Python • Machine Learning</br>
 - Data Visualization & Storytelling
 - Predictive Modelling (where applicable)
 - Business Recommendations
-  
 
-🤝 **CONNECT WITH ME**</br>
+### 🤝 CONNECT WITH ME</br>
 📧 mariaemilysy@gmail.com</br>
 🌐 LinkedIn Profile: https://www.linkedin.com/in/emilysy/ </br>
 🌐 GitHub Portfolio: https://github.com/thedataanalyst-ylime/data-analytics-portfolio </br>
