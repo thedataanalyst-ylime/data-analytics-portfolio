@@ -38,16 +38,15 @@ SQL • Canva • Powerpoint</br>
 Python • Machine Learning</br>
 - Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness.</br>
 
-🧪 **ADDITIONAL PROJECTS**</br>
-    🏠 **[HDB Resale Market Analysis](Link TBD)**</br>
-    💰 **[Financial Data APIs](Link TBD)**</br>
-    🧑🏽‍💻 **[HR Attrition Analysis](Link TBD)**</br>
-    ✈️ **[Airport Delays](Link TBD)**</br>
-    🇺🇸 **[US Presidential Elections](Link TBD)**</br>
-    ☕️ **[Coffee Shop Analysis](Link TBD)**</br>
-    ⚽️ **[World Cup Analysis](Link TBD)**</br>
-    💨 **[Air Quality APIs](Link TBD)**</br>
-
+🧪 **[ADDITIONAL PROJECTS](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/additional-projects)**</br>
+    🏠 **HDB Resale Market Analysis**</br>
+    💰 **Financial Data APIs**</br>
+    🧑🏽‍💻 **HR Attrition Analysis**</br>
+    ✈️ **Airport Delays**</br>
+    🇺🇸 **US Presidential Elections**</br>
+    ☕️ **Coffee Shop Analysis**</br>
+    ⚽️ **World Cup Analysis**</br>
+    💨 **Air Quality APIs**</br>
 
 🛠 **TECHNICAL SKILLS**</br>
 **Languages**</br>
