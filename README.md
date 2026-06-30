@@ -26,15 +26,15 @@ Across all my projects I demonstrate:</br>
 - Communicating insights through data storytelling
 
 🚀 **FEATURED PROJECTS**</br>
-    🌍 **[Global Food Waste & Sustainability Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)**</br>
+🌍 **[Global Food Waste & Sustainability Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)**</br>
     Python • Tableau • Machine Learning • Git • Streamlit • Canva
 - End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers.</br>
 
-    👩‍💼 **[UK Gender Pay Gap Analysis](Link TBD)**</br>
+👩‍💼 **[UK Gender Pay Gap Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap)**</br>
 SQL • Canva • Powerpoint</br>
 - SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis.</br>
 
-    🏦 **[Banking Marketing Campaign Analysis](Link TBD)**</br>
+🏦 **[Banking Marketing Campaign Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign)**</br>
 Python • Machine Learning</br>
 - Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness.</br>
 
