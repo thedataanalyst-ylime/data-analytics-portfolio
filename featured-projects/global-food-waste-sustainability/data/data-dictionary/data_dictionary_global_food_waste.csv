@@ -1,0 +1,45 @@
+Field Name,Description
+country_unep,Standardized country name based on the UNEP Food Waste Index Report 2024 and used as the master country key.
+household_year,Reporting year for household food waste estimates.
+household_region,UNEP regional classification of the country.
+household_kg_per_capita_year,Annual household food waste generated per person (kg/capita/year).
+household_tonnes_year,Annual household food waste generated at country level (tonnes/year).
+household_confidence,UNEP confidence level assigned to the household food waste estimate.
+food_service_year,Reporting year for food service food waste estimates.
+food_service_kg_per_capita_year,Annual food service food waste generated per person (kg/capita/year).
+food_service_tonnes_year,Annual food service food waste generated at country level (tonnes/year).
+food_service_confidence,UNEP confidence level assigned to the food service food waste estimate.
+retail_year,Reporting year for retail food waste estimates.
+retail_kg_per_capita_year,Annual retail food waste generated per person (kg/capita/year).
+retail_tonnes_year,Annual retail food waste generated at country level (tonnes/year).
+retail_confidence,UNEP confidence level assigned to the retail food waste estimate.
+average_temperature,Average annual temperature of the country.
+temperature_year,Reference year of the temperature measurement.
+temperature_unit,Unit of measurement for temperature.
+income_year,Reference year of the World Bank income classification dataset.
+income_region,World Bank regional classification.
+income_group,World Bank income group classification.
+income_lending_category,World Bank lending eligibility classification.
+gdp_per_capita_year,Latest available year of GDP per capita data.
+gdp_per_capita,Gross Domestic Product per capita (current US$).
+population_density_year,Latest available year of population density data.
+population_density,Number of people per square kilometre of land area.
+tourism_arrivals_year,Latest available year of international tourism arrivals data.
+tourism_arrivals,Number of international tourist arrivals.
+access_to_electricity_year,Latest available year of access to electricity data.
+access_to_electricity,Percentage of population with access to electricity.
+total_population_year,Latest available year of population data.
+total_population,Total population of the country.
+total_food_waste_kg_per_capita_year,"Total food waste generated across household, food service and retail sectors per person (kg/capita/year)."
+total_food_waste_tonnes_year,Total food waste generated across all sectors at country level (tonnes/year).
+household_share_pct,Percentage contribution of household food waste to total food waste.
+food_service_share_pct,Percentage contribution of food service food waste to total food waste.
+retail_share_pct,Percentage contribution of retail food waste to total food waste.
+main_contributing_sector,Food waste sector contributing the largest share of total food waste.
+tourists_per_resident,Ratio of international tourist arrivals to resident population.
+income_rank,Numeric ranking assigned to income groups for analytical purposes.
+population_size_category,Population size category derived from total population values.
+temperature_band,Temperature classification band derived from average annual temperature.
+gdp_per_capita_category,GDP per capita category derived from GDP per capita values.
+coverage_score,Count of available non-null analytical variables for each country.
+sector_share_total,Validation field representing the combined sector contribution percentages.
