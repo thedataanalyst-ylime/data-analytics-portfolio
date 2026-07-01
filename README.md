@@ -1,6 +1,6 @@
 
 ### Welcome to my Data Analytics portfolio! ☺️ 
-This is where I showcase projects I completed during the **General Assembly AI-Native Data Analytics Bootcamp (2026)** demonstrating skills I have gained in data analysis, visualization, storytelling, SQL, Python, and machine learning.</br>
+Explore a collection of end-to-end analytics projects that transform real-world data into actionable business insights using **SQL, Python, Tableau, Power BI, and machine learning**. From business understanding and data preparation to visualization, predictive modelling, and strategic recommendations, each project demonstrates my analytical approach, passion for data storytelling, and commitment to delivering meaningful business impact through data-driven decision-making.</br>
 
 ---
 
@@ -37,11 +37,11 @@ Across all my projects I demonstrate:</br>
 
 🚀 **FEATURED PROJECTS**</br>
 
-| Project | Tools | Highlights | Link   |
-|---------|------|------------|---------|
-| 🌍 Global Food Waste & Sustainability Analysis | Python, Tableau, Scikit-learn, Git, Streamlit | End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers | https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability | 
-| 👩 UK Gender Pay Gap Analysis | SQL | SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis | https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap | 
-| 📈 Banking Marketing Campaign Analysis | Python, Scikit-learn | Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness | https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign |
+| Project | Tools | Skills | Highlights | Link |
+|---------|------|------|------------|---------|
+| 🌍 Global Food Waste & Sustainability Analysis | Python  • Tableau  • Scikit-learn • Git •  Streamlit | Exploratory Data Analysis • Machine Learning • Tableau • Data Storytelling | End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability) | 
+| 👩 UK Gender Pay Gap Analysis | SQL | Data Analysis • Data Storytelling | SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap) | 
+| 📈 Banking Marketing Campaign Analysis | Python • Scikit-learn | Data Analysis • Machine Learning |Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign) |
 
 ---
 
@@ -50,7 +50,7 @@ Across all my projects I demonstrate:</br>
 <details>
 <summary><b>🧪 ADDITIONAL PROJECTS</b></summary></br>
 
- **[Know more about these projects](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/additional-projects)**</br>
+ **[Explore Additional Projects](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/additional-projects)**</br>
     🏠 **HDB Resale Market Analysis**</br>
     💰 **Financial Data APIs**</br>
     🧑🏽‍💻 **HR Attrition Analysis**</br>
@@ -70,10 +70,12 @@ Across all my projects I demonstrate:</br>
 | Category | Skills |
 |----------|--------|
 | Programming Languages | SQL, Python   | 
-| Data Visualization    | Tableau, Power BI |
-| Machine Learning  |   Scikit-Learn    |
-| Python Libraries  |   Pandas, Plotly, Matplotlib, Seaborn |   
-| Development Tools |   Jupyter Notebook, VS Code, Git, GitHub  |
+| Data Analysis  | Pandas, Numpy |
+| Data Visualization    | Tableau, Power BI, Plotly, Matplotlib, Seaborn |
+| Machine Learning  | Scikit-Learn |
+| Databases  | PostgreSQL, Teradata |
+| Development Tools | Jupyter Notebook, VS Code, Git, GitHub  |
+| Web Applications  | Streamlit |   
 | Presentation Tools    | Canva, Powerpoint |
 
 </details>
@@ -88,7 +90,7 @@ Across all my projects I demonstrate:</br>
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
 - Data Visualization & Storytelling
-- Predictive Modelling (where applicable)
+- Predictive Modelling
 - Business Recommendations
 
 </details>
@@ -99,8 +101,8 @@ Across all my projects I demonstrate:</br>
 <summary><b>🤝 CONNECT WITH ME</b></summary></br>
 
 📧 mariaemilysy@gmail.com</br>
-🌐 LinkedIn Profile: https://www.linkedin.com/in/emilysy/ </br>
-🌐 GitHub Portfolio: https://github.com/thedataanalyst-ylime/data-analytics-portfolio </br>
-🌐 Tableau Public: 🔗 **[My Interactive Tableau Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link)** </br>
+💼 LinkedIn Profile: https://www.linkedin.com/in/emilysy/ </br>
+💻 GitHub Portfolio: https://github.com/thedataanalyst-ylime/data-analytics-portfolio </br>
+📊 Tableau Public: 🔗 **[My Interactive Tableau Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link)** </br>
 
 </details>
