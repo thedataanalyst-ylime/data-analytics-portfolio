@@ -36,18 +36,6 @@ Across all my projects I demonstrate:</br>
 ---
 
 🚀 **FEATURED PROJECTS**</br>
-🌍 **[Global Food Waste & Sustainability Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)**</br>
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
-
-- End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers.</br>
-
-👩‍💼 **[UK Gender Pay Gap Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap)**</br>
-![SQL](https://img.shields.io/badge/SQL-blue)</br>
-- SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis.</br>
-
-🏦 **[Banking Marketing Campaign Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign)**</br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)</br>
-- Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness.</br>
 
 | Project | Tools | Highlights | Link   |
 |---------|------|------------|---------|
