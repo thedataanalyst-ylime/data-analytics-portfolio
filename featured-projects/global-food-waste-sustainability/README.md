@@ -1,5 +1,5 @@
 ### 🌍 Global Food Waste & Sustainability Analysis
-
+**<font color="green">Identifying Key Drivers of Food Waste & Priority Intervention Countries Through Data Analytics** </font>
 <details open>
 <summary><b>PROJECT AT A GLANCE</b></summary></br>
 
@@ -7,9 +7,10 @@
 |---------|------|
 | Duration | 4 weeks |
 | Role | End-to-End Data Analyst |
-| Datasets | 233 countries, 40+ features |
-| Tools | Python, Pandas, Scikit-learn, Tableau, Streamlit, Git, GitHub |
-| Deliverables | Python Notebook, Tableau Interactive Dashboards, Predictive Model, Streamlit App, Technical Report and Project Presentation |
+| Datasets | 233 countries • 40+ features |
+| Tools | Python • Pandas • Scikit-learn • Tableau • Streamlit • Git • GitHub |
+| Deliverables | Python Notebook • Tableau Interactive Dashboards • Predictive Model • Streamlit App • Technical Report • Presentation Slides |
+
 
 </details>
 
@@ -18,11 +19,12 @@
 <details open>
 <summary><b>📌 PROJECT OVERVIEW</b></summary></br>
 
-Food waste is a global sustainability challenge with significant environmental, economic, and social consequences. According to the UNEP Food Waste Index Report, over one billion tonnes of food are wasted annually, yet the key factors influencing food waste across countries remain poorly understood.
+**The Challenge**
 
-This project combines multiple international datasets to investigate global food waste patterns, identify the strongest drivers of food waste, and develop a predictive model capable of estimating household food waste using country-level indicators.
+Over **1 billion tonnes** of food are wasted annually worldwide, yet the underlying drivers remain poorly understood.
 
-The project follows a complete analytics workflow — from data acquisition and preparation through exploratory analysis, dashboard development, statistical validation, predictive modelling, and business recommendations.
+This project investigates whether climate, population, and economic indicators can explain food waste patterns and support evidence-based sustainability decisions.
+
 
 </details>
 
@@ -31,15 +33,19 @@ The project follows a complete analytics workflow — from data acquisition and 
 <details open>
 <summary><b>🎯 BUSINESS PROBLEM</b></summary></br>
 
+Food Waste is a growing global sustainability challenge that impacts **Food Security, Climate Change, Economic Productivity and Resource Sustainability**.
+
 Governments, sustainability organisations, NGOs, and policymakers require reliable evidence to determine where interventions will have the greatest impact.
 
-This project answers key business questions:
+This project answers **key business questions**:
 
 - Which countries generate the most food waste?
 - Does economic wealth influence food waste?
 - Is food waste primarily driven by population or climate?
 - Which countries should be prioritised for intervention?
 - Can household food waste be predicted using publicly available country indicators?
+
+![Chart10](charts/10_priority_intervention_map.png)
 
 </details>
 
@@ -59,25 +65,17 @@ This project answers key business questions:
 ---
 
 <details open>
-<summary><b>ANALYTICS WORKFLOW</b></summary></br>
+<summary><b>🔄 ANALYTICS WORKFLOW</b></summary></br>
 
-Business Understanding
-    ⬇️
-Data Collection
-    ⬇️
-Data Cleaning & Validation
-    ⬇️
-Feature Engineering
-    ⬇️
-Exploratory Data Analysis
-    ⬇️
-Dashboard Development
-    ⬇️
-Statistical Analysis
-    ⬇️
-Predictive Modelling
-    ⬇️
-Business Recommendations
+🧠 Business Understanding
+📥 Data Collection
+🧹 Data Cleaning & Validation
+💻 Feature Engineering
+🔍 Exploratory Data Analysis
+📊 Data Visualization & Dashboard Development
+🔢 Statistical Analysis
+🤖 Predictive Modelling
+💡 Business Recommendations
 
 </details>
 
@@ -88,15 +86,16 @@ Business Recommendations
 
 | Category | Tools |
 |----------|------|
-| Programming | Python |
-| Data Cleaning | Pandas |
-| Statistical Analysis | NumPy, SciPy |
-| Data Visualisation | Tableau |
-| Machine Learning | Scikit-learn |
-| Development | Jupyter Notebook |
-| App Deployment | Streamlit |
-| Version Control | Git & GitHub |
-| Presentation | Canva & Powerpoint |
+| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Data Cleaning | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| Statistical Analysis | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| Data Visualisation | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) |
+| Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| Development | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |
+| App Deployment | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| Presentation | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white) |
+
 
 </details>
 
@@ -105,28 +104,35 @@ Business Recommendations
 <details open>
 <summary><b>📈 KEY INSIGHTS</b></summary></br>
 
- **1. Population is the strongest driver of total food waste.**
+ **🗺️ Population is the strongest driver of total food waste.**
 
 Countries with larger populations generate substantially higher food waste volumes than smaller nations.
 
----
-
- **2. Temperature shows a stronger relationship with food waste than GDP.**
-
-Warmer countries generally experience higher household food waste per capita, while GDP shows only a weak relationship.
+![Dashboard1](dashboards/dashboard_01_global_food_waste_overview.png)
 
 ---
 
- **3. Higher-income countries are not automatically the biggest food wasters.**
+ **🌡️ Temperature shows a stronger relationship with food waste than GDP.**
+
+Warmer countries generally experience higher household food waste per capita than economic wealth.
+
+![Chart8](charts/08_temperature_vs_food_waste_per_capita.png)
+
+---
+
+ **💰 Higher-income countries are not automatically the biggest food wasters.**
 
 Food waste occurs across all income groups, suggesting that behavioural and environmental factors matter more than economic wealth alone.
+
+![Chart6](charts/06_food_waste_by_income_group_and_sectors.png)
+![Chart3](charts/03_income_vs_food_waste_intensity.png)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>INTERACTIVE DASHBOARD</b></summary></br>
+<summary><b>📊 INTERACTIVE DASHBOARD</b></summary></br>
 
 The Tableau dashboard enables users to:
 
@@ -136,35 +142,36 @@ The Tableau dashboard enables users to:
 - Identify high-risk countries
 - Interactively filter countries and income categories
 
+🔗 **[View Interactive Tableau Dashboard](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link)**
+
+
 **Dashboard Highlights**
 
-- Global Overview
+- Global Food Waste Overview
 - Food Waste Drivers
-- Risk & Opportunity Profile
-- Global Priority Intervention Map
+- Income and Economic Factors
+- Food Waste Risk & Opportunity Profile
 
-🔗 **[View Interactive Tableau Dashboard](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link)**
+![Dashboard3](dashboards/dashboard_03_income_and_economic_factors.png)
 
 </details>
 
 ---
 
 <details open>
-<summary><b>PREDICTIVE MODELING</b></summary></br>
+<summary><b>🤖 PREDICTIVE MODELING</b></summary></br>
 
 **Objective:** To predict household food waste (kg per capita per year).
 
 **Models Evaluated**
 
-- Baseline Model
-- Linear Regression
-- Random Forest Regression
+| Model | Result |
+|-------|--------| 
+| Baseline | Reference |
+| Linear Regression | Improved |
+| 🌳 Random Forest Regression | ✅ Best Performance |
 
-**Best Performing Model**
-
-✅ Random Forest Regression
-
-Features used:
+**Features Used**
 
 - Average Temperature
 - GDP per Capita (log)
@@ -172,7 +179,7 @@ Features used:
 - Income Group
 - Food Service Waste per Capita 
 
-Evaluation metrics included:
+**Evaluation Metrics Included**
 
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
@@ -185,51 +192,34 @@ The Random Forest model demonstrated the strongest predictive performance and ca
 ---
 
 <details open>
-<summary><b>REPOSITORY STRUCTURE</b></summary></br>
+<summary><b>🗂️ REPOSITORY STRUCTURE</b></summary></br>
 
-global-food-waste-sustainability/
 
-│
-├── app/
-│   └── Streamlit prediction app
-│
-├── charts/
-│   └── Exploratory data analysis visualisations (Tableau)
-│
-├── dashboards/
-│   └── Tableau dashboards
-│
-├── data/
-│   ├── Raw datasets
-│   ├── Clean datasets
-|   ├── Audit country matching
-│   └── Data model
-│
-├── notebooks/
-│   └── End-to-end Python analysis
-│
-├── reports/
-│   ├── Technical paper
-│   └── Presentation slides
-│
-└── README.md
+| Folder        | Description                |
+| ------------- | -------------------------- |
+| 📁 app        | Streamlit Application      |
+| 📁 charts     | Exploratory Visualisations |
+| 📁 dashboards | Tableau Dashboards         |
+| 📁 data       | Raw and Cleaned Datasets, <br> Audit Country Matching &  Data Model |
+| 📁 notebooks  | End-to-end Python analysis |
+| 📁 reports    | Technical Report & Presentation Slides           |
 
 </details>
 
 ---
 
 <details open>
-<summary><b>INTERACTIVE STREAMLIT DEMO</b></summary></br>
-
+<summary><b>🚀 INTERACTIVE STREAMLIT DEMO</b></summary></br>
 
 ![Streamlit Demo Screenshot](assets/streamlit-demo.png)
 
+
 </details>
 
 ---
 
 <details open>
-<summary><b>HOW TO RUN THE STREAMLIT DEMO</b></summary></br>
+<summary><b>🏃🏻‍♀️ HOW TO RUN THE STREAMLIT DEMO</b></summary></br>
 
 This project includes a Streamlit demo app that predicts household food waste using the Random Forest model.
 
@@ -290,27 +280,46 @@ Open this link in your browser to use the demo.
 <details open>
 <summary><b>💡 BUSINESS RECOMMENDATIONS</b></summary></br>
 
-- Prioritise interventions in countries with high population-driven food waste.
-- Focus awareness campaigns in warmer climates where household waste tends to be higher.
-- Develop country-specific food waste reduction strategies instead of relying solely on income classifications.
-- Use predictive analytics to identify regions requiring early intervention.
+| Audience | Actionable Measures |
+|----------|------|
+| United Nations Environment Programme (UNEP) | 1. Strengthen global food waste measurement and reporting standards </br> 2. Prioritize support for high-risk intervention countries  |
+| Policymakers and Government Agencies  | 1. Establish national food waste reduction targets </br> 2. Promote household food waste awareness and education  |
+| Sustainability Practitioners  | 1. Improve food waste monitoring and measurement practices </br> 2. Focus resources on high-impact sectors and countries |
+| Researchers  | 1. Investigate behavioural, cultural, and food-system drivers of food waste </br> 2. Develop more advanced predictive and forecasting models |
+| Non-Governmental Organizations (NGOs)  | 1. Deliver community-based food waste education programs </br> 2. Expand food rescue and redistribution initiatives |
+| Students and Data Analysts  | 1. Use data to understand and solve sustainability challenges </br> 2. Communicate findings through impactful data storytelling |
 
 </details>
 
 ---
 
 <details open>
-<summary><b>FUTURE IMPROVEMENTS</b></summary></br>
+<summary><b>✨ FUTURE ENHANCEMENTS</b></summary></br>
 
-TBD
+**1. Additional Datasets** 
+    Incorporate additional variables such as food prices, urbanization rates, food insecurity indicators, waste management infrastructure, consumer behavior metrics, and government sustainability policies
+
+**2. Time-series Analysis** 
+    Expanding the analysis to include multiple years of food waste data would enable the study of trends, seasonality, and changes in food waste patterns over time.
+
+**3. Advanced Predictive Modeling**
+    Evaluate more advanced machine learning techniques, such as Gradient Boosting, XGBoost, Random Forest optimization, or ensemble models, to improve predictive performance and uncover more complex relationships between variables.
+
+**4. Geographic and Regional Analysis**
+    Additional analysis at regional, sub-national, or city levels could help identify localized food waste patterns and support more targeted interventions. This would be particularly valuable for countries with significant population and socioeconomic diversity.
+
+**5. Enhanced Dashboard Capabilities**
+    Include trend analysis, scenario modeling, country benchmarking, predictive forecasting, and progress tracking against food waste reduction targets to provide stakeholders with more actionable insights for monitoring and decision-making.
 
 </details>
 
 ---
 
-⭐ If you found this project interesting, feel free to connect or explore my other analytics projects
+⭐ **Thank you for exploring this project.**
+If you're interested in data analytics, sustainability, or machine learning, I'd love to connect and discuss how data can drive meaningful business and social impact.</br>
 
-💼 Connect with me on LinkedIn: https://www.linkedin.com/in/emilysy/
-💻 View my Data Analytics Portfolio: https://github.com/thedataanalyst-ylime/data-analytics-portfolio </br>
+📧 [Email](mariaemilysy@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)
+💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)
 
 ---
