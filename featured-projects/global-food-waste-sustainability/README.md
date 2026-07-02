@@ -1,15 +1,17 @@
 ### 🌍 Global Food Waste & Sustainability Analysis
 **<font color="green">Identifying Key Drivers of Food Waste & Priority Intervention Countries Through Data Analytics** </font>
 <details open>
-<summary><b>PROJECT AT A GLANCE</b></summary></br>
+<summary><b>👓 PROJECT AT A GLANCE</b></summary></br>
 
 | Item | Details |
 |---------|------|
 | Duration | 4 weeks |
 | Role | End-to-End Data Analyst |
-| Datasets | 233 countries • 40+ features |
+| Data | 11 Datasets • 233 Countries • 40+ Features |
+| ML Models | 3 Data Models |
 | Tools | Python • Pandas • Scikit-learn • Tableau • Streamlit • Git • GitHub |
-| Deliverables | Python Notebook • Tableau Interactive Dashboards • Predictive Model • Streamlit App • Technical Report • Presentation Slides |
+| Deliverables | • Python Notebook </br> • Tableau Interactive Dashboards </br>• Predictive Model </br>• Streamlit App </br> • ![Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> • ![Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) |
+
 
 
 </details>
@@ -45,8 +47,6 @@ This project answers **key business questions**:
 - Which countries should be prioritised for intervention?
 - Can household food waste be predicted using publicly available country indicators?
 
-![Chart10](charts/10_priority_intervention_map.png)
-
 </details>
 
 ---
@@ -56,8 +56,8 @@ This project answers **key business questions**:
 
 | Source | Description | Link |
 |---------|-------------|-----|
-| United Nations Environment Program (UNEP) Food Waste Index Report 2024 | Household, Food Service and Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
-| World Bank Open Data | GDP per Capita, Income Group, Total Population, Population Density, Tourism Arrivals, Electricity Access, CO2 Emissions | [View Source](https://data.worldbank.org) |
+| United Nations Environment Program (UNEP) Food Waste Index Report 2024 | - Household Food Waste Estimates</br> - Food Service Waste Estimates </br>  - Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
+| World Bank Open Data | - GDP per Capita</br> - Income Group</br> - Total Population</br> - Population Density</br> - Tourism Arrivals</br> - Electricity Access</br> - CO2 Emissions</br> | [View Source](https://data.worldbank.org) |
 | Trading Economics | Average Annual Temperature by Country | [View Source](https://tradingeconomics.com/country-list/temperature) |
 
 </details>
@@ -67,15 +67,15 @@ This project answers **key business questions**:
 <details open>
 <summary><b>🔄 ANALYTICS WORKFLOW</b></summary></br>
 
-🧠 Business Understanding
-📥 Data Collection
-🧹 Data Cleaning & Validation
-💻 Feature Engineering
-🔍 Exploratory Data Analysis
-📊 Data Visualization & Dashboard Development
-🔢 Statistical Analysis
-🤖 Predictive Modelling
-💡 Business Recommendations
+🧠 Business Understanding</br>
+📥 Data Collection</br>
+🧹 Data Cleaning & Validation</br>
+💻 Feature Engineering</br>
+🔍 Exploratory Data Analysis</br>
+📊 Data Visualization & Dashboard Development</br>
+🔢 Statistical Analysis</br>
+🤖 Predictive Modelling</br>
+💡 Business Recommendations</br>
 
 </details>
 
@@ -104,6 +104,8 @@ This project answers **key business questions**:
 <details open>
 <summary><b>📈 KEY INSIGHTS</b></summary></br>
 
+**🏠 Households generate 60% of total food waste.**
+
  **🗺️ Population is the strongest driver of total food waste.**
 
 Countries with larger populations generate substantially higher food waste volumes than smaller nations.
@@ -126,6 +128,10 @@ Food waste occurs across all income groups, suggesting that behavioural and envi
 
 ![Chart6](charts/06_food_waste_by_income_group_and_sectors.png)
 ![Chart3](charts/03_income_vs_food_waste_intensity.png)
+
+**🌎 60 countries present the greatest opportunity for intervention.**
+
+![Chart10](charts/10_priority_intervention_map.png)
 
 </details>
 
@@ -318,8 +324,8 @@ Open this link in your browser to use the demo.
 ⭐ **Thank you for exploring this project.**
 If you're interested in data analytics, sustainability, or machine learning, I'd love to connect and discuss how data can drive meaningful business and social impact.</br>
 
-📧 [Email](mariaemilysy@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)
-💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)
+📧 [Email](mariaemilysy@gmail.com)</br>
+💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
+💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)</br>
 
 ---
