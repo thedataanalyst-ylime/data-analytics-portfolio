@@ -10,7 +10,7 @@
 | Data | 11 Datasets • 233 Countries • 40+ Features |
 | ML Models | 3 Data Models |
 | Tools | Python • Pandas • Scikit-learn • Tableau • Streamlit • Git • GitHub |
-| Deliverables | • [Python Notebook](/notebooks/global-food-waste-sustainability-notebook.ipynb) </br> • [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br>• Predictive Model </br>• Streamlit App </br> • [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> • [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) |
+| Deliverables | • [Python Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) </br> • [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br>• Predictive Model </br>• Streamlit App </br> • [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> • [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) |
 
 </details>
 
