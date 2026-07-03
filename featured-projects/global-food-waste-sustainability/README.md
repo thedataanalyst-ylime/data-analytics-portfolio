@@ -66,7 +66,7 @@ The findings help governments, NGOs, researchers and sustainability practitioner
 
 | Source | Description | Link |
 |---------|-------------|-----|
-| United Nations Environment Program (UNEP) Food Waste Index Report 2024 | - Household Food Waste Estimates</br> - Food Service Waste Estimates </br>  - Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
+| United Nations Environment Program (UNEP)</br> Food Waste Index Report 2024 | - Household Food Waste Estimates</br> - Food Service Waste Estimates </br>  - Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
 | World Bank Open Data | - GDP per Capita</br> - Income Group</br> - Total Population</br> - Population Density</br> - Tourism Arrivals</br> - Electricity Access</br> - CO2 Emissions</br> | [View Source](https://data.worldbank.org) |
 | Trading Economics | Average Annual Temperature by Country | [View Source](https://tradingeconomics.com/country-list/temperature) |
 
@@ -229,7 +229,7 @@ Demonstrated the strongest predictive performance and captured the complex non-l
 
 ---
 
-<details open>
+<details>
 <summary><b>🚀 INTERACTIVE STREAMLIT DEMO</b></summary></br>
 
 The interactive application enables users to estimate household food waste using five country-level indicators derived from the best-performing Random Forest model.</br>
@@ -318,7 +318,7 @@ Open this link in your browser to use the demo.
 
 ---
 
-<details open>
+<details>
 <summary><b>✨ FUTURE ENHANCEMENTS</b></summary></br>
 
 **1. Additional Datasets** 
