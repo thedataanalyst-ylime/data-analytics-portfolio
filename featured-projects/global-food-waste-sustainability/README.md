@@ -1,16 +1,18 @@
 ### 🌍 Global Food Waste & Sustainability Analysis
-**<font color="green">Identifying Key Drivers of Food Waste & Priority Intervention Countries Through Data Analytics** </font>
+**<font color="green">Using Data Analytics and Machine Learning to Identify Global Food Waste Drivers and Predicting Household Food Waste** </font>
 <details open>
 <summary><b>👓 PROJECT AT A GLANCE</b></summary></br>
 
 | Item | Details |
 |---------|------|
-| Duration | 4 weeks |
-| Role | End-to-End Data Analyst |
-| Data | 11 Datasets • 233 Countries • 40+ Features |
-| ML Models | 3 Data Models |
-| Tools | Python • Pandas • Scikit-learn • Tableau • Streamlit • Git • GitHub |
-| Deliverables | • [Python Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) </br> • [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br>• Predictive Model </br>• Streamlit App </br> • [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> • [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) |
+| Tools | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| Data | 11 Integrated Datasets • 233 Countries Analyzed • 40+ Features |
+| Predictive Models | Baseline • Linear Regression • Random Forest |
+| Development Code | [Jupyter Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) |
+| Dashboards | [4 Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) |
+| Application | Streamlit Prediction Tool | 
+| Documentation | [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) |
+| Executive Presentation | [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf)|
 
 </details>
 
@@ -31,7 +33,9 @@ This project investigates whether climate, population, and economic indicators c
 ---
 
 <details open>
-<summary><b>🎯 BUSINESS PROBLEM</b></summary></br>
+<summary><b>🎯 BUSINESS PROBLEM AND IMPACT</b></summary></br>
+
+**Business Problem**</br>
 
 Food Waste is a growing global sustainability challenge that impacts **Food Security, Climate Change, Economic Productivity and Resource Sustainability**.
 
@@ -44,6 +48,14 @@ This project answers **key business questions**:
 - Is food waste primarily driven by population or climate?
 - Which countries should be prioritised for intervention?
 - Can household food waste be predicted using publicly available country indicators?
+
+---
+
+**Business Impact**</br>
+
+This project demonstrates how publicly available datasets can be integrated to support evidence-based sustainability decisions.
+
+The findings help governments, NGOs, researchers and sustainability practitioners identify high-risk countries, understand key food waste drivers and prioritize interventions using data rather than assumptions.
 
 </details>
 
@@ -67,13 +79,13 @@ This project answers **key business questions**:
 
 🧠 Business Understanding</br>
 📥 Data Collection</br>
-🧹 Data Cleaning & Validation</br>
+🧹 Data Cleaning</br>
 💻 Feature Engineering</br>
 🔍 Exploratory Data Analysis</br>
-📊 Data Visualization & Dashboard Development</br>
-🔢 Statistical Analysis</br>
-🤖 Predictive Modelling</br>
-💡 Business Recommendations</br>
+📊 Dashboard Development</br>
+📈 Statistical Analysis</br>
+🤖 Machine Learning</br>
+💡 Recommendations</br>
 
 </details>
 
@@ -173,7 +185,14 @@ The Tableau dashboard enables users to:
 |-------|--------| 
 | Baseline | Reference |
 | Linear Regression | Improved |
-| 🌳 Random Forest Regression | ✅ Best Performance |
+| Random Forest Regression | ✅ Best Performance |
+
+
+**Best Performing Model**</br>
+
+🌳 Random Forest Regression</br>
+Demonstrated the strongest predictive performance and captured the complex non-linear relationships between environmental and socio-economic variables.
+
 
 **Features Used**
 
@@ -188,8 +207,6 @@ The Tableau dashboard enables users to:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R-Squared of Coeffiecient of Determination (R²)
-
-The Random Forest model demonstrated the strongest predictive performance and captured the complex non-linear relationships between environmental and socio-economic variables.
 
 </details>
 
@@ -215,7 +232,9 @@ The Random Forest model demonstrated the strongest predictive performance and ca
 <details open>
 <summary><b>🚀 INTERACTIVE STREAMLIT DEMO</b></summary></br>
 
-![Streamlit Demo Screenshot](assets/streamlit-demo.png)
+The interactive application enables users to estimate household food waste using five country-level indicators derived from the best-performing Random Forest model.</br>
+
+![Streamlit Demo Screenshot](app/streamlit-demo.png)
 
 
 </details>
@@ -226,6 +245,8 @@ The Random Forest model demonstrated the strongest predictive performance and ca
 <summary><b>🏃🏻‍♀️ HOW TO RUN THE STREAMLIT DEMO</b></summary></br>
 
 This project includes a Streamlit demo app that predicts household food waste using the Random Forest model.
+
+
 
 **1. Clone the repository**
 
@@ -320,7 +341,10 @@ Open this link in your browser to use the demo.
 ---
 
 ⭐ **Thank you for exploring this project.**
-If you're interested in data analytics, sustainability, or machine learning, I'd love to connect and discuss how data can drive meaningful business and social impact.</br>
+This demonstrates how data analytics can transform complex global datasets into meaningful insights and actionable recommendations. </br>
+
+If you'd like to discuss data analytics, sustainability, or opportunities to collaborate, I'd be happy to connect.
+</br>
 
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
