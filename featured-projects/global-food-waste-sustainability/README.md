@@ -1,18 +1,22 @@
 ### 🌍 Global Food Waste & Sustainability Analysis
-**<font color="green">Using Data Analytics and Machine Learning to Identify Global Food Waste Drivers and Predicting Household Food Waste** </font>
+**<font color="green">Using Data Analytics to Identify Global Food Waste Drivers and Predict Household Food Waste** </font>
 <details open>
-<summary><b>👓 PROJECT AT A GLANCE</b></summary></br>
+<summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
 
-| Item | Details |
-|---------|------|
-| Tools | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| Data | 11 Integrated Datasets • 233 Countries Analyzed • 40+ Features |
-| Predictive Models | Baseline • Linear Regression • Random Forest |
-| Development Code | [Jupyter Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) |
-| Dashboards | [4 Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) |
-| Application | Streamlit Prediction Tool | 
-| Documentation | [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) |
-| Executive Presentation | [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf)|
+🌍 Analysed food waste across **233 countries**
+📊 Integrated **11 global datasets**
+🤖 Developed and deployed a **Random Forest Model** to predict household food waste
+📈 Developed **4 interactive Tableau dashboards** for interactive exploration
+🎯 Identified **60 priority intervention countries**
+🌱 Delivered **evidence-based sustainability recommendations** for governments, NGOs and sustainability practitioners
+
+---
+| Category | Details |
+|------|--------|
+| Analytics Capabilities | 🧠 Business Analysis </br> 📥 Data Collection</br> 🧹 Data Cleaning </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering</br> 📈 Statistical Analysis </br> 🤖 Machine Learning </br>📊 Data Storytelling </br> 💡 Recommendations</br>|
+| Technology Stack | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) • ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) • ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  |
+| Models Evaluated | Baseline • Linear Regression • Random Forest Regression |
+| Project Artefacts | 📓 [Jupyter Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) </br> 📊 [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br> 🌐 Interactive Streamlit Application </br> 📄 [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> 🎤 [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) </br>|
 
 </details>
 
@@ -61,55 +65,6 @@ The findings help governments, NGOs, researchers and sustainability practitioner
 
 ---
 
-<details open>
-<summary><b>🗂 DATASETS</b></summary></br>
-
-| Source | Description | Link |
-|---------|-------------|-----|
-| United Nations Environment Program (UNEP)</br> Food Waste Index Report 2024 | - Household Food Waste Estimates</br> - Food Service Waste Estimates </br>  - Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
-| World Bank Open Data | - GDP per Capita</br> - Income Group</br> - Total Population</br> - Population Density</br> - Tourism Arrivals</br> - Electricity Access</br> - CO2 Emissions</br> | [View Source](https://data.worldbank.org) |
-| Trading Economics | Average Annual Temperature by Country | [View Source](https://tradingeconomics.com/country-list/temperature) |
-
-</details>
-
----
-
-<details open>
-<summary><b>🔄 ANALYTICS WORKFLOW</b></summary></br>
-
-🧠 Business Understanding</br>
-📥 Data Collection</br>
-🧹 Data Cleaning</br>
-💻 Feature Engineering</br>
-🔍 Exploratory Data Analysis</br>
-📊 Dashboard Development</br>
-📈 Statistical Analysis</br>
-🤖 Machine Learning</br>
-💡 Recommendations</br>
-
-</details>
-
----
-
-<details open>
-<summary><b>🛠 TECHNOLOGY STACK</b></summary></br>
-
-| Category | Tools |
-|----------|------|
-| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Data Cleaning | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| Statistical Analysis | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| Data Visualisation | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) |
-| Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| Development | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |
-| App Deployment | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| Presentation | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white) |
-
-
-</details>
-
----
 
 <details open>
 <summary><b>📈 KEY INSIGHTS</b></summary></br>
@@ -148,6 +103,22 @@ Food waste occurs across all income groups, suggesting that behavioural and envi
 ---
 
 <details open>
+<summary><b>💡 BUSINESS RECOMMENDATIONS</b></summary></br>
+
+| Audience | Actionable Measures |
+|----------|------|
+| United Nations Environment Programme (UNEP) | 1. Strengthen global food waste measurement and reporting standards </br> 2. Prioritize support for high-risk intervention countries  |
+| Policymakers and Government Agencies  | 1. Establish national food waste reduction targets </br> 2. Promote household food waste awareness and education  |
+| Sustainability Practitioners  | 1. Improve food waste monitoring and measurement practices </br> 2. Focus resources on high-impact sectors and countries |
+| Researchers  | 1. Investigate behavioural, cultural, and food-system drivers of food waste </br> 2. Develop more advanced predictive and forecasting models |
+| Non-Governmental Organizations (NGOs)  | 1. Deliver community-based food waste education programs </br> 2. Expand food rescue and redistribution initiatives |
+| Students and Data Analysts  | 1. Use data to understand and solve sustainability challenges </br> 2. Communicate findings through impactful data storytelling |
+
+</details>
+
+---
+
+<details open>
 <summary><b>📊 INTERACTIVE DASHBOARD</b></summary></br>
 
 The Tableau dashboard enables users to:
@@ -179,12 +150,12 @@ The Tableau dashboard enables users to:
 
 **Objective:** To predict household food waste (kg per capita per year).
 
-**Models Evaluated**
+**Model Performance Comparison**
 
 | Model | Result |
 |-------|--------| 
 | Baseline | Reference |
-| Linear Regression | Improved |
+| Linear Regression | Improved over Baseline |
 | Random Forest Regression | ✅ Best Performance |
 
 
@@ -213,23 +184,6 @@ Demonstrated the strongest predictive performance and captured the complex non-l
 ---
 
 <details open>
-<summary><b>🗂️ REPOSITORY STRUCTURE</b></summary></br>
-
-
-| Folder        | Description                |
-| ------------- | -------------------------- |
-| 📁 app        | Streamlit Application      |
-| 📁 charts     | Exploratory Visualisations |
-| 📁 dashboards | Tableau Dashboards         |
-| 📁 data       | Raw and Cleaned Datasets, <br> Audit Country Matching &  Data Model |
-| 📁 notebooks  | End-to-end Python analysis |
-| 📁 reports    | Technical Report & Presentation Slides           |
-
-</details>
-
----
-
-<details open>
 <summary><b>🚀 INTERACTIVE STREAMLIT DEMO</b></summary></br>
 
 The interactive application enables users to estimate household food waste using five country-level indicators derived from the best-performing Random Forest model.</br>
@@ -245,8 +199,6 @@ The interactive application enables users to estimate household food waste using
 <summary><b>🏃🏻‍♀️ HOW TO RUN THE STREAMLIT DEMO</b></summary></br>
 
 This project includes a Streamlit demo app that predicts household food waste using the Random Forest model.
-
-
 
 **1. Clone the repository**
 
@@ -303,20 +255,36 @@ Open this link in your browser to use the demo.
 ---
 
 <details open>
-<summary><b>💡 BUSINESS RECOMMENDATIONS</b></summary></br>
+<summary><b>🗂 DATASETS</b></summary></br>
 
-| Audience | Actionable Measures |
-|----------|------|
-| United Nations Environment Programme (UNEP) | 1. Strengthen global food waste measurement and reporting standards </br> 2. Prioritize support for high-risk intervention countries  |
-| Policymakers and Government Agencies  | 1. Establish national food waste reduction targets </br> 2. Promote household food waste awareness and education  |
-| Sustainability Practitioners  | 1. Improve food waste monitoring and measurement practices </br> 2. Focus resources on high-impact sectors and countries |
-| Researchers  | 1. Investigate behavioural, cultural, and food-system drivers of food waste </br> 2. Develop more advanced predictive and forecasting models |
-| Non-Governmental Organizations (NGOs)  | 1. Deliver community-based food waste education programs </br> 2. Expand food rescue and redistribution initiatives |
-| Students and Data Analysts  | 1. Use data to understand and solve sustainability challenges </br> 2. Communicate findings through impactful data storytelling |
+| Source | Description | Link |
+|---------|-------------|-----|
+| United Nations Environment Program (UNEP)</br> Food Waste Index Report 2024 | - Household Food Waste Estimates</br> - Food Service Waste Estimates </br>  - Retail Food Waste Estimates | [View Source](https://www.unep.org/resources/publication/food-waste-index-report-2024) |
+| World Bank Open Data | - GDP per Capita</br> - Income Group</br> - Total Population</br> - Population Density</br> - Tourism Arrivals</br> - Electricity Access</br> - CO2 Emissions</br> | [View Source](https://data.worldbank.org) |
+| Trading Economics | Average Annual Temperature by Country | [View Source](https://tradingeconomics.com/country-list/temperature) |
 
 </details>
 
 ---
+
+<details open>
+<summary><b>🗂️ REPOSITORY STRUCTURE</b></summary></br>
+
+
+| Folder        | Description                |
+| ------------- | -------------------------- |
+| 📁 app        | Streamlit Application      |
+| 📁 charts     | Exploratory Visualisations |
+| 📁 dashboards | Tableau Dashboards         |
+| 📁 data       | Raw and Cleaned Datasets, <br> Audit Country Matching &  Data Model |
+| 📁 notebooks  | End-to-end Python analysis |
+| 📁 reports    | Technical Report & Presentation Slides           |
+
+</details>
+
+---
+
+
 
 <details>
 <summary><b>✨ FUTURE ENHANCEMENTS</b></summary></br>
