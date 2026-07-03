@@ -229,7 +229,7 @@ Demonstrated the strongest predictive performance and captured the complex non-l
 
 ---
 
-<details>
+<details open>
 <summary><b>🚀 INTERACTIVE STREAMLIT DEMO</b></summary></br>
 
 The interactive application enables users to estimate household food waste using five country-level indicators derived from the best-performing Random Forest model.</br>
@@ -241,7 +241,7 @@ The interactive application enables users to estimate household food waste using
 
 ---
 
-<details open>
+<details>
 <summary><b>🏃🏻‍♀️ HOW TO RUN THE STREAMLIT DEMO</b></summary></br>
 
 This project includes a Streamlit demo app that predicts household food waste using the Random Forest model.
