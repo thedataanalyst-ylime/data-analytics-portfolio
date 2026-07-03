@@ -3,20 +3,20 @@
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
 
-🌍 Analysed food waste across **233 countries**
-📊 Integrated **11 global datasets**
-🤖 Developed and deployed a **Random Forest Model** to predict household food waste
-📈 Developed **4 interactive Tableau dashboards** for interactive exploration
-🎯 Identified **60 priority intervention countries**
-🌱 Delivered **evidence-based sustainability recommendations** for governments, NGOs and sustainability practitioners
+🌍 Analysed food waste across **233 countries**</br>
+📊 Integrated **11 global datasets**</br>
+🤖 Developed and deployed a **Random Forest Model** to predict household food waste</br>
+📈 Developed **4 interactive Tableau dashboards** for interactive exploration</br>
+🎯 Identified **60 priority intervention countries**</br>
+🌱 Delivered **evidence-based sustainability recommendations** for governments, NGOs and sustainability practitioners</br>
 
 ---
 | Category | Details |
 |------|--------|
-| Analytics Capabilities | 🧠 Business Analysis </br> 📥 Data Collection</br> 🧹 Data Cleaning </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering</br> 📈 Statistical Analysis </br> 🤖 Machine Learning </br>📊 Data Storytelling </br> 💡 Recommendations</br>|
-| Technology Stack | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) • ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) • ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  |
-| Models Evaluated | Baseline • Linear Regression • Random Forest Regression |
-| Project Artefacts | 📓 [Jupyter Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) </br> 📊 [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br> 🌐 Interactive Streamlit Application </br> 📄 [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> 🎤 [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) </br>|
+| **Analytics Capabilities** | 🧠 Business Analysis </br> 📥 Data Collection</br> 🧹 Data Cleaning </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering</br> 📈 Statistical Analysis </br> 🤖 Machine Learning </br>📊 Data Storytelling </br> 💡 Recommendations</br>|
+| **Technology Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) • ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) • ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) • ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) • ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) • ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) • ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  |
+| **Models Evaluated** | Baseline • Linear Regression • Random Forest Regression |
+| **Project Artefacts** | 📓 [Jupyter Notebook](notebooks/global-food-waste-sustainability-notebook.ipynb) </br> 📊 [Tableau Interactive Dashboards](https://us-east-1.online.tableau.com/#/site/gaenterpriselicenses/collections/999465e4-5105-4936-987f-7c60e14b640e?:origin=card_share_link) </br> 🌐 Interactive Streamlit Application </br> 📄 [Technical Report](reports/Global_Food_Waste_Sustainability_Technical_Report.pdf) </br> 🎤 [Presentation Slides](reports/Global_Food_Waste_Sustainability_Presentation.pdf) </br>|
 
 </details>
 
@@ -59,7 +59,7 @@ This project answers **key business questions**:
 
 This project demonstrates how publicly available datasets can be integrated to support evidence-based sustainability decisions.
 
-The findings help governments, NGOs, researchers and sustainability practitioners identify high-risk countries, understand key food waste drivers and prioritize interventions using data rather than assumptions.
+The findings help governments, NGOs, researchers and sustainability practitioners **identify high-risk countries, understand key food waste drivers and prioritize interventions** using data rather than assumptions.
 
 </details>
 
@@ -107,12 +107,12 @@ Food waste occurs across all income groups, suggesting that behavioural and envi
 
 | Audience | Actionable Measures |
 |----------|------|
-| United Nations Environment Programme (UNEP) | 1. Strengthen global food waste measurement and reporting standards </br> 2. Prioritize support for high-risk intervention countries  |
-| Policymakers and Government Agencies  | 1. Establish national food waste reduction targets </br> 2. Promote household food waste awareness and education  |
-| Sustainability Practitioners  | 1. Improve food waste monitoring and measurement practices </br> 2. Focus resources on high-impact sectors and countries |
-| Researchers  | 1. Investigate behavioural, cultural, and food-system drivers of food waste </br> 2. Develop more advanced predictive and forecasting models |
-| Non-Governmental Organizations (NGOs)  | 1. Deliver community-based food waste education programs </br> 2. Expand food rescue and redistribution initiatives |
-| Students and Data Analysts  | 1. Use data to understand and solve sustainability challenges </br> 2. Communicate findings through impactful data storytelling |
+| **United Nations Environment Programme (UNEP)** | 1. Strengthen global food waste measurement and reporting standards </br> 2. Prioritize support for high-risk intervention countries  |
+| **Policymakers and Government Agencies**  | 1. Establish national food waste reduction targets </br> 2. Promote household food waste awareness and education  |
+| **Sustainability Practitioners**  | 1. Improve food waste monitoring and measurement practices </br> 2. Focus resources on high-impact sectors and countries |
+| **Researchers**  | 1. Investigate behavioural, cultural, and food-system drivers of food waste </br> 2. Develop more advanced predictive and forecasting models |
+| **Non-Governmental Organizations (NGOs)**  | 1. Deliver community-based food waste education programs </br> 2. Expand food rescue and redistribution initiatives |
+| **Students and Data Analysts**  | 1. Use data to understand and solve sustainability challenges </br> 2. Communicate findings through impactful data storytelling |
 
 </details>
 
