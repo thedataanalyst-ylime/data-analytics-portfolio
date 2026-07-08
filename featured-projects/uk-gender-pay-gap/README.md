@@ -1,5 +1,5 @@
 ### 🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis
-**<font color="green">SQL | Data Storytelling | Business Intelligence | Workforce Analytics**</font>
+**<font color="green">SQL | Data Storytelling | Business Intelligence | Workforce Analytics**</font></br>
 
 A business intelligence project analysing **gender pay gap across more than 10,000 UK employers** to uncover workforce representation patterns and identify opportunities for greater pay equity.
 
