@@ -26,13 +26,45 @@ A business intelligence project analysing **gender pay gap across more than 10,0
 | Technology Stack | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white) • ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) • ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)  |
 | Project Artefacts | 🔍 [SQL Analysis](sql/UK_Gender_Pay_Gap_Analysis_SQL.pdf) </br> 📄 [Technical Report](report/UK_Gender_Pay_Gap_Analysis_Report.pdf) </br> 🎤 [Presentation Slides](presentation/UK_Gender_Pay_Gap_Analysis_Presentation.pdf) </br>|
 
+</details>
+
+---
+
+<details open>
+<summary><b>🎯 BUSINESS PROBLEM AND BUSINESS VALUE</b></summary></br>
+
+**👩👱🏻‍♂️ Why This Project Matters**</br>
+
+**Gender pay reporting has become an important measure of workforce transparency, helping organisations and policymakers monitor pay equity.** However, reported gender pay gaps alone do not explain why disparities exist or the organisational factors that contribute to them.</br>
+
+Using publicly available [UK Gender Pay Gap data](https://gender-pay-gap.service.gov.uk) from **10,174 employers**, this project analyses workforce composition, organisation size, industry, and regional characteristics to uncover the structural drivers behind gender pay gaps and translate raw reporting data into actionable business insights.</br>
+
+This analysis addresses the following key questions:</br>
+
+- Which industries exhibit the largest gender pay gaps?</br>
+- Does organisation size influence the gender pay gap?</br>
+- How does workforce representation across pay quartiles affect the gender pay gap?</br>
+- Do regional differences influence the gender pay gap?</br>
+- Which organisations demonstrate unusually high or low gender pay gaps?</br>
+
+---
+
+**💎 Business Value**</br>
+
+The insights generated from this analysis can help organisations and policymakers:</br>
+
+
+- Identify structural drivers of gender pay gaps</br>
+- Support workforce planning and DEI initiatives</br>
+- Improve organisational transparency and ESG reporting</br>
+- Enable evidence-based policy and workforce decisions</br>
 
 </details>
 
 ---
 
 <details open>
-<summary><b>💻 SQL SKILLS DEMONSTRATED </b></summary></br>
+<summary><b>💻 SQL TECHNIQUES & BUSINESS APPLICATIONS </b></summary></br>
 
 | Skill             | SQL Techniques                   |  Business Application |
 | -------------------- | -------------------------------- | ---- |
@@ -51,47 +83,13 @@ A business intelligence project analysing **gender pay gap across more than 10,0
 ---
 
 <details open>
-<summary><b>🎯 BUSINESS PROBLEM AND BUSINESS VALUE</b></summary></br>
-
-**👩👱🏻‍♂️ Why This Project Matters**</br>
-**Gender pay reporting has become an important measure of workforce transparency, helping organisations and policymakers monitor pay equity.** However, reported gender pay gaps alone do not explain why disparities exist or the organisational factors that contribute to them.</br>
-
-Using publicly available [UK Gender Pay Gap data](https://gender-pay-gap.service.gov.uk) from **10,174 employers**, this project analyses workforce composition, organisation size, industry, and regional characteristics to uncover the structural drivers behind gender pay gaps and translate raw reporting data into actionable business insights.</br>
-
----
-
-**❓Business Questions**</br>
-This analysis addresses the following key questions:</br>
-
-- Which industries exhibit the largest gender pay gaps?</br>
-- Does organisation size influence the gender pay gap?</br>
-- How does workforce representation across pay quartiles affect the gender pay gap?</br>
-- Do regional differences influence the gender pay gap?</br>
-- Which organisations demonstrate unusually high or low gender pay gaps?</br>
-
----
-
-**💎 Business Value**</br>
-
-The insights generated from this analysis can help organisations and policymakers:</br>
-
-- Identify structural drivers of gender pay gaps</br>
-- Support workforce planning and DEI initiatives</br>
-- Improve organisational transparency and ESG reporting</br>
-- Enable evidence-based policy and workforce decisions</br>
-
-</details>
-
----
-
-<details open>
 <summary><b>🛠 ANALYTICS CHALLENGES SOLVED</b></summary></br>
 
 - Determined the appropriate statistical measure (Median vs Mean)</br>
-- Used PERCENTILE_CONT()</br>
+- Selected robust statistical measures (Median vs Mean) to reduce the influence of outliers</br>
 - Derived London and Birmingham regions from postcode via regex</br>
 - Mapped Standard Industrial Classification (SIC) codes</br>
-- Validated missing values</br>
+- Designed data validation checks to ensure reliable analysis</br>
 - Identified and explained statistical outliers</br>
 
 </details>
@@ -311,12 +309,13 @@ Address the structural factors contributing to the gender pay gap by improving r
 <details open>
 <summary><b>🏆 PROJECT HIGHLIGHTS</b></summary></br>
 
-✅ Analysed **10,174 UK employers**</br>
-✅ Answered **5 business questions**</br>
-✅ Produced **4 executive recommendations**</br>
+✅ **10,174 UK employers** analysed</br>
+✅ **5 business questions** answered</br>
+✅ **4 executive-ready visualizations**</br>
 ✅ Built **4 business visualisations**</br>
-✅ Applied **advanced SQL techniques** including window functions, CTEs, regex and statistical aggregation</br>
-✅ Delivered **technical report + presentation**</br>
+✅ **9 advanced SQL techniques** demonstrated including window functions, CTEs, regex and statistical aggregation</br>
+✅ **1 technical report**</br>
+✅ **1 presentation**</br>
 
 </details>
 
@@ -363,19 +362,23 @@ Address the structural factors contributing to the gender pay gap by improving r
 ---
 
 <details open>
-<summary><b>⭐ This project demonstrates my ability to:</b></summary></br>
+<summary><b>⭐ KEY TAKEWAYS</b></summary></br>
 
 
+**This project demonstrates my ability to:**
 
 🧠 Translate business questions into SQL analysis</br>
 
-🔍 Validate and interpret complex datasets</br>
+🔍 Explore and validate large datasets</br>
 
-💡 Produce executive-ready insights</br>
+📈 Apply statistical techniques to real-world data</br>
 
-📊 Communicate technical findings clearly</br>
+📊  Produce executive-ready visualizations</br>
 
-🔍 Recommend evidence-based actions</br>
+💡 Generate evidence-based business recommendations</br>
+
+🎤 Communicate technical findings to non-technical audiences</br>
+
 
 **Let's Connect**</br>
 
