@@ -1,7 +1,7 @@
 ### 🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis
-**<font color="green">SQL | Data Storytelling | Business Intelligence | Workforce Analytics** </font>
+**<font color="green">SQL | Data Storytelling | Business Intelligence | Workforce Analytics**</font>
 
-A business intelligence project analysing **gender pay disparities across more than 10,000 UK employers** to uncover workforce representation patterns and identify opportunities for greater pay equity.
+A business intelligence project analysing **gender pay gap across more than 10,000 UK employers** to uncover workforce representation patterns and identify opportunities for greater pay equity.
 
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
@@ -12,7 +12,7 @@ A business intelligence project analysing **gender pay disparities across more t
 
 👬 Found **workforce representation**, not organisation size, to be the strongest driver
 
-💡 Produced **executive-ready recommendations** for government policy </br>
+💡 Produced **evidence-based recommendations** to support workforce planning, DEI initiatives, and public policy</br>
 
 ---
 
@@ -32,18 +32,37 @@ A business intelligence project analysing **gender pay disparities across more t
 ---
 
 <details open>
+<summary><b>💻 SQL SKILLS DEMONSTRATED </b></summary></br>
+
+| Category             | SQL Techniques                   |
+| -------------------- | -------------------------------- |
+| Data Exploration     | SELECT, DISTINCT, WHERE          |
+| Data Aggregation     | GROUP BY, HAVING                 |
+| Data Transformation  | CASE WHEN                        |
+| Joins                | INNER JOIN                       |
+| Sorting              | ORDER BY                         |
+| Statistical Analysis | PERCENTILE_CONT                  |
+| Pattern Matching     | ILIKE, Regular Expressions       |
+| Data Validation      | NULL Handling, Checking for Duplicate Records        |
+| Business Analysis    | CTEs                             |
+
+</details>
+
+---
+
+<details open>
 <summary><b>🎯 BUSINESS PROBLEM AND BUSINESS VALUE</b></summary></br>
 
 **Business Problem**</br>
 
-Gender pay reporting provides valuable **transparency into workforce equality**, but interpreting the results and identifying the underlying drivers of pay disparities remain challenging.</br>
+Gender pay reporting provides valuable **transparency into workforce equality**, but interpreting the results and identifying the underlying drivers of pay gap remain challenging.</br>
 
-Using publicly available [UK Gender Pay Gap data](https://www.gov.uk/government/publications/gender-pay-gap-reporting-guidance-for-employers?_ga=2.132484942.150848908.1643707737-1164715231.1643022613) from over 10,000 employers, this project **investigates the organisational factors associated with gender pay inequality** by answering the following business questions:</br>
+Using publicly available [UK Gender Pay Gap data](https://gender-pay-gap.service.gov.uk) from over 10,000 employers, this project **investigates the organisational factors associated with gender pay gap** by answering the following business questions:</br>
 
 - Which industries exhibit the largest gender pay gaps?
-- Does organisation size influence pay inequality?
+- Does organisation size influence the gender pay gap?
 - How does workforce representation across pay quartiles affect the gender pay gap?
-- What patterns exist in bonus pay disparities?
+- Do regional differences influence the gender pay gap?
 - Which organisations demonstrate unusually high or low gender pay gaps?
 
 ---
@@ -52,31 +71,11 @@ Using publicly available [UK Gender Pay Gap data](https://www.gov.uk/government/
 
 The insights generated from this analysis can help organisations and policymakers:</br>
 
-- **Identify structural workforce patterns** contributing to gender pay disparities.</br>
+- **Identify structural workforce patterns** contributing to gender pay gaps.</br>
 - Support evidence-based workforce planning and talent development strategies.</br>
 - **Strengthen Diversity, Equity & Inclusion (DEI) initiatives** through data-driven decision-making.</br>
 - Enhance ESG and regulatory reporting with meaningful workforce insights.</br>
 - **Improve organisational transparency** and monitor progress towards pay equity.</br>
-
-</details>
-
----
-
-<details open>
-<summary><b>💻 SQL SKILLS DEMONSTRATED </b></summary></br>
-
-| Category             | SQL Techniques                   |
-| -------------------- | -------------------------------- |
-| Data Exploration     | SELECT, DISTINCT, WHERE          |
-| Data Aggregation     | GROUP BY, HAVING                 |
-| Conditional Logic    | CASE WHEN                        |
-| Joins                | INNER JOIN                       |
-| Ranking              | ORDER BY                         |
-| Statistical Analysis | MEDIAN using `PERCENTILE_CONT()` |
-| Text Processing      | Regular Expressions              |
-| Data Validation      | NULL Handling, Checking for Duplicate Records        |
-| Business Analysis    | CTEs                             |
-
 
 </details>
 
@@ -96,6 +95,8 @@ The insights generated from this analysis can help organisations and policymaker
 
 <details open>
 <summary><b>🧩 SAMPLE SQL TECHNIQUES</b></summary></br>
+
+The following SQL snippets demonstrate the techniques used to answer the project's business questions.</br>
 
 **1. Compute the mean, median, min and max of gender pay gap.**</br>
    
@@ -208,9 +209,13 @@ This means that **women earn approximately 10% less than men** across organisati
 
 **💡 Business Insight:**</br>
 
-Gender pay disparities are widespread, but the largest gaps are concentrated among a relatively small number of organisations.</br>
+Gender pay gaps are widespread, but the largest gaps are concentrated among a relatively small number of organisations.</br>
 
-![Chart1](charts/01_distribution_of_pay_gap.png)
+<p align="center">
+  <img src="charts/01_distribution_of_pay_gap.png" width="80%"></br>
+  Figure 1. Overall Gender Pay Gap Distribution
+</p>
+
 
 **2. Company Size Analysis**
 
@@ -220,9 +225,12 @@ Median pay gaps remain consistent across employer sizes, ranging from **7.2% to 
 
 **💡 Business Insight:**</br>
 
-Organisation size alone does not explain gender pay inequality.
+Organisation size alone does not explain gender pay gap.
 
-![Chart2](charts/02_pay_gap_by_employer_size.png)
+<p align="center">
+  <img src="charts/02_pay_gap_by_employer_size.png" width="80%"></br>
+  Figure 2. Median gender pay gap across employer size categories
+</p>
 
 
 **3. Regional Analysis**
@@ -233,7 +241,11 @@ London reports a **slightly higher median pay gap of 11%** compared to other reg
 **💡 Business Insight:**</br>
 Regional differences appear to reflect workforce composition rather than geography itself.</br>
 
-![Chart3](charts/03_pay_gap_across_regions.png)
+<p align="center">
+  <img src="charts/03_pay_gap_across_regions.png" width="80%"></br>
+  Figure 3. Median gender pay gap across regions
+</p>
+
 
 **4. Industry Analysis**
 
@@ -244,7 +256,10 @@ Education and Finance & Insurance both exhibit **relatively large gender pay gap
 
 Gender pay gaps are **influenced more by occupational representation** than by whether an industry is male- or female-dominated.</br>
 
-![Chart4](charts/04_pay_gap_in_sectors.png)
+<p align="center">
+  <img src="charts/04_pay_gap_in_sectors.png" width="80%"></br>
+  Figure 4. Median gender pay gap across industries
+</p>
 
 ---
 
@@ -308,6 +323,22 @@ Address the structural factors contributing to the gender pay gap by improving r
 
 - **Encourage organisations to strengthen career progression pathways**, ensuring equitable access to promotions, leadership opportunities, and higher-paying roles.</br>
 
+</details>
+
+---
+
+<details open>
+<summary><b>🏆 PROJECT OUTCOMES</b></summary></br>
+
+✅ Analysed **10,174 UK employers**
+✅ Answered **5 business questions**
+✅ Produced **4 executive recommendations**
+✅ Built **4 business visualisations**
+✅ Applied **9 SQL techniques**
+✅ Delivered **technical report + presentation**
+
+</details>
+
 ---
 
 <details>
@@ -317,7 +348,7 @@ Address the structural factors contributing to the gender pay gap by improving r
 |---------|-------------|-----|
 | UK Government Gender Pay Gap Reporting Service | Annual employer-reported gender pay statistics | • [View Dataset](data/gender_pay_gap_21_22.zip) </br> • [View Data Source](https://gender-pay-gap.service.gov.uk) |
 
-Dataset includes:</br>
+Key Variables:</br>
 - Mean hourly pay gap</br>
 - Median hourly pay gap</br>
 - Bonus pay gap</br>
@@ -358,7 +389,7 @@ Dataset includes:</br>
 
 🔍 Recommend evidence-based actions</br>
 
-**Connect with me.**</br>
+**Let's Connect**</br>
 
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
