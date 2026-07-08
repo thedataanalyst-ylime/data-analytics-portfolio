@@ -42,7 +42,7 @@ A business intelligence project analysing **gender pay gap across more than 10,0
 | Joins                | INNER JOIN                       |
 | Sorting              | ORDER BY                         |
 | Statistical Analysis | PERCENTILE_CONT                  |
-| Pattern Matching     | ILIKE, Regular Expressions       |
+| Pattern Matching     | ILIKE, Regular Expressions (regex)       |
 | Data Validation      | NULL Handling, Checking for Duplicate Records        |
 | Business Analysis    | CTEs                             |
 
@@ -86,8 +86,8 @@ The insights generated from this analysis can help organisations and policymaker
 
 - Determined the appropriate statistical measure (Median vs Mean)</br>
 - Used PERCENTILE_CONT()</br>
-- Derived London regions from postcode regex</br>
-- Mapped SIC codes</br>
+- Derived London and Birmingham regions from postcode via regex</br>
+- Mapped Standard Industrial Classification (SIC) codes</br>
 - Validated missing values</br>
 - Identified and explained statistical outliers</br>
 
@@ -212,7 +212,7 @@ This means that **women earn approximately 10% less than men** across organisati
 Gender pay gaps are widespread, but the largest gaps are concentrated among a relatively small number of organisations.</br>
 
 <p align="center">
-  <img src="charts/01_distribution_of_pay_gap.png" width="80%"></br>
+  <img src="charts/01_distribution_of_pay_gap.png" width="70%"></br>
   Figure 1. Overall Gender Pay Gap Distribution
 </p>
 
@@ -228,7 +228,7 @@ Median pay gaps remain consistent across employer sizes, ranging from **7.2% to 
 Organisation size alone does not explain gender pay gap.
 
 <p align="center">
-  <img src="charts/02_pay_gap_by_employer_size.png" width="80%"></br>
+  <img src="charts/02_pay_gap_by_employer_size.png" width="70%"></br>
   Figure 2. Median gender pay gap across employer size categories
 </p>
 
@@ -242,7 +242,7 @@ London reports a **slightly higher median pay gap of 11%** compared to other reg
 Regional differences appear to reflect workforce composition rather than geography itself.</br>
 
 <p align="center">
-  <img src="charts/03_pay_gap_across_regions.png" width="80%"></br>
+  <img src="charts/03_pay_gap_across_regions.png" width="70%"></br>
   Figure 3. Median gender pay gap across regions
 </p>
 
@@ -257,13 +257,13 @@ Education and Finance & Insurance both exhibit **relatively large gender pay gap
 Gender pay gaps are **influenced more by occupational representation** than by whether an industry is male- or female-dominated.</br>
 
 <p align="center">
-  <img src="charts/04_pay_gap_in_sectors.png" width="80%"></br>
+  <img src="charts/04_pay_gap_in_sectors.png" width="70%"></br>
   Figure 4. Median gender pay gap across industries
 </p>
 
 ---
 
-**❗️KEY IMPLICATIONS**</br>
+**❗️KEY IMPLICATION**</br>
 
 **<font color="red">Gender Pay Gap ≠ Unlawful Pay Discrimination**</font></br>
 
@@ -330,12 +330,12 @@ Address the structural factors contributing to the gender pay gap by improving r
 <details open>
 <summary><b>🏆 PROJECT OUTCOMES</b></summary></br>
 
-✅ Analysed **10,174 UK employers**
-✅ Answered **5 business questions**
-✅ Produced **4 executive recommendations**
-✅ Built **4 business visualisations**
-✅ Applied **9 SQL techniques**
-✅ Delivered **technical report + presentation**
+✅ Analysed **10,174 UK employers**</br>
+✅ Answered **5 business questions**</br>
+✅ Produced **4 executive recommendations**</br>
+✅ Built **4 business visualisations**</br>
+✅ Applied **9 SQL techniques**</br>
+✅ Delivered **technical report + presentation**</br>
 
 </details>
 
@@ -381,7 +381,7 @@ Key Variables:</br>
 
 🧠 Translate business questions into SQL analysis</br>
 
-✅ Validate and interpret complex datasets</br>
+🔍 Validate and interpret complex datasets</br>
 
 💡 Produce executive-ready insights</br>
 
