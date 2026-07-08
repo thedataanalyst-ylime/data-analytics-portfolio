@@ -34,17 +34,17 @@ A business intelligence project analysing **gender pay gap across more than 10,0
 <details open>
 <summary><b>💻 SQL SKILLS DEMONSTRATED </b></summary></br>
 
-| Category             | SQL Techniques                   |
-| -------------------- | -------------------------------- |
-| Data Exploration     | SELECT, DISTINCT, WHERE          |
-| Data Aggregation     | GROUP BY, HAVING                 |
-| Feature Engineering  | CASE WHEN                        |
-| Joins                | INNER JOIN                       |
-| Sorting              | ORDER BY                         |
-| Statistical Analysis | PERCENTILE_CONT                  |
-| Pattern Matching     | ILIKE, Regular Expressions (regex)       |
-| Data Validation      | NULL Handling, Checking for Duplicate Records        |
-| Analytical Query Design    | CTEs                             |
+| Skill             | SQL Techniques                   |  Business Application |
+| -------------------- | -------------------------------- | ---- |
+| Data Exploration     | SELECT, DISTINCT, WHERE          | Initial data exploration and filtering relevant records |
+| Data Aggregation     | GROUP BY, HAVING                 | Industry, company size, and regional comparisons |
+| Feature Engineering  | CASE WHEN                        | Derived company size, industry, and region classifications | 
+| Joins                | INNER JOIN                       | Combined employer records with SIC code reference data |
+| Sorting              | ORDER BY                         | Ranked organisations and identified highest and lowest pay gaps |
+| Statistical Analysis | PERCENTILE_CONT                  | Median pay gap calculation |
+| Pattern Matching     | ILIKE, Regular Expressions (regex)       | Postcode classification (London vs Birmingham) | 
+| Data Validation      | NULL Handling, Checking for Duplicate Records        | Ensured data quality before analysis | 
+| Analytical Query Design    | CTEs                             | Multi-step regional and industry analysis | 
 
 </details>
 
@@ -53,29 +53,32 @@ A business intelligence project analysing **gender pay gap across more than 10,0
 <details open>
 <summary><b>🎯 BUSINESS PROBLEM AND BUSINESS VALUE</b></summary></br>
 
-**Business Problem**</br>
+**👩👱🏻‍♂️ Why This Project Matters**</br>
+**Gender pay reporting has become an important measure of workforce transparency, helping organisations and policymakers monitor pay equity.** However, reported gender pay gaps alone do not explain why disparities exist or the organisational factors that contribute to them.</br>
 
-Gender pay reporting provides valuable **transparency into workforce equality**, but interpreting the results and identifying the underlying drivers of pay gap remain challenging.</br>
-
-Using publicly available [UK Gender Pay Gap data](https://gender-pay-gap.service.gov.uk) from over 10,000 employers, this project **investigates the organisational factors associated with gender pay gap** by answering the following business questions:</br>
-
-- Which industries exhibit the largest gender pay gaps?
-- Does organisation size influence the gender pay gap?
-- How does workforce representation across pay quartiles affect the gender pay gap?
-- Do regional differences influence the gender pay gap?
-- Which organisations demonstrate unusually high or low gender pay gaps?
+Using publicly available [UK Gender Pay Gap data](https://gender-pay-gap.service.gov.uk) from **10,174 employers**, this project analyses workforce composition, organisation size, industry, and regional characteristics to uncover the structural drivers behind gender pay gaps and translate raw reporting data into actionable business insights.</br>
 
 ---
 
-**Business Value**</br>
+**❓Business Questions**</br>
+This analysis addresses the following key questions:</br>
+
+- Which industries exhibit the largest gender pay gaps?</br>
+- Does organisation size influence the gender pay gap?</br>
+- How does workforce representation across pay quartiles affect the gender pay gap?</br>
+- Do regional differences influence the gender pay gap?</br>
+- Which organisations demonstrate unusually high or low gender pay gaps?</br>
+
+---
+
+**💎 Business Value**</br>
 
 The insights generated from this analysis can help organisations and policymakers:</br>
 
-- **Identify structural workforce patterns** contributing to gender pay gaps.</br>
-- **Support workforce planning** and talent development strategies.</br>
-- **Strengthen Diversity, Equity & Inclusion (DEI) initiatives** through data-driven decision-making.</br>
-- **Improve ESG reporting** with meaningful workforce insights.</br>
-- **Increase organisational transparency** and monitor progress towards pay equity.</br>
+- Identify structural drivers of gender pay gaps</br>
+- Support workforce planning and DEI initiatives</br>
+- Improve organisational transparency and ESG reporting</br>
+- Enable evidence-based policy and workforce decisions</br>
 
 </details>
 
@@ -90,6 +93,8 @@ The insights generated from this analysis can help organisations and policymaker
 - Mapped Standard Industrial Classification (SIC) codes</br>
 - Validated missing values</br>
 - Identified and explained statistical outliers</br>
+
+</details>
 
 ---
 
@@ -169,6 +174,7 @@ GROUP BY region
 ORDER BY region DESC;
 
 ```
+</details>
 
 ---
 
@@ -183,12 +189,10 @@ ORDER BY region DESC;
 </p>
 
 **🔍 Key Finding:**</br>
-
 The median gender pay gap across UK employers is **9.8%**, with substantial variation and several extreme outliers. 
 This means that **women earn approximately 10% less than men** across organisations.</br>
 
 **💡 Business Insight:**</br>
-
 Gender pay gaps are widespread, but the largest gaps are concentrated among a relatively small number of organisations.</br>
 
 ---
@@ -201,11 +205,9 @@ Gender pay gaps are widespread, but the largest gaps are concentrated among a re
 </p>
 
 **🔍 Key Finding:**</br>
-
 Median pay gaps remain consistent across employer sizes, ranging from **7.2% to 10.8%**.</br>
 
 **💡 Business Insight:**</br>
-
 Organisation size alone does not explain gender pay gap.
 
 ---
@@ -236,8 +238,9 @@ Regional differences appear to reflect workforce composition rather than geograp
 Education and Finance & Insurance both exhibit **relatively large gender pay gaps** despite having very different workforce compositions.</br>
 
 **💡 Business Insight:**</br>
-
 Gender pay gaps are **influenced more by occupational representation** than by whether an industry is male- or female-dominated.</br>
+
+</details>
 
 ---
 
@@ -280,6 +283,8 @@ These limitations may affect the accuracy and comparability of the findings.</br
 **4. Structural Dataset Constraints**
 - The dataset contains structural limitations, including the **absence of workforce headcount**, **limited contextual information** (such as working patterns and role distribution), and instances where **missing values are represented as zeros**.</br>
 
+</details>
+
 ---
 
 <details open>
@@ -304,7 +309,7 @@ Address the structural factors contributing to the gender pay gap by improving r
 ---
 
 <details open>
-<summary><b>🏆 PROJECT OUTCOMES</b></summary></br>
+<summary><b>🏆 PROJECT HIGHLIGHTS</b></summary></br>
 
 ✅ Analysed **10,174 UK employers**</br>
 ✅ Answered **5 business questions**</br>
@@ -324,7 +329,13 @@ Address the structural factors contributing to the gender pay gap by improving r
 |---------|-------------|-----|
 | UK Government Gender Pay Gap Reporting Service | Annual employer-reported gender pay statistics | • [View Dataset](data/gender_pay_gap_21_22.zip) </br> • [View Data Source](https://gender-pay-gap.service.gov.uk) |
 
-Key Variables:</br>
+**Records:** 10,174 employers</br>
+
+**Reporting Year:** 2021–2022</br>
+
+**Coverage:** UK employers with 250+ employees</br>
+
+**Key Variables:**</br>
 - Mean & Median Hourly Pay Gap</br>
 - Bonus Pay Gap & Participation</br>
 - Workforce Pay Quartiles</br>
@@ -351,7 +362,10 @@ Key Variables:</br>
 
 ---
 
-⭐ **This project demonstrates my ability to:**</br>
+<details open>
+<summary><b>⭐ This project demonstrates my ability to:</b></summary></br>
+
+
 
 🧠 Translate business questions into SQL analysis</br>
 
@@ -368,5 +382,7 @@ Key Variables:</br>
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
 💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)</br>
+
+</details>
 
 ---
