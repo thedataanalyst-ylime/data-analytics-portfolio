@@ -1,7 +1,7 @@
 ### 🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis
-**<font color="teal">SQL | Data Storytelling | Business Intelligence | Workforce Analytics** </font>
+**<font color="green">SQL | Data Storytelling | Business Intelligence | Workforce Analytics** </font>
 
-A business intelligence project analysing gender pay disparities across more than 10,000 UK employers to uncover workforce representation patterns and identify opportunities for greater pay equity.
+A business intelligence project analysing **gender pay disparities across more than 10,000 UK employers** to uncover workforce representation patterns and identify opportunities for greater pay equity.
 
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
@@ -38,7 +38,7 @@ A business intelligence project analysing gender pay disparities across more tha
 
 Gender pay reporting provides valuable **transparency into workforce equality**, but interpreting the results and identifying the underlying drivers of pay disparities remain challenging.</br>
 
-Using publicly available UK Gender Pay Gap data from over 10,000 employers, this project **investigates the organisational factors associated with gender pay inequality** by answering the following business questions:</br>
+Using publicly available [UK Gender Pay Gap data](https://www.gov.uk/government/publications/gender-pay-gap-reporting-guidance-for-employers?_ga=2.132484942.150848908.1643707737-1164715231.1643022613) from over 10,000 employers, this project **investigates the organisational factors associated with gender pay inequality** by answering the following business questions:</br>
 
 - Which industries exhibit the largest gender pay gaps?
 - Does organisation size influence pay inequality?
@@ -97,7 +97,7 @@ The insights generated from this analysis can help organisations and policymaker
 <details open>
 <summary><b>🧩 SAMPLE SQL TECHNIQUES</b></summary></br>
 
-1. Compute the mean, median, min and max of gender pay gap.</br>
+**1. Compute the mean, median, min and max of gender pay gap.**</br>
    
 ```bash
 SELECT
@@ -108,7 +108,7 @@ SELECT
 FROM gender_pay_gap_21_22;
 ```
 
-2. Select the 10 Most Significant Companies with large pay gaps.</br>
+**2. Select the 10 Most Significant Companies with large pay gaps.**</br>
 
 ```bash
 SELECT 
@@ -132,7 +132,7 @@ LIMIT 10;
 
 ```
 
-3. Compute the median gender pay gap within banks.</br>
+**3. Compute the median gender pay gap within banks.**</br>
 
 
 ```bash
@@ -154,7 +154,7 @@ AND femaleuppermiddlequartile IS NOT NULL;
 
 ```
 
-4. Compute the median pay gap in London versus Birmingham. </br>
+**4. Compute the median pay gap in London versus Birmingham.**</br>
 
 ```bash
 
@@ -250,7 +250,8 @@ Gender pay gaps are **influenced more by occupational representation** than by w
 
 **❗️KEY IMPLICATIONS**</br>
 
-**<font color="red">Gender Pay Gap ≠ Unlawful Pay Discrimination**</font>
+**<font color="red">Gender Pay Gap ≠ Unlawful Pay Discrimination**</font></br>
+
 Instead, it reflects broader structural factors such as the **distribution of men and women across different roles and levels within organisations**.</br>
 
 The gender pay gap is **primarily driven by differences in representation across roles and levels**, rather than unequal pay for the same work. Men are more likely to be represented in higher-paying roles.</br>
@@ -264,10 +265,10 @@ The gender pay gap is **primarily driven by differences in representation across
 
 **1. Dataset Coverage**</br>
 These limitations affect which organisations and employees are represented in the analysis.</br>
-- Only companies with **250 or more employees** are legally required to submit data, meaning the entire small-employer population is absent from this dataset</br>
+- Only companies with **250 or more employees** are legally required to submit data, meaning the entire small-employer population is absent from this dataset.</br>
 
 - Only includes **full-pay relevant employees**, excluding those on leave such as
-such as maternity, paternity, sick, sabbatical, or other forms of leave</br>
+such as maternity, paternity, sick, sabbatical, or other forms of leave.</br>
 
 **2. Data Granularity**</br>
 These limitations restrict the level of analysis that can be performed.</br>
@@ -278,7 +279,7 @@ These limitations restrict the level of analysis that can be performed.</br>
 
 
 
-**3. Data Quality & Consistency**
+**3. Data Quality & Consistency**</br>
 These limitations may affect the accuracy and comparability of the findings.</br>
 
 - The data is **self-reported by employers**, which may introduce reporting inconsistencies.</br>
@@ -314,7 +315,7 @@ Address the structural factors contributing to the gender pay gap by improving r
 
  Source | Description | Link |
 |---------|-------------|-----|
-| UK Government Gender Pay Gap Reporting Service | Annual employer-reported gender pay statistics | • [View Dataset](data/gender_pay_gap_21_22.csv) </br> • [View Data Source](https://gender-pay-gap.service.gov.uk) |
+| UK Government Gender Pay Gap Reporting Service | Annual employer-reported gender pay statistics | • [View Dataset](data/gender_pay_gap_21_22.zip) </br> • [View Data Source](https://gender-pay-gap.service.gov.uk) |
 
 Dataset includes:</br>
 - Mean hourly pay gap</br>
@@ -337,7 +338,7 @@ Dataset includes:</br>
 | ------------- | ------------------------ |
 | 📁 charts     | Visualisations |
 | 📁 data       | Gender Pay Gap Dataset |
-| 📁 sql  | End-to-end SQL analysis |
+| 📁 sql  | End-to-end SQL Analysis |
 | 📁 report    | Technical Report | 
 | 📁 presentation    | Presentation Slides |
 
@@ -346,6 +347,7 @@ Dataset includes:</br>
 ---
 
 ⭐ **This project demonstrates my ability to:**</br>
+
 🧠 Translate business questions into SQL analysis</br>
 
 ✅ Validate and interpret complex datasets</br>
