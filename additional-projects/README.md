@@ -9,7 +9,7 @@ These additional projects complement my [Featured Projects](https://github.com/t
 
 These projects demonstrate the practical application of analytics to solve real-world business problems using SQL, Python, Tableau, and Power BI. They span **multiple industries while reinforcing core capabilities** in data preparation, exploratory analysis, visualization, dashboard development, API integration, and data storytelling.</br>
 
-Collectively, these projects showcase my ability to work across structured and unstructured datasets, multiple visualization platforms, REST APIs, SQL databases, and diverse business domains.</br>
+Collectively, these projects showcase my ability to analyze structured and unstructured datasets using SQL, Python, Tableau, Power BI, and REST APIs across diverse business domains.</br>
 
 **🎯 What You'll Find**</br>
 
@@ -34,8 +34,8 @@ Across these projects you'll see examples of:</br>
 |-----------|---------|
 | **Analytics Capabilities** | Data Cleaning • Exploratory Data Analysis • SQL Analysis • Dashboard Development • Data Visualization • API Integration • Storytelling |
 | **Tools & Technologies** | SQL • Python • Pandas • NumPy • Tableau • Power BI • Plotly • REST APIs • Jupyter Notebook |
-| **Project Domains** | Finance • Real Estate • Aviation • Environment • Retail • Sports • Public Elections |
-| **Deliverables** | SQL Scripts • Jupyter Notebooks • Tableau Dashboards • Power BI Reports • Visualisations |
+| **Project Domains** | Finance • Real Estate • Aviation • Environment • Retail • Sports • Public Policy |
+| **Deliverables** | SQL Scripts • Jupyter Notebooks • Tableau Dashboards • Power BI Dashboards • Visualisations |
 
 </details>
 
@@ -50,10 +50,12 @@ Each project addresses a real-world business problem, demonstrating the practica
 
 | Project | Business Focus  | Technologies          | Key Capabilities |
 |---------|-----------------|-----------------------|-------------------------------------|
-| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | KPI Reporting, Dashboard Development, Operational Performance Analysis |
-| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Dashboard Development |
+| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | Operational Performance Analytics, KPI Reporting, Dashboard Development, |
+| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Geospatial Visualization, Dashboard Development |
 | ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Data Storytelling, Data Visualization |
 | ☕ Coffee Shop Sales Analysis | Retail Performance Analytics | Python | EDA, Business Performance Analysis, Data Visualization |
+
+---
 
 **💼 Finance & SQL Analytics**</br>
 
@@ -61,6 +63,8 @@ Each project addresses a real-world business problem, demonstrating the practica
 |---------|-----------------|-----------------------|-------------------------------------|
 | 📈 Financial Data APIs | Financial Market Analysis | Python, APIs | Financial Data Integration, Time-Series Analysis, Data Visualization |
 | 🥃 Iowa Liquor Sales | Retail Sales Analytics | SQL | SQL Data Analysis, Data Aggregation, Business Insight Generation |
+
+---
 
 **🌍 Public & Environmental Analytics**</br>
 
@@ -70,7 +74,7 @@ Each project addresses a real-world business problem, demonstrating the practica
 | 🇺🇸 U.S. Presidential Elections | Election & Demographic Analytics | Tableau | Data Storytelling, Dashboard Development |
 | ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Data Storytelling, Data Visualization |
 
-Together, these projects demonstrate continuous growth in applying analytics across diverse industries, datasets, and business challenges while strengthening technical and storytelling capabilities.</br>
+These projects complement my **Featured Projects** by demonstrating the breadth of my analytics experience across diverse industries, business functions, and analytical techniques.</br>
 
 </details>
 
