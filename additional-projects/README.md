@@ -7,19 +7,20 @@ These additional projects complement my [Featured Projects](https://github.com/t
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
 
-These projects demonstrate practical application of analytics to solve business problems using SQL, Python, Tableau, and Power BI. They span **multiple industries and reinforce core skills** in data preparation, exploratory analysis, dashboard development, visualization, API integration, and business storytelling.</br>
+These projects demonstrate the practical application of analytics to solve real-world business problems using SQL, Python, Tableau, and Power BI. They span **multiple industries while reinforcing core capabilities** in data preparation, exploratory analysis, visualization, dashboard development, API integration, and data storytelling.</br>
 
+Collectively, these projects showcase my ability to work across structured and unstructured datasets, multiple visualization platforms, REST APIs, SQL databases, and diverse business domains.</br>
 
 **🎯 What You'll Find**</br>
 
 Across these projects you'll see examples of:</br>
 
 ✅ SQL Analysis</br>
-✅ Python Data Analytics</br>
+✅ Python Analytics</br>
 ✅ Interactive Dashboards</br>
-✅ Business Storytelling</br>
+✅ Data Storytelling</br>
 ✅ API Integration</br>
-✅ Exploratory Data Analysis</br>
+✅ Exploratory Data Analysis (EDA)</br>
 ✅ Real-world Business Datasets</br>
 
 </details>
@@ -34,7 +35,7 @@ Across these projects you'll see examples of:</br>
 | **Analytics Capabilities** | Data Cleaning • Exploratory Data Analysis • SQL Analysis • Dashboard Development • Data Visualization • API Integration • Storytelling |
 | **Tools & Technologies** | SQL • Python • Pandas • NumPy • Tableau • Power BI • Plotly • REST APIs • Jupyter Notebook |
 | **Project Domains** | Finance • Banking • Real Estate • Aviation • Healthcare • Environment • Retail • Sports • Government Data |
-| **Project Artefacts** | SQL Scripts • Jupyter Notebooks • Tableau Dashboards • Power BI Reports • Visualisations |
+| **Deliverables** | SQL Scripts • Jupyter Notebooks • Tableau Dashboards • Power BI Reports • Visualisations |
 
 </details>
 
@@ -45,17 +46,29 @@ Across these projects you'll see examples of:</br>
 
 Each project addresses a real-world business problem, demonstrating the practical application of analytics to uncover insights, support decision-making, and communicate findings through data-driven storytelling.</br>
 
-| Project | Business Focus  | Technologies          | Key Analytics Capabilities |
+**📊 Business & Operations Analytics**</br>
+
+| Project | Business Focus  | Technologies          | Key Capabilities |
 |---------|-----------------|-----------------------|-------------------------------------|
-| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | KPI Reporting, Interactive Dashboard Development, Operational Performance Analysis |
-| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Interactive Data Visualization |
-| 🇺🇸 U.S. Presidential Elections | Election & Demographic Analytics | Tableau | Geospatial Analytics, Data Storytelling, Interactive Dashboard Design |
-| 💨 Air Quality APIs | Environmental Analytics | Python, APIs | API Data Integration, Data Wrangling, Environmental Data Visualization |
+| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | KPI Reporting, Dashboard Development, Operational Performance Analysis |
+| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Dashboard Development |
+| ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Data Visualization |
 | ☕ Coffee Shop Sales Analysis | Retail Performance Analytics | Python | EDA, Business Performance Analysis, Data Visualization |
-| 📈 Financial Data APIs | Financial Market Analysis | Python, APIs | Financial Data Acquisition, Time-Series Analysis, Data Visualization |
-| ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Executive Dashboard Design, HR KPI Visualization |
+
+**💼 Finance & SQL Analytics**</br>
+
+| Project | Business Focus  | Technologies          | Key Capabilities |
+|---------|-----------------|-----------------------|-------------------------------------|
+| 📈 Financial Data APIs | Financial Market Analysis | Python, APIs | Financial Data Integration, Time-Series Analysis, Data Visualization |
 | 🥃 Iowa Liquor Sales | Retail Sales Analytics | SQL | SQL Data Analysis, Data Aggregation, Business Insight Generation |
-| ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Interactive Dashboard Development, Sports Data Visualization, Storytelling |
+
+**🌍 Public & Environmental Analytics**</br>
+
+| Project | Business Focus  | Technologies          | Key Capabilities |
+|---------|-----------------|-----------------------|-------------------------------------|
+| 💨 Air Quality APIs | Environmental Analytics | Python, APIs | API Data Integration, Data Wrangling, Data Visualization |
+| 🇺🇸 U.S. Presidential Elections | Election & Demographic Analytics | Tableau | Data Storytelling, Dashboard Development |
+| ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Data Visualization, Data Storytelling |
 
 </details>
 
@@ -64,7 +77,7 @@ Each project addresses a real-world business problem, demonstrating the practica
 <details open>
 <summary><b>🎯 CONTINUOUS LEARNING JOURNEY</b></summary></br>
 
-Together, these projects demonstrate continuous growth in applying analytics across diverse industries, datasets, and business problems while strengthening technical and storytelling capabilities.</br>
+Together, these projects demonstrate continuous growth in applying analytics across diverse industries, datasets, and business challenges while strengthening technical and storytelling capabilities.</br>
 
 </details>
 
@@ -85,7 +98,7 @@ For more comprehensive end-to-end analytics case studies, explore my Featured Pr
 
 **🤝 Let's Connect!**</br>
 
-If you're looking for someone who combines business transformation experience with modern data analytics skills, I'd welcome the opportunity to connect.</br>
+If you're looking for a data analytics professional who combines business transformation experience with modern analytics capabilities, I'd welcome the opportunity to connect.</br>
 
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
