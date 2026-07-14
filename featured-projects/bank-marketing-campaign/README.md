@@ -1,6 +1,5 @@
-### 📈 Bank Marketing Campaign Response Prediction
-#### **💰Predicting High-Potential Bank Customers for Targeted Marketing**</br>
-**Using Logistic Regression Classification on the Portuguese Bank Marketing Dataset**</br>
+### 📈 Bank Marketing Campaign Analytics
+#### **💰Predicting High-Potential Customers using Machine Learning**</br>
 
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
@@ -13,7 +12,7 @@
 
 🏆 Selected the **Balanced Logistic Regression model**, improving Recall from 21% to 62% and reducing missed subscribers by over 50%.</br>
 
-💡 Delivered **actionable marketing recommendations** to improve customer targeting, campaign effectiveness, and subscription rates.</br>
+💡 Delivered **actionable recommendations** to improve customer targeting, campaign ROI, and subscription rates.</br>
 
 </details>
 
@@ -24,7 +23,7 @@
 
 Financial institutions rely on direct marketing campaigns to promote term deposit products, but low subscription rates make customer targeting challenging.</br>
 
-This project applies EDA and machine learning to **identify the key factors influencing customer subscriptions and predict high-potential customers for more effective marketing campaigns**.</br>
+This project applies EDA and machine learning to **identify the strongest drivers of customer subscription and predict high-potential customers.**.</br>
 
 ---
 
@@ -33,6 +32,7 @@ This project applies EDA and machine learning to **identify the key factors infl
 | **Analytics Capabilities** | 🧠 Business Analysis </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering</br> 🤖 Machine Learning </br> 📝 Model Evaluation </br> 💡 Recommendations</br> 📊 Data Storytelling</br> |
 | **Technology Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) • ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) • ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 | **Models Evaluated** | Standard Logistic Regression • Balanced Logistic Regression |
+| **Business Outcome** | Improved Recall from 21% → 62%, 3× more subscribers identified  |
 | **Project Artefacts** | 📓 [Jupyter Notebook](notebooks/bank-marketing-campaign-notebook.ipynb) |
 
 </details>
@@ -55,15 +55,15 @@ Without predictive analytics, the bank risks:</br>
 
 **💎 Business Value**</br>
 
-By developing a machine learning model, the bank is able to:</br>
-
-- Reduce missed sales opportunities by **over 50%**</br>
-- Identify nearly **3× more** potential subscribers</br>
-- Improve Recall **from 21% to 62%**</br>
-- Deliver an interpretable model to support **data-driven marketing decisions**</br>
+The selected Balanced Logistic Regression model delivered measurable business value by:</br>
+- Identifying **nearly 3× more **potential subscribers</br>
+- Reducing missed sales opportunities by **over 50%**</br>
+- Improving **Recall from 21% to 62%**</br>
+- Supporting transparent and **data-driven marketing decisions**</br>
 
 **🥡 Business Takeaway**</br>
-For customer acquisition campaigns, prioritising Recall over Accuracy **enables the bank to identify substantially more potential subscribers**, where missing a customer is more costly than contacting one who ultimately declines.</br>
+
+For customer acquisition campaigns, **identifying more potential subscribers creates greater business value than maximising overall prediction accuracy.** The Balanced Logistic Regression model therefore provides a better balance between marketing efficiency and revenue opportunity.</br>
 
 </details>
 
@@ -74,7 +74,7 @@ For customer acquisition campaigns, prioritising Recall over Accuracy **enables 
 
 **🔍 Exploratory Data Analysis (EDA)**</br>
 
-EDA was conducted to understand customer subscription behaviour, identify meaningful relationships between variables, and select the most relevant features for predictive modelling. Both numerical and categorical variables were analysed to uncover behavioural patterns, evaluate data quality, and guide feature engineering.</br>
+EDA was conducted to understand customer subscription behaviour, identify meaningful relationships between variables, and select the most relevant features for predictive modelling. Numerical and categorical variables were analysed to uncover behavioural patterns, evaluate data quality, and guide feature engineering.</br>
 
 The analysis explored:</br>
 - **Customer demographics** (age, education, occupation, marital status)</br>
@@ -89,6 +89,7 @@ Insights from the EDA informed the feature selection process and the development
 ---
 
 **📥 Data Preparation & Feature Engineering**</br>
+
 To improve model performance and ensure the data was suitable for machine learning, several pre-processing and feature engineering techniques were applied.</br>
 
 | Transformation                        | Purpose           | Business Value        |
@@ -97,7 +98,7 @@ To improve model performance and ensure the data was suitable for machine learni
 | **Feature Selection**                 | Identify the strongest predictors of customer subscription    | Improves prediction accuracy  |
 | **Age Segmentation**                  | Created meaningful age bands  | Improves customer targeting       |
 | **Campaign Grouping**                 | Grouped contact frequency into business-friendly bands    | Simplifies marketing analysis        |
-| **One-Hot Encoding**                  | Converted categories into model-ready variables   | Enables model training      |
+| **One-Hot Encoding**                  | Converted categories into model-ready variables   | Enables machine learning models      |
 | **Feature Scaling**                   | Standardised numerical variables  | Improves model stability      |
 | **Stratified Split**                  | Preserved the original class distribution (89%-No, 11%-Yes)   | Ensures reliable model evaluation |
 
@@ -107,7 +108,7 @@ To improve model performance and ensure the data was suitable for machine learni
 
 The final model combined customer profile, campaign history, current campaign details and economic conditions..</br>
 
-| Customer Profile      | Campaign History      | Campaign Characteristics      | Economic Conditions   |  
+| Customer Profile      | Campaign History      | Current Campaign      | Economic Conditions   |  
 |---------------------- | --------------------- | ----------------------------- | --------------------- |
 | • Age Group</br> • Job</br> • Education</br> • Marital Status</br> | • Previous Campaign Outcome</br> • Previous Contacts</br> • Previously Contacted</br> </br> | • Contact Method</br> • Campaign Month</br> • Campaign Contact Group</br> </br>| • Euribor 3-Month Rate</br> • Consumer Confidence Index</br> </br></br>  | 
 
@@ -119,6 +120,8 @@ The final model combined customer profile, campaign history, current campaign de
 | Modelling Workflow    | Evaluation Metrics    |
 |-----------------------| ----------------------|
 | 🧠 Business Problem </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering </br> 📏 Model 1: Standard Logistic Regression </br> 🤔 Class Imbalance Identified </br> ⚖️ Model 2: Balanced Logistic Regression </br> ☯️ Model Comparison </br> 💡Business Recommendation | 🎯 Accuracy</br> 🔍 Precision</br> ✅ Recall</br> 🏎️ F1 Score</br> 🔢 Confusion Matrix</br> </br> </br> </br>  | 
+
+Two Logistic Regression models were evaluated to determine the optimal balance between identifying potential subscribers and minimising unnecessary customer contacts.
 
 **📏 Model 1: Standard Logistic Regression**</br>
 **Purpose:** Establish a baseline classification model using the original dataset.</br>
@@ -150,6 +153,18 @@ class_weight='balanced'
 <details open>
 <summary><b>📊 MODEL COMPARISON</b></summary></br>
 
+**🏆 Best Performing Model**
+
+**⚖️ Balanced Logistic Regression**
+
+Despite a reduction in overall accuracy (80%) and precision (31%), the Balanced Logistic Regression model delivered significantly stronger business value by **identifying nearly three times more potential subscribers** and **reducing missed opportunities by over 50%**.</br>
+
+For customer acquisition campaigns, missing a potential subscriber is generally more costly than contacting a customer who ultimately does not subscribe. 
+
+Therefore, the Balanced Logistic Regression model provides a more practical and effective solution for supporting targeted marketing decisions.</br>
+
+---
+
 | Metric                | Standard LR  | Balanced LR  | Better Model? | Business Value               |
 | --------------------- | ----------------------------- | ----------------------------- | ------------- | ------------------------------|
 | Accuracy              | **90%**                       | 80%                           | Standard      | ⬆️ Higher overall prediction accuracy       | 
@@ -161,19 +176,7 @@ class_weight='balanced'
 | FP  | **125**                       | 1,277                         | Standard      | ⬇️ Lower marketing cost and effort  |
 | TN   | **7,185**                     | 6,033                         | Standard      | ⬆️ Correctly ruled out unlikely subscribers   |
 
-**Abbreviations:** TP = True Positive • FP = False Positive • TN = True Negative • FN = False Negative</br>
-
----
-
-**🏆 Best Performing Model**
-
-**⚖️ Balanced Logistic Regression**
-
-Despite a reduction in overall accuracy (80%) and precision (31%), the Balanced Logistic Regression model delivered significantly stronger business value by **identifying nearly three times more potential subscribers** and **reducing missed opportunities by over 50%**.</br>
-
-For customer acquisition campaigns, missing a potential subscriber is generally more costly than contacting a customer who ultimately does not subscribe. 
-
-Therefore, the Balanced Logistic Regression model provides a more practical and effective solution for supporting targeted marketing decisions.</br>
+**Abbreviations:** TP = True Positive • FN = False Negative • FP = False Positive • TN = True Negative</br>
 
 </details>
 
@@ -190,7 +193,7 @@ Therefore, the Balanced Logistic Regression model provides a more practical and 
 
 4. **Retirees and students** responded more positively than other customer groups.</br>
 
-5. **Consumer confidence and interest rates** influenced subscription behaviour.</br>
+5. **Macroeconomic conditions such as consumer confidence and interest rates** influenced subscription behaviour.</br>
 
 </details>
 
@@ -216,11 +219,11 @@ Therefore, the Balanced Logistic Regression model provides a more practical and 
 <details open>
 <summary><b>✨ FUTURE ENHANCEMENTS</b></summary></br>
 
-**1. 🌐 Deploy an Interactive Streamlit Application**</br>
+**1. 🌲 Evaluate Random Forest, XGBoost and Gradient Boosting.**</br>
 
-Allow users to input customer attributes and receive real-time subscription predictions.</br>
+Compare predictive performance against Logistic Regression and identify the best-performing model.</br>
 
-**Why it matters:** A practical application of machine learning for users by having an accessible decision-support tool.</br>
+**Why it matters:** Improve Recall, F1 Score, and overall predictive performance by capturing complex, non-linear relationships.</br>
 
 **2. 🔍 Apply SHAP (SHapley Additive exPlanations) for model explainability.**</br>
 
@@ -228,11 +231,11 @@ Explains how individual features influence prediction outcomes and improve model
 
 **Why it matters:** Understand the key drivers of subscription decisions.</br>
 
-**3. 🌲 Evaluate Random Forest, XGBoost and Gradient Boosting.**</br>
+**3. 🌐 Deploy an Interactive Streamlit Application**</br>
 
-Compare predictive performance against Logistic Regression and identify the best-performing model.</br>
+Allow users to input customer attributes and receive real-time subscription predictions.</br>
 
-**Why it matters:** Improve Recall, F1 Score, and overall predictive performance by capturing complex, non-linear relationships.</br>
+**Why it matters:** A practical application of machine learning for users by having an accessible decision-support tool.</br>
 
 </details>
 
@@ -247,11 +250,13 @@ Compare predictive performance against Logistic Regression and identify the best
 | Precision              | Of all customers the model predicted **would subscribe**, how many actually did. A higher precision means fewer unnecessary marketing calls.</br>        |
 | Recall              | Of all customers who actually subscribed, how many did the model successfully identified. **A higher recall means fewer missed sales opportunities.**</br>      |
 | F1 Score              | A single measure that balances **Precision** and **Recall**, showing how well the model identifies subscribers while minimizing incorrect predictions.</br>       |
-| True Negative (TN)              | Model correctly predicted that customer will NOT subscribe</br>     |
-| True Positive (TP)              | Model correctly predicted that customer WILL subscribe</br>     |
-| False Positive (FP)              | Model predicted that customer WILL subscribe BUT actual result customer did NOT subscribe</br> The bank targeted a customer expecting them to subscribe, but the customer ultimately DID NOT subscribe.</br>       |
-| False Negative (FN)              | Model predicted customer will NOT subscribe BUT actual result customer WOULD HAVE subscribed</br>  The bank failed to identify a customer who was ACTUALLY LIKELY to subscribe. The bank may not contact them, miss potential revenue and lose conversion opportunities.</br>      |
+| TP              | Model correctly predicted that customer WILL subscribe</br>     |
+| FN              | Model predicted customer will NOT subscribe BUT actual result customer WOULD HAVE subscribed</br>  The bank failed to identify a customer who was ACTUALLY LIKELY to subscribe. The bank may not contact them, miss potential revenue and lose conversion opportunities.</br>      |
+| FP              | Model predicted that customer WILL subscribe BUT actual result customer did NOT subscribe</br> The bank targeted a customer expecting them to subscribe, but the customer ultimately DID NOT subscribe.</br>       |
+| TN              | Model correctly predicted that customer will NOT subscribe</br>     |
 | Confusion Matrix      | Shows the number of correct and incorrect predictions, providing insight into business trade-offs such as missed subscribers and unnecessary customer contacts.</br>      |
+
+**Abbreviations:** TP = True Positive • FN = False Negative • FP = False Positive • TN = True Negative</br>
 
 </details>
 
@@ -264,7 +269,7 @@ Compare predictive performance against Logistic Regression and identify the best
 |-------------------|-----------------------------------------------|
 | Source            | Portuguese Bank Marketing Dataset             |
 | Description       | Campaign results for a term deposit product   |
-| Link              | [View Dataset](data/6.18_bank.csv)            |
+| Link              | [View Dataset](data/6.18_bank.csv.zip)        |
 | No. of Records    | 41,188                                        |
 | Target Variable   | Subscription (Yes/No)                         |
 | Features          | 20+                                           |
@@ -291,6 +296,8 @@ Compare predictive performance against Logistic Regression and identify the best
 
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
+
+⭐ View More Analytics Projects</br>
 💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)</br>
 
 </details>
