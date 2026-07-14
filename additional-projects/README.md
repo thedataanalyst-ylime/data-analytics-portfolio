@@ -1,24 +1,33 @@
 ### 📊 Additional Data Analytics Projects
 
-A collection of additional analytics projects completed during and beyond the General Assembly AI-Native Data Analytics Bootcamp.
-
-While my **Featured Projects** demonstrate comprehensive end-to-end analytics workflows and business impact, these projects showcase a broader range of analytical techniques, visualization tools, APIs, exploratory analysis, and business problem solving across multiple domains.
+These additional projects complement my [Featured Projects](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects) by showcasing a broader range of **analytics techniques, visualization tools, APIs, SQL, Python, Tableau, and Power BI** across multiple industries and business domains.</br>
 
 ---
 
 <details open>
 <summary><b>👓 EXECUTIVE SUMMARY</b></summary></br>
 
-These projects demonstrate hands-on experience applying SQL, Python, Tableau, and Power BI to analyze real-world datasets across industries including finance, retail, aviation, public policy, sports, environmental sustainability, healthcare, and real estate.
+These projects demonstrate practical application of analytics to solve business problems using SQL, Python, Tableau, and Power BI. They span **multiple industries and reinforce core skills** in data preparation, exploratory analysis, dashboard development, visualization, API integration, and business storytelling.</br>
 
-Each project focuses on transforming raw data into meaningful insights through data cleaning, exploratory analysis, visualization, dashboard development, or API integration.
+
+**🎯 What You'll Find**</br>
+
+Across these projects you'll see examples of:</br>
+
+✅ SQL Analysis</br>
+✅ Python Data Analytics</br>
+✅ Interactive Dashboards</br>
+✅ Business Storytelling</br>
+✅ API Integration</br>
+✅ Exploratory Data Analysis</br>
+✅ Real-world Business Datasets</br>
 
 </details>
 
 ---
 
 <details open>
-<summary><b>📌 OVERVIEW</b></summary></br>
+<summary><b>📌 PORTFOLIO OVERVIEW</b></summary></br>
 
 | Category | Details |
 |-----------|---------|
@@ -34,36 +43,19 @@ Each project focuses on transforming raw data into meaningful insights through d
 <details open>
 <summary><b>💼 PROJECT COLLECTION</b></summary></br>
 
-| Project | Technologies | Skills Demonstrated |
-|---------|--------------|--------------------|
-| ✈️ Airport Delays Analysis | Power BI | Interactive Dashboard, KPI Analysis, Data Visualization |
-| 🏡 HDB Resale Market Analysis | Python, Tableau | EDA, Data Cleaning, Dashboard Development |
-| 🇺🇸 U.S. Presidential Elections | Tableau | Geospatial Analysis, Storytelling, Dashboard Design |
-| 💨 Air Quality APIs | Python, APIs | API Integration, Data Wrangling, Visualization |
-| ☕ Coffee Shop Sales Analysis | Python | Business Analysis, EDA, Data Visualization |
-| 📈 Financial Data APIs | Python, APIs | Financial Data Extraction, Time Series Visualization |
-| ❤️ HR Attrition Analysis | Tableau | Workforce Analytics, Dashboard Design |
-| 🥃 Iowa Liquor Sales | SQL | SQL Querying, Aggregation, Business Insights |
-| ⚽ FIFA World Cup Analysis | Tableau | Sports Analytics, Interactive Dashboard |
+Each project addresses a real-world business problem, demonstrating the practical application of analytics to uncover insights, support decision-making, and communicate findings through data-driven storytelling.</br>
 
-</details>
-
----
-
-<details open>
-<summary><b>🎯 CORE SKILLS DEMONSTRATED</b></summary></br>
-
-Across these projects, I applied practical analytics skills including:
-
-- SQL querying and data extraction
-- Python data analysis using Pandas and NumPy
-- Exploratory Data Analysis (EDA)
-- Data cleaning and preprocessing
-- Interactive dashboard development
-- Data storytelling
-- API integration and data acquisition
-- Business insight generation
-- KPI reporting and visualization
+| Project | Business Focus  | Technologies          | Key Analytics Capabilities |
+|---------|-----------------|-----------------------|-------------------------------------|
+| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | KPI Reporting, Interactive Dashboard Development, Operational Performance Analysis |
+| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Interactive Data Visualization |
+| 🇺🇸 U.S. Presidential Elections | Election & Demographic Analytics | Tableau | Geospatial Analytics, Data Storytelling, Interactive Dashboard Design |
+| 💨 Air Quality APIs | Environmental Analytics | Python, APIs | API Data Integration, Data Wrangling, Environmental Data Visualization |
+| ☕ Coffee Shop Sales Analysis | Retail Performance Analytics | Python | EDA, Business Performance Analysis, Data Visualization |
+| 📈 Financial Data APIs | Financial Market Analysis | Python, APIs | Financial Data Acquisition, Time-Series Analysis, Data Visualization |
+| ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Executive Dashboard Design, HR KPI Visualization |
+| 🥃 Iowa Liquor Sales | Retail Sales Analytics | SQL | SQL Data Analysis, Data Aggregation, Business Insight Generation |
+| ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Interactive Dashboard Development, Sports Data Visualization, Storytelling |
 
 </details>
 
@@ -72,22 +64,20 @@ Across these projects, I applied practical analytics skills including:
 <details open>
 <summary><b>🎯 CONTINUOUS LEARNING JOURNEY</b></summary></br>
 
-These projects reflect my continuous growth as a data analytics professional by exploring different industries, datasets, analytical techniques, and visualization platforms.
-
-Together with my [Featured Projects](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects), they demonstrate a well-rounded analytics portfolio covering the complete analytics lifecycle—from data acquisition and preparation through analysis, visualization, predictive modelling, and business recommendations.
+Together, these projects demonstrate continuous growth in applying analytics across diverse industries, datasets, and business problems while strengthening technical and storytelling capabilities.</br>
 
 </details>
 
 ---
 
 <details open>
-<summary><b>🎯 FEATURED PROJECTS</b></summary></br>
+<summary><b>🌟 EXPLORE FEATURED PROJECTS</b></summary></br>
 
-For more comprehensive end-to-end analytics case studies, explore my Featured Projects:
+For more comprehensive end-to-end analytics case studies, explore my Featured Projects:</br>
 
-- 🌍 [Global Food Waste & Sustainability Analytics](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)
-- 👥 [UK Gender Pay Gap Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap)
-- 📞 [Banking Marketing Campaign Analytics](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign)
+- 🌍 [Global Food Waste & Sustainability Analytics](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability)</br>
+- 🇬🇧👩👱🏻‍♂️ [UK Gender Pay Gap Analysis](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap)</br>
+- 📈 [Banking Marketing Campaign Analytics](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign)</br>
 
 </details>
 
@@ -95,7 +85,7 @@ For more comprehensive end-to-end analytics case studies, explore my Featured Pr
 
 **🤝 Let's Connect!**</br>
 
-If you're interested in discussing data analytics, business intelligence, banking transformation, or potential opportunities, I'd love to connect.
+If you're looking for someone who combines business transformation experience with modern data analytics skills, I'd welcome the opportunity to connect.</br>
 
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
