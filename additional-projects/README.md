@@ -50,8 +50,8 @@ Each project addresses a real-world business problem, demonstrating the practica
 
 | Project | Business Focus  | Technologies          | Key Capabilities |
 |---------|-----------------|-----------------------|-------------------------------------|
-| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | Operational Performance Analytics, KPI Reporting, Dashboard Development, |
-| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Geospatial Visualization, Dashboard Development |
+| ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | Operational Performance Analytics, KPI Reporting, Dashboard Development |
+| 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, Geospatial Visualization, EDA, Dashboard Development |
 | ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Data Storytelling, Data Visualization |
 | ☕ Coffee Shop Sales Analysis | Retail Performance Analytics | Python | EDA, Business Performance Analysis, Data Visualization |
 
