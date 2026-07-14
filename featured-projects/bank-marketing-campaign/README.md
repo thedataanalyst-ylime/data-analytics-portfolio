@@ -23,7 +23,7 @@
 
 Financial institutions rely on direct marketing campaigns to promote term deposit products, but low subscription rates make customer targeting challenging.</br>
 
-This project applies EDA and machine learning to **identify the strongest drivers of customer subscription and predict high-potential customers.**.</br>
+This project applies EDA and machine learning to **identify the strongest drivers of customer subscription and predict high-potential customers.**</br>
 
 ---
 
@@ -32,7 +32,7 @@ This project applies EDA and machine learning to **identify the strongest driver
 | **Analytics Capabilities** | 🧠 Business Analysis </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering</br> 🤖 Machine Learning </br> 📝 Model Evaluation </br> 💡 Recommendations</br> 📊 Data Storytelling</br> |
 | **Technology Stack** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) • ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) • ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) • ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) • ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) • ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 | **Models Evaluated** | Standard Logistic Regression • Balanced Logistic Regression |
-| **Business Outcome** | Improved Recall from 21% → 62%, 3× more subscribers identified  |
+| **Business Outcome** | Improved Recall from 21% → 62% • Nearly 3× more subscribers identified  |
 | **Project Artefacts** | 📓 [Jupyter Notebook](notebooks/bank-marketing-campaign-notebook.ipynb) |
 
 </details>
@@ -63,7 +63,7 @@ The selected Balanced Logistic Regression model delivered measurable business va
 
 **🥡 Business Takeaway**</br>
 
-For customer acquisition campaigns, **identifying more potential subscribers creates greater business value than maximising overall prediction accuracy.** The Balanced Logistic Regression model therefore provides a better balance between marketing efficiency and revenue opportunity.</br>
+For customer acquisition campaigns, **identifying potential subscribers delivers greater business value than maximising overall accuracy.** The Balanced Logistic Regression model therefore provides a better balance between marketing efficiency and revenue opportunity.</br>
 
 </details>
 
@@ -76,7 +76,7 @@ For customer acquisition campaigns, **identifying more potential subscribers cre
 
 EDA was conducted to understand customer subscription behaviour, identify meaningful relationships between variables, and select the most relevant features for predictive modelling. Numerical and categorical variables were analysed to uncover behavioural patterns, evaluate data quality, and guide feature engineering.</br>
 
-The analysis explored:</br>
+EDA focused on six key areas:</br>
 - **Customer demographics** (age, education, occupation, marital status)</br>
 - Previous campaign interactions and customer engagement history</br>
 - **Marketing campaign characteristics** (contact method, month, number of contacts)</br>
@@ -106,7 +106,7 @@ To improve model performance and ensure the data was suitable for machine learni
 
 **📝 Selected Predictive Features**</br>
 
-The final model combined customer profile, campaign history, current campaign details and economic conditions..</br>
+The final model combined customer, campaign and economic features identified during EDA.</br>
 
 | Customer Profile      | Campaign History      | Current Campaign      | Economic Conditions   |  
 |---------------------- | --------------------- | ----------------------------- | --------------------- |
@@ -117,11 +117,16 @@ The final model combined customer profile, campaign history, current campaign de
 <details open>
 <summary><b>🤖 PREDICTIVE MODELING</b></summary></br>
 
+**Why Logistic Regression?**</br>
+Logistic Regression was selected because this is a **binary classification** problem, where the objective is to predict whether a customer will subscribe ("Yes") or not ("No"). It provides an interpretable model that shows how customer, campaign, and economic factors influence subscription likelihood, enabling business stakeholders to make transparent and data-driven marketing decisions.</br>
+
 | Modelling Workflow    | Evaluation Metrics    |
 |-----------------------| ----------------------|
 | 🧠 Business Problem </br> 🔍 Exploratory Data Analysis </br> 💻 Feature Engineering </br> 📏 Model 1: Standard Logistic Regression </br> 🤔 Class Imbalance Identified </br> ⚖️ Model 2: Balanced Logistic Regression </br> ☯️ Model Comparison </br> 💡Business Recommendation | 🎯 Accuracy</br> 🔍 Precision</br> ✅ Recall</br> 🏎️ F1 Score</br> 🔢 Confusion Matrix</br> </br> </br> </br>  | 
 
-Two Logistic Regression models were evaluated to determine the optimal balance between identifying potential subscribers and minimising unnecessary customer contacts.
+Two Logistic Regression models were evaluated to determine the optimal balance between identifying potential subscribers and minimising unnecessary customer contacts.</br>
+
+Objective is to maximise business value by identifying as many potential subscribers as possible while maintaining acceptable marketing efficiency.
 
 **📏 Model 1: Standard Logistic Regression**</br>
 **Purpose:** Establish a baseline classification model using the original dataset.</br>
@@ -202,7 +207,7 @@ Therefore, the Balanced Logistic Regression model provides a more practical and 
 <details open>
 <summary><b>💡 BUSINESS RECOMMENDATIONS</b></summary></br>
 
-1. Deploy the **Balanced Logistic Regression model** for more effective marketing campaigns.</br>
+1. Deploy the **Balanced Logistic Regression model** for future customer acquisition campaigns.</br>
    
 2. Prioritise customers with **successful previous campaign responses**.</br>
 
@@ -282,11 +287,10 @@ Allow users to input customer attributes and receive real-time subscription pred
 <details>
 <summary><b>🗂️ REPOSITORY STRUCTURE</b></summary></br>
 
-| Folder        | Description                |
-| ------------- | -------------------------- |
-| 📁 charts     | Exploratory Visualisations |
-| 📁 data       | Raw Dataset               |
-| 📁 notebooks  | End-to-end Python analysis |
+| Folder        | Description                   |
+| ------------  | ----------------------------- |
+| 📁 data       | Raw Dataset                   |
+| 📁 notebooks  | End-to-end Python analysis    |
 
 </details>
 
@@ -297,7 +301,7 @@ Allow users to input customer attributes and receive real-time subscription pred
 📧 [Email](mariaemilysy@gmail.com)</br>
 💼 [LinkedIn](https://www.linkedin.com/in/emilysy/)</br>
 
-⭐ View More Analytics Projects</br>
+**⭐ View More Analytics Projects**</br>
 💻 [Data Analytics Portfolio](https://github.com/thedataanalyst-ylime/data-analytics-portfolio)</br>
 
 </details>
