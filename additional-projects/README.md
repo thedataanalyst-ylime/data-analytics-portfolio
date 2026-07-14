@@ -34,7 +34,7 @@ Across these projects you'll see examples of:</br>
 |-----------|---------|
 | **Analytics Capabilities** | Data Cleaning • Exploratory Data Analysis • SQL Analysis • Dashboard Development • Data Visualization • API Integration • Storytelling |
 | **Tools & Technologies** | SQL • Python • Pandas • NumPy • Tableau • Power BI • Plotly • REST APIs • Jupyter Notebook |
-| **Project Domains** | Finance • Banking • Real Estate • Aviation • Healthcare • Environment • Retail • Sports • Government Data |
+| **Project Domains** | Finance • Real Estate • Aviation • Environment • Retail • Sports • Public Elections |
 | **Deliverables** | SQL Scripts • Jupyter Notebooks • Tableau Dashboards • Power BI Reports • Visualisations |
 
 </details>
@@ -52,7 +52,7 @@ Each project addresses a real-world business problem, demonstrating the practica
 |---------|-----------------|-----------------------|-------------------------------------|
 | ✈️ Airport Delays Analysis | Aviation Operations Analytics | Power BI | KPI Reporting, Dashboard Development, Operational Performance Analysis |
 | 🏡 HDB Resale Market Analysis | Housing Market Analytics | Python, Tableau, APIs | Data Preparation, EDA, Dashboard Development |
-| ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Data Visualization |
+| ❤️ HR Attrition Analysis | Workforce Analytics | Tableau | Data Storytelling, Data Visualization |
 | ☕ Coffee Shop Sales Analysis | Retail Performance Analytics | Python | EDA, Business Performance Analysis, Data Visualization |
 
 **💼 Finance & SQL Analytics**</br>
@@ -68,14 +68,7 @@ Each project addresses a real-world business problem, demonstrating the practica
 |---------|-----------------|-----------------------|-------------------------------------|
 | 💨 Air Quality APIs | Environmental Analytics | Python, APIs | API Data Integration, Data Wrangling, Data Visualization |
 | 🇺🇸 U.S. Presidential Elections | Election & Demographic Analytics | Tableau | Data Storytelling, Dashboard Development |
-| ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Data Visualization, Data Storytelling |
-
-</details>
-
----
-
-<details open>
-<summary><b>🎯 CONTINUOUS LEARNING JOURNEY</b></summary></br>
+| ⚽ FIFA World Cup Analysis | Sports Analytics | Tableau | Data Storytelling, Data Visualization |
 
 Together, these projects demonstrate continuous growth in applying analytics across diverse industries, datasets, and business challenges while strengthening technical and storytelling capabilities.</br>
 
