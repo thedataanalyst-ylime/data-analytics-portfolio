@@ -56,7 +56,7 @@ Without predictive analytics, the bank risks:</br>
 **💎 Business Value**</br>
 
 The selected Balanced Logistic Regression model delivered measurable business value by:</br>
-- Identifying **nearly 3× more **potential subscribers</br>
+- Identifying **nearly 3× more** potential subscribers</br>
 - Reducing missed sales opportunities by **over 50%**</br>
 - Improving **Recall from 21% to 62%**</br>
 - Supporting transparent and **data-driven marketing decisions**</br>
@@ -78,10 +78,10 @@ EDA was conducted to understand customer subscription behaviour, identify meanin
 
 EDA focused on six key areas:</br>
 - **Customer demographics** (age, education, occupation, marital status)</br>
-- Previous campaign interactions and customer engagement history</br>
+- **Previous campaign interactions** and customer engagement history</br>
 - **Marketing campaign characteristics** (contact method, month, number of contacts)</br>
 - **Economic indicators** (Euribor rate and Consumer Confidence Index)</br>
-- Relationships between customer attributes and term deposit subscription outcomes</br>
+- **Relationships between customer attributes** and term deposit subscription outcomes</br>
 - **Class imbalance** between subscribers ("Yes") and non-subscribers ("No")</br>
 
 Insights from the EDA informed the feature selection process and the development of both Logistic Regression models.</br>
