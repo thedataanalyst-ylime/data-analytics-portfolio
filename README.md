@@ -10,10 +10,10 @@ A collection of end-to-end analytics projects demonstrating **SQL, Python, Table
 <details open>
 <summary><b>👋 ABOUT ME</b></summary></br>
 
-I am **Emily Sy**, a Data Analyst with with extensive experience in banking transformation, business analysis, and portfolio governance, combining deep business expertise with modern analytics to solve business problems through data-driven insights.</br>
+I am **Emily Sy**, a Data Analyst with extensive experience in banking transformation, business analysis, and portfolio governance, combining deep business expertise with modern analytics to solve business problems through data-driven insights.</br>
 
 💪 **DOMAIN EXPERTISE**</br>
-Data Analytics | Banking Transformatin | Business Intelligence | Portfolio Governance</br>
+Data Analytics | Business Intelligence | Banking Transformatin | Portfolio Governance</br>
 
 🌱 **AREAS OF INTEREST**</br>
 - Data analytics, visualization, and storytelling for data-driven decision-making</br>
