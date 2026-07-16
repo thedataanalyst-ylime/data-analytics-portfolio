@@ -12,10 +12,10 @@ Explore a collection of end-to-end analytics projects that transform real-world 
 
 I am **Emily Sy**, a Data Analyst with with extensive experience in banking transformation, business analysis, and portfolio governance, combining deep business expertise with modern analytics to solve business problems through data-driven insights.</br>
 
-🌱 **DOMAIN EXPERTISE**</br>
-Banking Transformatin | Business Intelligence | Sustainability | Employee Engagement</br>
+💪 **DOMAIN EXPERTISE**</br>
+Banking Transformatin | Business Intelligence | Data Analytics | Portfolio Governance</br>
 
-🚪 **OPEN TO OPPORTUNITIES**</br>
+🌱 **AREAS OF INTEREST**</br>
 - Data analytics, visualization, and storytelling for data-driven decision-making</br>
 - Banking transformation, data governance, and business intelligence</br>
 - Sustainability, workforce analytics, and organisational effectiveness</br>
@@ -26,11 +26,11 @@ Banking Transformatin | Business Intelligence | Sustainability | Employee Engage
 
 🚀 **FEATURED PROJECTS**</br>
 
-| Project       | Tools         | Skills        | Project Summary                   | Link          |
+| Project       | Tools         | Skills        | Business Impact                   | Link          |
 |---------------|---------------|---------------|-----------------------------------|---------------|
-| **🌍 Global Food Waste & Sustainability Analysis** | • Python</br> • Tableau</br> • Scikit-Learn</br> • Git</br> • GitHub</br> • Streamlit</br> • Canva</br> • Microsoft PowerPoint</br> | • Exploratory Data Analysis</br> • Machine Learning</br> • Tableau</br> • Data Visualization</br> | End-to-end analytics project integrating global datasets such as food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability) | 
-| **🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis** | • SQL</br> | • Exploratory Data Analysis</br> • Data Visualization</br> | SQL analysis of 10,000+ UK employers uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap) | 
-| **📈 Banking Marketing Campaign Analysis** | • Python</br> • Scikit-Learn</br> | • Exploratory Data Analysis</br> • Machine Learning</br> | Machine learning model identifying customers most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign) |
+| **🌍 Global Food Waste & Sustainability Analysis** | • Python</br> • Tableau</br> • Scikit-Learn</br> • Git</br> • GitHub</br> • Streamlit</br> | • Exploratory Data Analysis</br> • Machine Learning</br> • Tableau</br> • Data Visualization</br> | End-to-end analytics project **integrating global datasets covering 230+ countries** on food waste, economic, demographic, and climate, building Tableau dashboards and a Random Forest predictive model to identify food waste drivers. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability) | 
+| **🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis** | • SQL</br> | • Exploratory Data Analysis</br> • Data Visualization</br> | SQL analysis of **10,000+ UK employers** uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap) | 
+| **📈 Banking Marketing Campaign Analysis** | • Python</br> • Scikit-Learn</br> | • Exploratory Data Analysis</br> • Machine Learning</br> | Machine learning model identifying **45,000+ customer marketing records** most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign) |
 
 ---
 
@@ -91,6 +91,8 @@ Banking Transformatin | Business Intelligence | Sustainability | Employee Engage
 📊 Data Visualization & Storytelling</br>
 📋 Executive Reporting</br>
 💡 Business Recommendations</br>
+
+</details>
 
 ---
 
