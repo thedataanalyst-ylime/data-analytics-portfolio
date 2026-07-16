@@ -26,8 +26,8 @@ Data Analytics | Banking Transformatin | Business Intelligence | Portfolio Gover
 
 🚀 **FEATURED PROJECTS**</br>
 
-| Project               | Tools             | Analytics Capabilities        | Business Impact                   | Link          |
-|-----------------------|-------------------|---------------|-----------------------------------|---------------|
+| Project                       | Tools                 | Analytics Capabilities            | Business Impact                   | Link          |
+|-------------------------------|-----------------------|-----------------------------------|-----------------------------------|---------------|
 | **🌍 Global Food Waste & Sustainability Analysis** | • Python</br> • Tableau</br> • Scikit-Learn</br> • Git</br> • GitHub</br> • Streamlit</br> | • Exploratory Data Analysis</br> • Machine Learning</br> • Tableau</br> • Data Visualization</br> | Integrated datasets covering **230+ countries** to identify the key drivers of household food waste through Tableau dashboards and Random Forest predictive modelling. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/global-food-waste-sustainability) | 
 | **🇬🇧👩👱🏻‍♂️ UK Gender Pay Gap Analysis** | • SQL</br> | • Exploratory Data Analysis</br> • Data Visualization</br> | SQL analysis of **10,000+ UK employers** uncovering workforce and pay equity patterns across industries, regions, and organisation sizes through advanced querying and business analysis. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/uk-gender-pay-gap) | 
 | **📈 Banking Marketing Campaign Analysis** | • Python</br> • Scikit-Learn</br> | • Exploratory Data Analysis</br> • Machine Learning</br> | Machine learning model identifying **45,000+ customer marketing records** most likely to subscribe to term deposits to enable  targeted marketing and improve campaign effectiveness. | [View Project](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/featured-projects/bank-marketing-campaign) |
@@ -41,20 +41,10 @@ Data Analytics | Banking Transformatin | Business Intelligence | Portfolio Gover
 
  **[View all projects ➡️](https://github.com/thedataanalyst-ylime/data-analytics-portfolio/tree/main/additional-projects)**</br>
 
-**📊 Business Analytics**</br>
-    🏡 HDB Resale Market Analysis</br>
-    ❤️ HR Attrition Analysis</br>
-    ✈️ Airport Delays Analysis</br>
-    ☕ Coffee Shop Sales Analysis</br>
 
-**💼 Financial Analytics**</br>
-    📈 Financial Data APIs</br>
-    🥃 Iowa Liquor Sales</br>
-
-**🌍 Public Sector & Environmental Analytics**</br>
-    💨 Air Quality APIs</br>
-    🇺🇸 U.S. Presidential Elections</br>
-    ⚽ FIFA World Cup Analysis</br>
+| 📊 Business Analytics             | 💼 Financial Analytics                | 🌍 Public Sector & Environmental Analytics       |
+|-----------------------------------| -------------------------------------|--------------------------------------------------|
+🏡 HDB Resale Market Analysis</br> ❤️ HR Attrition Analysis</br> ✈️ Airport Delays Analysis</br> ☕ Coffee Shop Sales Analysis</br>     | 📈 Financial Data APIs</br> 🥃 Iowa Liquor Sales</br> </br> </br>      |  💨 Air Quality APIs</br> 🇺🇸 U.S. Presidential Elections</br>  ⚽ FIFA World Cup Analysis</br></br>    |
 
 </details>
 
